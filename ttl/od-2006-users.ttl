@@ -1,0 +1,5501 @@
+@prefix od: <http://purl.org/originaldissent/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """Aryan_Chum""" ;
+    rdfs:label """Aryan_Chum""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """Buchanan""" ;
+    rdfs:label """Buchanan""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """David Ben-Ariel""" ;
+    rdfs:label """David Ben-Ariel""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """Gaita of Lombardy""" ;
+    rdfs:label """Gaita of Lombardy""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """MissBushie""" ;
+    rdfs:label """MissBushie""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """Pinochet""" ;
+    rdfs:label """Pinochet""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """SomeAmishGuy""" ;
+    rdfs:label """SomeAmishGuy""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """Texas Dissident""" ;
+    rdfs:label """Texas Dissident""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """White Nationalist""" ;
+    rdfs:label """White Nationalist""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """White Shadow""" ;
+    rdfs:label """White Shadow""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """antonio144""" ;
+    rdfs:label """antonio144""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """croesus""" ;
+    rdfs:label """croesus""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """dumas malone""" ;
+    rdfs:label """dumas malone""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """medieval""" ;
+    rdfs:label """medieval""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """realpsychologist""" ;
+    rdfs:label """realpsychologist""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """toddbrendanfahey""" ;
+    rdfs:label """toddbrendanfahey""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """whistler's mutha""" ;
+    rdfs:label """whistler's mutha""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-0 a foaf:Person, od:User ;
+    od:userId 0 ;
+    foaf:name """whitehomeland""" ;
+    rdfs:label """whitehomeland""" ;
+    schema:url <https://kitsaplabs.com/od/user/0> .
+
+od:user-1 a foaf:Person, od:User ;
+    od:userId 1 ;
+    foaf:name """Texas Dissident""" ;
+    rdfs:label """Texas Dissident""" ;
+    schema:url <https://kitsaplabs.com/od/user/1> .
+
+od:user-2 a foaf:Person, od:User ;
+    od:userId 2 ;
+    foaf:name """Mercuria""" ;
+    rdfs:label """Mercuria""" ;
+    schema:url <https://kitsaplabs.com/od/user/2> .
+
+od:user-3 a foaf:Person, od:User ;
+    od:userId 3 ;
+    foaf:name """PnbC""" ;
+    rdfs:label """PnbC""" ;
+    schema:url <https://kitsaplabs.com/od/user/3> .
+
+od:user-4 a foaf:Person, od:User ;
+    od:userId 4 ;
+    foaf:name """knowquest""" ;
+    rdfs:label """knowquest""" ;
+    schema:url <https://kitsaplabs.com/od/user/4> .
+
+od:user-5 a foaf:Person, od:User ;
+    od:userId 5 ;
+    foaf:name """amundsen""" ;
+    rdfs:label """amundsen""" ;
+    schema:url <https://kitsaplabs.com/od/user/5> .
+
+od:user-7 a foaf:Person, od:User ;
+    od:userId 7 ;
+    foaf:name """AGAviator""" ;
+    rdfs:label """AGAviator""" ;
+    schema:url <https://kitsaplabs.com/od/user/7> .
+
+od:user-8 a foaf:Person, od:User ;
+    od:userId 8 ;
+    foaf:name """Ragnar""" ;
+    rdfs:label """Ragnar""" ;
+    schema:url <https://kitsaplabs.com/od/user/8> .
+
+od:user-9 a foaf:Person, od:User ;
+    od:userId 9 ;
+    foaf:name """Primal""" ;
+    rdfs:label """Primal""" ;
+    schema:url <https://kitsaplabs.com/od/user/9> .
+
+od:user-10 a foaf:Person, od:User ;
+    od:userId 10 ;
+    foaf:name """MikeKr1""" ;
+    rdfs:label """MikeKr1""" ;
+    schema:url <https://kitsaplabs.com/od/user/10> .
+
+od:user-11 a foaf:Person, od:User ;
+    od:userId 11 ;
+    foaf:name """Unalienable""" ;
+    rdfs:label """Unalienable""" ;
+    schema:url <https://kitsaplabs.com/od/user/11> .
+
+od:user-12 a foaf:Person, od:User ;
+    od:userId 12 ;
+    foaf:name """carenot""" ;
+    rdfs:label """carenot""" ;
+    schema:url <https://kitsaplabs.com/od/user/12> .
+
+od:user-13 a foaf:Person, od:User ;
+    od:userId 13 ;
+    foaf:name """exodus""" ;
+    rdfs:label """exodus""" ;
+    schema:url <https://kitsaplabs.com/od/user/13> .
+
+od:user-14 a foaf:Person, od:User ;
+    od:userId 14 ;
+    foaf:name """kUSS""" ;
+    rdfs:label """kUSS""" ;
+    schema:url <https://kitsaplabs.com/od/user/14> .
+
+od:user-15 a foaf:Person, od:User ;
+    od:userId 15 ;
+    foaf:name """madrussian""" ;
+    rdfs:label """madrussian""" ;
+    schema:url <https://kitsaplabs.com/od/user/15> .
+
+od:user-16 a foaf:Person, od:User ;
+    od:userId 16 ;
+    foaf:name """wbr""" ;
+    rdfs:label """wbr""" ;
+    schema:url <https://kitsaplabs.com/od/user/16> .
+
+od:user-18 a foaf:Person, od:User ;
+    od:userId 18 ;
+    foaf:name """robo14""" ;
+    rdfs:label """robo14""" ;
+    schema:url <https://kitsaplabs.com/od/user/18> .
+
+od:user-19 a foaf:Person, od:User ;
+    od:userId 19 ;
+    foaf:name """ouroboros""" ;
+    rdfs:label """ouroboros""" ;
+    schema:url <https://kitsaplabs.com/od/user/19> .
+
+od:user-20 a foaf:Person, od:User ;
+    od:userId 20 ;
+    foaf:name """mistertruth""" ;
+    rdfs:label """mistertruth""" ;
+    schema:url <https://kitsaplabs.com/od/user/20> .
+
+od:user-22 a foaf:Person, od:User ;
+    od:userId 22 ;
+    foaf:name """Arator""" ;
+    rdfs:label """Arator""" ;
+    schema:url <https://kitsaplabs.com/od/user/22> .
+
+od:user-24 a foaf:Person, od:User ;
+    od:userId 24 ;
+    foaf:name """edward gibbon""" ;
+    rdfs:label """edward gibbon""" ;
+    schema:url <https://kitsaplabs.com/od/user/24> .
+
+od:user-26 a foaf:Person, od:User ;
+    od:userId 26 ;
+    foaf:name """Sertorius""" ;
+    rdfs:label """Sertorius""" ;
+    schema:url <https://kitsaplabs.com/od/user/26> .
+
+od:user-27 a foaf:Person, od:User ;
+    od:userId 27 ;
+    foaf:name """pea eye""" ;
+    rdfs:label """pea eye""" ;
+    schema:url <https://kitsaplabs.com/od/user/27> .
+
+od:user-29 a foaf:Person, od:User ;
+    od:userId 29 ;
+    foaf:name """Okiereddust""" ;
+    rdfs:label """Okiereddust""" ;
+    schema:url <https://kitsaplabs.com/od/user/29> .
+
+od:user-30 a foaf:Person, od:User ;
+    od:userId 30 ;
+    foaf:name """Aerial""" ;
+    rdfs:label """Aerial""" ;
+    schema:url <https://kitsaplabs.com/od/user/30> .
+
+od:user-31 a foaf:Person, od:User ;
+    od:userId 31 ;
+    foaf:name """Campion Moore Boru""" ;
+    rdfs:label """Campion Moore Boru""" ;
+    schema:url <https://kitsaplabs.com/od/user/31> .
+
+od:user-32 a foaf:Person, od:User ;
+    od:userId 32 ;
+    foaf:name """diotima""" ;
+    rdfs:label """diotima""" ;
+    schema:url <https://kitsaplabs.com/od/user/32> .
+
+od:user-35 a foaf:Person, od:User ;
+    od:userId 35 ;
+    foaf:name """Zoroaster""" ;
+    rdfs:label """Zoroaster""" ;
+    schema:url <https://kitsaplabs.com/od/user/35> .
+
+od:user-39 a foaf:Person, od:User ;
+    od:userId 39 ;
+    foaf:name """A plus Bert""" ;
+    rdfs:label """A plus Bert""" ;
+    schema:url <https://kitsaplabs.com/od/user/39> .
+
+od:user-40 a foaf:Person, od:User ;
+    od:userId 40 ;
+    foaf:name """LoneWolf""" ;
+    rdfs:label """LoneWolf""" ;
+    schema:url <https://kitsaplabs.com/od/user/40> .
+
+od:user-41 a foaf:Person, od:User ;
+    od:userId 41 ;
+    foaf:name """Bartimer""" ;
+    rdfs:label """Bartimer""" ;
+    schema:url <https://kitsaplabs.com/od/user/41> .
+
+od:user-42 a foaf:Person, od:User ;
+    od:userId 42 ;
+    foaf:name """cabochon""" ;
+    rdfs:label """cabochon""" ;
+    schema:url <https://kitsaplabs.com/od/user/42> .
+
+od:user-43 a foaf:Person, od:User ;
+    od:userId 43 ;
+    foaf:name """Unexpurgated""" ;
+    rdfs:label """Unexpurgated""" ;
+    schema:url <https://kitsaplabs.com/od/user/43> .
+
+od:user-45 a foaf:Person, od:User ;
+    od:userId 45 ;
+    foaf:name """solutrian""" ;
+    rdfs:label """solutrian""" ;
+    schema:url <https://kitsaplabs.com/od/user/45> .
+
+od:user-47 a foaf:Person, od:User ;
+    od:userId 47 ;
+    foaf:name """Uncle John""" ;
+    rdfs:label """Uncle John""" ;
+    schema:url <https://kitsaplabs.com/od/user/47> .
+
+od:user-48 a foaf:Person, od:User ;
+    od:userId 48 ;
+    foaf:name """van helsing""" ;
+    rdfs:label """van helsing""" ;
+    schema:url <https://kitsaplabs.com/od/user/48> .
+
+od:user-49 a foaf:Person, od:User ;
+    od:userId 49 ;
+    foaf:name """Enkidu""" ;
+    rdfs:label """Enkidu""" ;
+    schema:url <https://kitsaplabs.com/od/user/49> .
+
+od:user-52 a foaf:Person, od:User ;
+    od:userId 52 ;
+    foaf:name """PaleoconAvatar""" ;
+    rdfs:label """PaleoconAvatar""" ;
+    schema:url <https://kitsaplabs.com/od/user/52> .
+
+od:user-53 a foaf:Person, od:User ;
+    od:userId 53 ;
+    foaf:name """N.B. Forrest""" ;
+    rdfs:label """N.B. Forrest""" ;
+    schema:url <https://kitsaplabs.com/od/user/53> .
+
+od:user-54 a foaf:Person, od:User ;
+    od:userId 54 ;
+    foaf:name """martel""" ;
+    rdfs:label """martel""" ;
+    schema:url <https://kitsaplabs.com/od/user/54> .
+
+od:user-55 a foaf:Person, od:User ;
+    od:userId 55 ;
+    foaf:name """Roy Batty""" ;
+    rdfs:label """Roy Batty""" ;
+    schema:url <https://kitsaplabs.com/od/user/55> .
+
+od:user-56 a foaf:Person, od:User ;
+    od:userId 56 ;
+    foaf:name """Jean West""" ;
+    rdfs:label """Jean West""" ;
+    schema:url <https://kitsaplabs.com/od/user/56> .
+
+od:user-57 a foaf:Person, od:User ;
+    od:userId 57 ;
+    foaf:name """Walter Yannis""" ;
+    rdfs:label """Walter Yannis""" ;
+    schema:url <https://kitsaplabs.com/od/user/57> .
+
+od:user-58 a foaf:Person, od:User ;
+    od:userId 58 ;
+    foaf:name """Frederick William I""" ;
+    rdfs:label """Frederick William I""" ;
+    schema:url <https://kitsaplabs.com/od/user/58> .
+
+od:user-60 a foaf:Person, od:User ;
+    od:userId 60 ;
+    foaf:name """Faust""" ;
+    rdfs:label """Faust""" ;
+    schema:url <https://kitsaplabs.com/od/user/60> .
+
+od:user-61 a foaf:Person, od:User ;
+    od:userId 61 ;
+    foaf:name """Leveller""" ;
+    rdfs:label """Leveller""" ;
+    schema:url <https://kitsaplabs.com/od/user/61> .
+
+od:user-62 a foaf:Person, od:User ;
+    od:userId 62 ;
+    foaf:name """SatherGate""" ;
+    rdfs:label """SatherGate""" ;
+    schema:url <https://kitsaplabs.com/od/user/62> .
+
+od:user-63 a foaf:Person, od:User ;
+    od:userId 63 ;
+    foaf:name """Pomona""" ;
+    rdfs:label """Pomona""" ;
+    schema:url <https://kitsaplabs.com/od/user/63> .
+
+od:user-66 a foaf:Person, od:User ;
+    od:userId 66 ;
+    foaf:name """Ed Toner""" ;
+    rdfs:label """Ed Toner""" ;
+    schema:url <https://kitsaplabs.com/od/user/66> .
+
+od:user-68 a foaf:Person, od:User ;
+    od:userId 68 ;
+    foaf:name """Fliegende Hollander""" ;
+    rdfs:label """Fliegende Hollander""" ;
+    schema:url <https://kitsaplabs.com/od/user/68> .
+
+od:user-69 a foaf:Person, od:User ;
+    od:userId 69 ;
+    foaf:name """Robbie""" ;
+    rdfs:label """Robbie""" ;
+    schema:url <https://kitsaplabs.com/od/user/69> .
+
+od:user-70 a foaf:Person, od:User ;
+    od:userId 70 ;
+    foaf:name """Juan Raymondo Cortez""" ;
+    rdfs:label """Juan Raymondo Cortez""" ;
+    schema:url <https://kitsaplabs.com/od/user/70> .
+
+od:user-71 a foaf:Person, od:User ;
+    od:userId 71 ;
+    foaf:name """Janos Hunyadi""" ;
+    rdfs:label """Janos Hunyadi""" ;
+    schema:url <https://kitsaplabs.com/od/user/71> .
+
+od:user-74 a foaf:Person, od:User ;
+    od:userId 74 ;
+    foaf:name """George""" ;
+    rdfs:label """George""" ;
+    schema:url <https://kitsaplabs.com/od/user/74> .
+
+od:user-79 a foaf:Person, od:User ;
+    od:userId 79 ;
+    foaf:name """ArmyMechanic63B""" ;
+    rdfs:label """ArmyMechanic63B""" ;
+    schema:url <https://kitsaplabs.com/od/user/79> .
+
+od:user-80 a foaf:Person, od:User ;
+    od:userId 80 ;
+    foaf:name """xmetalhead""" ;
+    rdfs:label """xmetalhead""" ;
+    schema:url <https://kitsaplabs.com/od/user/80> .
+
+od:user-81 a foaf:Person, od:User ;
+    od:userId 81 ;
+    foaf:name """mwdallas""" ;
+    rdfs:label """mwdallas""" ;
+    schema:url <https://kitsaplabs.com/od/user/81> .
+
+od:user-82 a foaf:Person, od:User ;
+    od:userId 82 ;
+    foaf:name """bitterbierce""" ;
+    rdfs:label """bitterbierce""" ;
+    schema:url <https://kitsaplabs.com/od/user/82> .
+
+od:user-83 a foaf:Person, od:User ;
+    od:userId 83 ;
+    foaf:name """eric von zipper""" ;
+    rdfs:label """eric von zipper""" ;
+    schema:url <https://kitsaplabs.com/od/user/83> .
+
+od:user-84 a foaf:Person, od:User ;
+    od:userId 84 ;
+    foaf:name """Feric Jaggar""" ;
+    rdfs:label """Feric Jaggar""" ;
+    schema:url <https://kitsaplabs.com/od/user/84> .
+
+od:user-85 a foaf:Person, od:User ;
+    od:userId 85 ;
+    foaf:name """il ragno""" ;
+    rdfs:label """il ragno""" ;
+    schema:url <https://kitsaplabs.com/od/user/85> .
+
+od:user-86 a foaf:Person, od:User ;
+    od:userId 86 ;
+    foaf:name """NativeExile""" ;
+    rdfs:label """NativeExile""" ;
+    schema:url <https://kitsaplabs.com/od/user/86> .
+
+od:user-87 a foaf:Person, od:User ;
+    od:userId 87 ;
+    foaf:name """texoma""" ;
+    rdfs:label """texoma""" ;
+    schema:url <https://kitsaplabs.com/od/user/87> .
+
+od:user-88 a foaf:Person, od:User ;
+    od:userId 88 ;
+    foaf:name """londo""" ;
+    rdfs:label """londo""" ;
+    schema:url <https://kitsaplabs.com/od/user/88> .
+
+od:user-91 a foaf:Person, od:User ;
+    od:userId 91 ;
+    foaf:name """Polichinello""" ;
+    rdfs:label """Polichinello""" ;
+    schema:url <https://kitsaplabs.com/od/user/91> .
+
+od:user-92 a foaf:Person, od:User ;
+    od:userId 92 ;
+    foaf:name """Bull Connors""" ;
+    rdfs:label """Bull Connors""" ;
+    schema:url <https://kitsaplabs.com/od/user/92> .
+
+od:user-101 a foaf:Person, od:User ;
+    od:userId 101 ;
+    foaf:name """Dervil""" ;
+    rdfs:label """Dervil""" ;
+    schema:url <https://kitsaplabs.com/od/user/101> .
+
+od:user-102 a foaf:Person, od:User ;
+    od:userId 102 ;
+    foaf:name """ThusAlwaysToTyrants""" ;
+    rdfs:label """ThusAlwaysToTyrants""" ;
+    schema:url <https://kitsaplabs.com/od/user/102> .
+
+od:user-105 a foaf:Person, od:User ;
+    od:userId 105 ;
+    foaf:name """Javelin""" ;
+    rdfs:label """Javelin""" ;
+    schema:url <https://kitsaplabs.com/od/user/105> .
+
+od:user-106 a foaf:Person, od:User ;
+    od:userId 106 ;
+    foaf:name """Valley Forge""" ;
+    rdfs:label """Valley Forge""" ;
+    schema:url <https://kitsaplabs.com/od/user/106> .
+
+od:user-109 a foaf:Person, od:User ;
+    od:userId 109 ;
+    foaf:name """Decebalus""" ;
+    rdfs:label """Decebalus""" ;
+    schema:url <https://kitsaplabs.com/od/user/109> .
+
+od:user-111 a foaf:Person, od:User ;
+    od:userId 111 ;
+    foaf:name """Bolero""" ;
+    rdfs:label """Bolero""" ;
+    schema:url <https://kitsaplabs.com/od/user/111> .
+
+od:user-112 a foaf:Person, od:User ;
+    od:userId 112 ;
+    foaf:name """OldHickory""" ;
+    rdfs:label """OldHickory""" ;
+    schema:url <https://kitsaplabs.com/od/user/112> .
+
+od:user-114 a foaf:Person, od:User ;
+    od:userId 114 ;
+    foaf:name """Malachi""" ;
+    rdfs:label """Malachi""" ;
+    schema:url <https://kitsaplabs.com/od/user/114> .
+
+od:user-117 a foaf:Person, od:User ;
+    od:userId 117 ;
+    foaf:name """oldrightlibertarian""" ;
+    rdfs:label """oldrightlibertarian""" ;
+    schema:url <https://kitsaplabs.com/od/user/117> .
+
+od:user-118 a foaf:Person, od:User ;
+    od:userId 118 ;
+    foaf:name """Happy Hacker""" ;
+    rdfs:label """Happy Hacker""" ;
+    schema:url <https://kitsaplabs.com/od/user/118> .
+
+od:user-119 a foaf:Person, od:User ;
+    od:userId 119 ;
+    foaf:name """Centinel""" ;
+    rdfs:label """Centinel""" ;
+    schema:url <https://kitsaplabs.com/od/user/119> .
+
+od:user-121 a foaf:Person, od:User ;
+    od:userId 121 ;
+    foaf:name """MikeK-""" ;
+    rdfs:label """MikeK-""" ;
+    schema:url <https://kitsaplabs.com/od/user/121> .
+
+od:user-122 a foaf:Person, od:User ;
+    od:userId 122 ;
+    foaf:name """D_Joyce""" ;
+    rdfs:label """D_Joyce""" ;
+    schema:url <https://kitsaplabs.com/od/user/122> .
+
+od:user-125 a foaf:Person, od:User ;
+    od:userId 125 ;
+    foaf:name """jesuisfier""" ;
+    rdfs:label """jesuisfier""" ;
+    schema:url <https://kitsaplabs.com/od/user/125> .
+
+od:user-127 a foaf:Person, od:User ;
+    od:userId 127 ;
+    foaf:name """lnelson""" ;
+    rdfs:label """lnelson""" ;
+    schema:url <https://kitsaplabs.com/od/user/127> .
+
+od:user-129 a foaf:Person, od:User ;
+    od:userId 129 ;
+    foaf:name """juschill""" ;
+    rdfs:label """juschill""" ;
+    schema:url <https://kitsaplabs.com/od/user/129> .
+
+od:user-132 a foaf:Person, od:User ;
+    od:userId 132 ;
+    foaf:name """heritagelost""" ;
+    rdfs:label """heritagelost""" ;
+    schema:url <https://kitsaplabs.com/od/user/132> .
+
+od:user-133 a foaf:Person, od:User ;
+    od:userId 133 ;
+    foaf:name """catman""" ;
+    rdfs:label """catman""" ;
+    schema:url <https://kitsaplabs.com/od/user/133> .
+
+od:user-134 a foaf:Person, od:User ;
+    od:userId 134 ;
+    foaf:name """Brother Love""" ;
+    rdfs:label """Brother Love""" ;
+    schema:url <https://kitsaplabs.com/od/user/134> .
+
+od:user-136 a foaf:Person, od:User ;
+    od:userId 136 ;
+    foaf:name """askel5""" ;
+    rdfs:label """askel5""" ;
+    schema:url <https://kitsaplabs.com/od/user/136> .
+
+od:user-141 a foaf:Person, od:User ;
+    od:userId 141 ;
+    foaf:name """Spar""" ;
+    rdfs:label """Spar""" ;
+    schema:url <https://kitsaplabs.com/od/user/141> .
+
+od:user-142 a foaf:Person, od:User ;
+    od:userId 142 ;
+    foaf:name """toddbrendanfahey""" ;
+    rdfs:label """toddbrendanfahey""" ;
+    schema:url <https://kitsaplabs.com/od/user/142> .
+
+od:user-143 a foaf:Person, od:User ;
+    od:userId 143 ;
+    foaf:name """Combat 26""" ;
+    rdfs:label """Combat 26""" ;
+    schema:url <https://kitsaplabs.com/od/user/143> .
+
+od:user-144 a foaf:Person, od:User ;
+    od:userId 144 ;
+    foaf:name """SARTRE""" ;
+    rdfs:label """SARTRE""" ;
+    schema:url <https://kitsaplabs.com/od/user/144> .
+
+od:user-147 a foaf:Person, od:User ;
+    od:userId 147 ;
+    foaf:name """Dano""" ;
+    rdfs:label """Dano""" ;
+    schema:url <https://kitsaplabs.com/od/user/147> .
+
+od:user-148 a foaf:Person, od:User ;
+    od:userId 148 ;
+    foaf:name """Ruffin""" ;
+    rdfs:label """Ruffin""" ;
+    schema:url <https://kitsaplabs.com/od/user/148> .
+
+od:user-150 a foaf:Person, od:User ;
+    od:userId 150 ;
+    foaf:name """Phillip Augustus""" ;
+    rdfs:label """Phillip Augustus""" ;
+    schema:url <https://kitsaplabs.com/od/user/150> .
+
+od:user-151 a foaf:Person, od:User ;
+    od:userId 151 ;
+    foaf:name """weisbrot""" ;
+    rdfs:label """weisbrot""" ;
+    schema:url <https://kitsaplabs.com/od/user/151> .
+
+od:user-153 a foaf:Person, od:User ;
+    od:userId 153 ;
+    foaf:name """LA Refugee""" ;
+    rdfs:label """LA Refugee""" ;
+    schema:url <https://kitsaplabs.com/od/user/153> .
+
+od:user-156 a foaf:Person, od:User ;
+    od:userId 156 ;
+    foaf:name """RightWingFreedom""" ;
+    rdfs:label """RightWingFreedom""" ;
+    schema:url <https://kitsaplabs.com/od/user/156> .
+
+od:user-158 a foaf:Person, od:User ;
+    od:userId 158 ;
+    foaf:name """jjbrouwer""" ;
+    rdfs:label """jjbrouwer""" ;
+    schema:url <https://kitsaplabs.com/od/user/158> .
+
+od:user-159 a foaf:Person, od:User ;
+    od:userId 159 ;
+    foaf:name """jay""" ;
+    rdfs:label """jay""" ;
+    schema:url <https://kitsaplabs.com/od/user/159> .
+
+od:user-162 a foaf:Person, od:User ;
+    od:userId 162 ;
+    foaf:name """Tony""" ;
+    rdfs:label """Tony""" ;
+    schema:url <https://kitsaplabs.com/od/user/162> .
+
+od:user-163 a foaf:Person, od:User ;
+    od:userId 163 ;
+    foaf:name """Suplanter""" ;
+    rdfs:label """Suplanter""" ;
+    schema:url <https://kitsaplabs.com/od/user/163> .
+
+od:user-164 a foaf:Person, od:User ;
+    od:userId 164 ;
+    foaf:name """Buster""" ;
+    rdfs:label """Buster""" ;
+    schema:url <https://kitsaplabs.com/od/user/164> .
+
+od:user-165 a foaf:Person, od:User ;
+    od:userId 165 ;
+    foaf:name """Roger Bannister""" ;
+    rdfs:label """Roger Bannister""" ;
+    schema:url <https://kitsaplabs.com/od/user/165> .
+
+od:user-166 a foaf:Person, od:User ;
+    od:userId 166 ;
+    foaf:name """KimmiNzi""" ;
+    rdfs:label """KimmiNzi""" ;
+    schema:url <https://kitsaplabs.com/od/user/166> .
+
+od:user-167 a foaf:Person, od:User ;
+    od:userId 167 ;
+    foaf:name """Oklahomaman""" ;
+    rdfs:label """Oklahomaman""" ;
+    schema:url <https://kitsaplabs.com/od/user/167> .
+
+od:user-168 a foaf:Person, od:User ;
+    od:userId 168 ;
+    foaf:name """Northern Bastion""" ;
+    rdfs:label """Northern Bastion""" ;
+    schema:url <https://kitsaplabs.com/od/user/168> .
+
+od:user-170 a foaf:Person, od:User ;
+    od:userId 170 ;
+    foaf:name """hnorkus""" ;
+    rdfs:label """hnorkus""" ;
+    schema:url <https://kitsaplabs.com/od/user/170> .
+
+od:user-173 a foaf:Person, od:User ;
+    od:userId 173 ;
+    foaf:name """w.bales""" ;
+    rdfs:label """w.bales""" ;
+    schema:url <https://kitsaplabs.com/od/user/173> .
+
+od:user-175 a foaf:Person, od:User ;
+    od:userId 175 ;
+    foaf:name """Michael_Pratt""" ;
+    rdfs:label """Michael_Pratt""" ;
+    schema:url <https://kitsaplabs.com/od/user/175> .
+
+od:user-176 a foaf:Person, od:User ;
+    od:userId 176 ;
+    foaf:name """Baron Stein""" ;
+    rdfs:label """Baron Stein""" ;
+    schema:url <https://kitsaplabs.com/od/user/176> .
+
+od:user-180 a foaf:Person, od:User ;
+    od:userId 180 ;
+    foaf:name """Mr.Wilson""" ;
+    rdfs:label """Mr.Wilson""" ;
+    schema:url <https://kitsaplabs.com/od/user/180> .
+
+od:user-182 a foaf:Person, od:User ;
+    od:userId 182 ;
+    foaf:name """Gaius Marius""" ;
+    rdfs:label """Gaius Marius""" ;
+    schema:url <https://kitsaplabs.com/od/user/182> .
+
+od:user-185 a foaf:Person, od:User ;
+    od:userId 185 ;
+    foaf:name """Lane""" ;
+    rdfs:label """Lane""" ;
+    schema:url <https://kitsaplabs.com/od/user/185> .
+
+od:user-187 a foaf:Person, od:User ;
+    od:userId 187 ;
+    foaf:name """Skeptic""" ;
+    rdfs:label """Skeptic""" ;
+    schema:url <https://kitsaplabs.com/od/user/187> .
+
+od:user-188 a foaf:Person, od:User ;
+    od:userId 188 ;
+    foaf:name """Sporon""" ;
+    rdfs:label """Sporon""" ;
+    schema:url <https://kitsaplabs.com/od/user/188> .
+
+od:user-189 a foaf:Person, od:User ;
+    od:userId 189 ;
+    foaf:name """nikolai""" ;
+    rdfs:label """nikolai""" ;
+    schema:url <https://kitsaplabs.com/od/user/189> .
+
+od:user-190 a foaf:Person, od:User ;
+    od:userId 190 ;
+    foaf:name """Recluse""" ;
+    rdfs:label """Recluse""" ;
+    schema:url <https://kitsaplabs.com/od/user/190> .
+
+od:user-194 a foaf:Person, od:User ;
+    od:userId 194 ;
+    foaf:name """Alex Linder""" ;
+    rdfs:label """Alex Linder""" ;
+    schema:url <https://kitsaplabs.com/od/user/194> .
+
+od:user-195 a foaf:Person, od:User ;
+    od:userId 195 ;
+    foaf:name """BerserkDog""" ;
+    rdfs:label """BerserkDog""" ;
+    schema:url <https://kitsaplabs.com/od/user/195> .
+
+od:user-196 a foaf:Person, od:User ;
+    od:userId 196 ;
+    foaf:name """Ali Pasha Sir John Glubb""" ;
+    rdfs:label """Ali Pasha Sir John Glubb""" ;
+    schema:url <https://kitsaplabs.com/od/user/196> .
+
+od:user-197 a foaf:Person, od:User ;
+    od:userId 197 ;
+    foaf:name """hqz""" ;
+    rdfs:label """hqz""" ;
+    schema:url <https://kitsaplabs.com/od/user/197> .
+
+od:user-199 a foaf:Person, od:User ;
+    od:userId 199 ;
+    foaf:name """TexasAnarch""" ;
+    rdfs:label """TexasAnarch""" ;
+    schema:url <https://kitsaplabs.com/od/user/199> .
+
+od:user-200 a foaf:Person, od:User ;
+    od:userId 200 ;
+    foaf:name """Mikek47906""" ;
+    rdfs:label """Mikek47906""" ;
+    schema:url <https://kitsaplabs.com/od/user/200> .
+
+od:user-203 a foaf:Person, od:User ;
+    od:userId 203 ;
+    foaf:name """Franco""" ;
+    rdfs:label """Franco""" ;
+    schema:url <https://kitsaplabs.com/od/user/203> .
+
+od:user-204 a foaf:Person, od:User ;
+    od:userId 204 ;
+    foaf:name """NeoNietzsche""" ;
+    rdfs:label """NeoNietzsche""" ;
+    schema:url <https://kitsaplabs.com/od/user/204> .
+
+od:user-206 a foaf:Person, od:User ;
+    od:userId 206 ;
+    foaf:name """PENN""" ;
+    rdfs:label """PENN""" ;
+    schema:url <https://kitsaplabs.com/od/user/206> .
+
+od:user-207 a foaf:Person, od:User ;
+    od:userId 207 ;
+    foaf:name """Charles A Lindbergh""" ;
+    rdfs:label """Charles A Lindbergh""" ;
+    schema:url <https://kitsaplabs.com/od/user/207> .
+
+od:user-211 a foaf:Person, od:User ;
+    od:userId 211 ;
+    foaf:name """While Rome Burned""" ;
+    rdfs:label """While Rome Burned""" ;
+    schema:url <https://kitsaplabs.com/od/user/211> .
+
+od:user-214 a foaf:Person, od:User ;
+    od:userId 214 ;
+    foaf:name """relevant1""" ;
+    rdfs:label """relevant1""" ;
+    schema:url <https://kitsaplabs.com/od/user/214> .
+
+od:user-216 a foaf:Person, od:User ;
+    od:userId 216 ;
+    foaf:name """Gott""" ;
+    rdfs:label """Gott""" ;
+    schema:url <https://kitsaplabs.com/od/user/216> .
+
+od:user-220 a foaf:Person, od:User ;
+    od:userId 220 ;
+    foaf:name """electrik""" ;
+    rdfs:label """electrik""" ;
+    schema:url <https://kitsaplabs.com/od/user/220> .
+
+od:user-222 a foaf:Person, od:User ;
+    od:userId 222 ;
+    foaf:name """spiker""" ;
+    rdfs:label """spiker""" ;
+    schema:url <https://kitsaplabs.com/od/user/222> .
+
+od:user-223 a foaf:Person, od:User ;
+    od:userId 223 ;
+    foaf:name """Paragon""" ;
+    rdfs:label """Paragon""" ;
+    schema:url <https://kitsaplabs.com/od/user/223> .
+
+od:user-226 a foaf:Person, od:User ;
+    od:userId 226 ;
+    foaf:name """John Wayne""" ;
+    rdfs:label """John Wayne""" ;
+    schema:url <https://kitsaplabs.com/od/user/226> .
+
+od:user-227 a foaf:Person, od:User ;
+    od:userId 227 ;
+    foaf:name """Nash""" ;
+    rdfs:label """Nash""" ;
+    schema:url <https://kitsaplabs.com/od/user/227> .
+
+od:user-228 a foaf:Person, od:User ;
+    od:userId 228 ;
+    foaf:name """Edana""" ;
+    rdfs:label """Edana""" ;
+    schema:url <https://kitsaplabs.com/od/user/228> .
+
+od:user-229 a foaf:Person, od:User ;
+    od:userId 229 ;
+    foaf:name """Red""" ;
+    rdfs:label """Red""" ;
+    schema:url <https://kitsaplabs.com/od/user/229> .
+
+od:user-230 a foaf:Person, od:User ;
+    od:userId 230 ;
+    foaf:name """Angler""" ;
+    rdfs:label """Angler""" ;
+    schema:url <https://kitsaplabs.com/od/user/230> .
+
+od:user-231 a foaf:Person, od:User ;
+    od:userId 231 ;
+    foaf:name """Blond Knight""" ;
+    rdfs:label """Blond Knight""" ;
+    schema:url <https://kitsaplabs.com/od/user/231> .
+
+od:user-237 a foaf:Person, od:User ;
+    od:userId 237 ;
+    foaf:name """Penacite""" ;
+    rdfs:label """Penacite""" ;
+    schema:url <https://kitsaplabs.com/od/user/237> .
+
+od:user-238 a foaf:Person, od:User ;
+    od:userId 238 ;
+    foaf:name """Drakmal""" ;
+    rdfs:label """Drakmal""" ;
+    schema:url <https://kitsaplabs.com/od/user/238> .
+
+od:user-239 a foaf:Person, od:User ;
+    od:userId 239 ;
+    foaf:name """Constitutionrules""" ;
+    rdfs:label """Constitutionrules""" ;
+    schema:url <https://kitsaplabs.com/od/user/239> .
+
+od:user-240 a foaf:Person, od:User ;
+    od:userId 240 ;
+    foaf:name """jeffersonian""" ;
+    rdfs:label """jeffersonian""" ;
+    schema:url <https://kitsaplabs.com/od/user/240> .
+
+od:user-242 a foaf:Person, od:User ;
+    od:userId 242 ;
+    foaf:name """MadScienceType""" ;
+    rdfs:label """MadScienceType""" ;
+    schema:url <https://kitsaplabs.com/od/user/242> .
+
+od:user-243 a foaf:Person, od:User ;
+    od:userId 243 ;
+    foaf:name """Avalanche""" ;
+    rdfs:label """Avalanche""" ;
+    schema:url <https://kitsaplabs.com/od/user/243> .
+
+od:user-244 a foaf:Person, od:User ;
+    od:userId 244 ;
+    foaf:name """Howard Campbell, Jr.""" ;
+    rdfs:label """Howard Campbell, Jr.""" ;
+    schema:url <https://kitsaplabs.com/od/user/244> .
+
+od:user-247 a foaf:Person, od:User ;
+    od:userId 247 ;
+    foaf:name """Maximillian""" ;
+    rdfs:label """Maximillian""" ;
+    schema:url <https://kitsaplabs.com/od/user/247> .
+
+od:user-250 a foaf:Person, od:User ;
+    od:userId 250 ;
+    foaf:name """gnarledmaw""" ;
+    rdfs:label """gnarledmaw""" ;
+    schema:url <https://kitsaplabs.com/od/user/250> .
+
+od:user-255 a foaf:Person, od:User ;
+    od:userId 255 ;
+    foaf:name """kminta""" ;
+    rdfs:label """kminta""" ;
+    schema:url <https://kitsaplabs.com/od/user/255> .
+
+od:user-257 a foaf:Person, od:User ;
+    od:userId 257 ;
+    foaf:name """IllegalAliensOut""" ;
+    rdfs:label """IllegalAliensOut""" ;
+    schema:url <https://kitsaplabs.com/od/user/257> .
+
+od:user-261 a foaf:Person, od:User ;
+    od:userId 261 ;
+    foaf:name """Paleocon""" ;
+    rdfs:label """Paleocon""" ;
+    schema:url <https://kitsaplabs.com/od/user/261> .
+
+od:user-262 a foaf:Person, od:User ;
+    od:userId 262 ;
+    foaf:name """Anarch""" ;
+    rdfs:label """Anarch""" ;
+    schema:url <https://kitsaplabs.com/od/user/262> .
+
+od:user-264 a foaf:Person, od:User ;
+    od:userId 264 ;
+    foaf:name """Manstein""" ;
+    rdfs:label """Manstein""" ;
+    schema:url <https://kitsaplabs.com/od/user/264> .
+
+od:user-265 a foaf:Person, od:User ;
+    od:userId 265 ;
+    foaf:name """Pim""" ;
+    rdfs:label """Pim""" ;
+    schema:url <https://kitsaplabs.com/od/user/265> .
+
+od:user-267 a foaf:Person, od:User ;
+    od:userId 267 ;
+    foaf:name """Oliver Cromwell""" ;
+    rdfs:label """Oliver Cromwell""" ;
+    schema:url <https://kitsaplabs.com/od/user/267> .
+
+od:user-270 a foaf:Person, od:User ;
+    od:userId 270 ;
+    foaf:name """DRSLICEIT""" ;
+    rdfs:label """DRSLICEIT""" ;
+    schema:url <https://kitsaplabs.com/od/user/270> .
+
+od:user-271 a foaf:Person, od:User ;
+    od:userId 271 ;
+    foaf:name """naBaron""" ;
+    rdfs:label """naBaron""" ;
+    schema:url <https://kitsaplabs.com/od/user/271> .
+
+od:user-272 a foaf:Person, od:User ;
+    od:userId 272 ;
+    foaf:name """Sisyfos""" ;
+    rdfs:label """Sisyfos""" ;
+    schema:url <https://kitsaplabs.com/od/user/272> .
+
+od:user-273 a foaf:Person, od:User ;
+    od:userId 273 ;
+    foaf:name """skemper""" ;
+    rdfs:label """skemper""" ;
+    schema:url <https://kitsaplabs.com/od/user/273> .
+
+od:user-275 a foaf:Person, od:User ;
+    od:userId 275 ;
+    foaf:name """Hereward""" ;
+    rdfs:label """Hereward""" ;
+    schema:url <https://kitsaplabs.com/od/user/275> .
+
+od:user-276 a foaf:Person, od:User ;
+    od:userId 276 ;
+    foaf:name """Stanley""" ;
+    rdfs:label """Stanley""" ;
+    schema:url <https://kitsaplabs.com/od/user/276> .
+
+od:user-277 a foaf:Person, od:User ;
+    od:userId 277 ;
+    foaf:name """RobertLevin""" ;
+    rdfs:label """RobertLevin""" ;
+    schema:url <https://kitsaplabs.com/od/user/277> .
+
+od:user-279 a foaf:Person, od:User ;
+    od:userId 279 ;
+    foaf:name """Wayland""" ;
+    rdfs:label """Wayland""" ;
+    schema:url <https://kitsaplabs.com/od/user/279> .
+
+od:user-280 a foaf:Person, od:User ;
+    od:userId 280 ;
+    foaf:name """Exelsis_Deo""" ;
+    rdfs:label """Exelsis_Deo""" ;
+    schema:url <https://kitsaplabs.com/od/user/280> .
+
+od:user-283 a foaf:Person, od:User ;
+    od:userId 283 ;
+    foaf:name """Skippy""" ;
+    rdfs:label """Skippy""" ;
+    schema:url <https://kitsaplabs.com/od/user/283> .
+
+od:user-284 a foaf:Person, od:User ;
+    od:userId 284 ;
+    foaf:name """The_King""" ;
+    rdfs:label """The_King""" ;
+    schema:url <https://kitsaplabs.com/od/user/284> .
+
+od:user-285 a foaf:Person, od:User ;
+    od:userId 285 ;
+    foaf:name """kOnTrA""" ;
+    rdfs:label """kOnTrA""" ;
+    schema:url <https://kitsaplabs.com/od/user/285> .
+
+od:user-286 a foaf:Person, od:User ;
+    od:userId 286 ;
+    foaf:name """Samuel""" ;
+    rdfs:label """Samuel""" ;
+    schema:url <https://kitsaplabs.com/od/user/286> .
+
+od:user-288 a foaf:Person, od:User ;
+    od:userId 288 ;
+    foaf:name """Dan Dare""" ;
+    rdfs:label """Dan Dare""" ;
+    schema:url <https://kitsaplabs.com/od/user/288> .
+
+od:user-289 a foaf:Person, od:User ;
+    od:userId 289 ;
+    foaf:name """na Gaeil is gile""" ;
+    rdfs:label """na Gaeil is gile""" ;
+    schema:url <https://kitsaplabs.com/od/user/289> .
+
+od:user-290 a foaf:Person, od:User ;
+    od:userId 290 ;
+    foaf:name """W.R.I.T.O.S""" ;
+    rdfs:label """W.R.I.T.O.S""" ;
+    schema:url <https://kitsaplabs.com/od/user/290> .
+
+od:user-292 a foaf:Person, od:User ;
+    od:userId 292 ;
+    foaf:name """SK Schultz""" ;
+    rdfs:label """SK Schultz""" ;
+    schema:url <https://kitsaplabs.com/od/user/292> .
+
+od:user-293 a foaf:Person, od:User ;
+    od:userId 293 ;
+    foaf:name """seq""" ;
+    rdfs:label """seq""" ;
+    schema:url <https://kitsaplabs.com/od/user/293> .
+
+od:user-295 a foaf:Person, od:User ;
+    od:userId 295 ;
+    foaf:name """Marcus Porcius Cato""" ;
+    rdfs:label """Marcus Porcius Cato""" ;
+    schema:url <https://kitsaplabs.com/od/user/295> .
+
+od:user-296 a foaf:Person, od:User ;
+    od:userId 296 ;
+    foaf:name """darkeddy""" ;
+    rdfs:label """darkeddy""" ;
+    schema:url <https://kitsaplabs.com/od/user/296> .
+
+od:user-298 a foaf:Person, od:User ;
+    od:userId 298 ;
+    foaf:name """Nor cal.skiN""" ;
+    rdfs:label """Nor cal.skiN""" ;
+    schema:url <https://kitsaplabs.com/od/user/298> .
+
+od:user-300 a foaf:Person, od:User ;
+    od:userId 300 ;
+    foaf:name """SHOGUN""" ;
+    rdfs:label """SHOGUN""" ;
+    schema:url <https://kitsaplabs.com/od/user/300> .
+
+od:user-303 a foaf:Person, od:User ;
+    od:userId 303 ;
+    foaf:name """Pugnox""" ;
+    rdfs:label """Pugnox""" ;
+    schema:url <https://kitsaplabs.com/od/user/303> .
+
+od:user-304 a foaf:Person, od:User ;
+    od:userId 304 ;
+    foaf:name """Christian Identity""" ;
+    rdfs:label """Christian Identity""" ;
+    schema:url <https://kitsaplabs.com/od/user/304> .
+
+od:user-305 a foaf:Person, od:User ;
+    od:userId 305 ;
+    foaf:name """JWPegler""" ;
+    rdfs:label """JWPegler""" ;
+    schema:url <https://kitsaplabs.com/od/user/305> .
+
+od:user-306 a foaf:Person, od:User ;
+    od:userId 306 ;
+    foaf:name """JustStopIt""" ;
+    rdfs:label """JustStopIt""" ;
+    schema:url <https://kitsaplabs.com/od/user/306> .
+
+od:user-307 a foaf:Person, od:User ;
+    od:userId 307 ;
+    foaf:name """persephone""" ;
+    rdfs:label """persephone""" ;
+    schema:url <https://kitsaplabs.com/od/user/307> .
+
+od:user-310 a foaf:Person, od:User ;
+    od:userId 310 ;
+    foaf:name """acco""" ;
+    rdfs:label """acco""" ;
+    schema:url <https://kitsaplabs.com/od/user/310> .
+
+od:user-312 a foaf:Person, od:User ;
+    od:userId 312 ;
+    foaf:name """d daxx""" ;
+    rdfs:label """d daxx""" ;
+    schema:url <https://kitsaplabs.com/od/user/312> .
+
+od:user-313 a foaf:Person, od:User ;
+    od:userId 313 ;
+    foaf:name """OPERA96""" ;
+    rdfs:label """OPERA96""" ;
+    schema:url <https://kitsaplabs.com/od/user/313> .
+
+od:user-314 a foaf:Person, od:User ;
+    od:userId 314 ;
+    foaf:name """Suzi Soccermom""" ;
+    rdfs:label """Suzi Soccermom""" ;
+    schema:url <https://kitsaplabs.com/od/user/314> .
+
+od:user-315 a foaf:Person, od:User ;
+    od:userId 315 ;
+    foaf:name """arthur""" ;
+    rdfs:label """arthur""" ;
+    schema:url <https://kitsaplabs.com/od/user/315> .
+
+od:user-316 a foaf:Person, od:User ;
+    od:userId 316 ;
+    foaf:name """Otho_Isch""" ;
+    rdfs:label """Otho_Isch""" ;
+    schema:url <https://kitsaplabs.com/od/user/316> .
+
+od:user-317 a foaf:Person, od:User ;
+    od:userId 317 ;
+    foaf:name """PANeuronet""" ;
+    rdfs:label """PANeuronet""" ;
+    schema:url <https://kitsaplabs.com/od/user/317> .
+
+od:user-319 a foaf:Person, od:User ;
+    od:userId 319 ;
+    foaf:name """Walter E Kurtz""" ;
+    rdfs:label """Walter E Kurtz""" ;
+    schema:url <https://kitsaplabs.com/od/user/319> .
+
+od:user-321 a foaf:Person, od:User ;
+    od:userId 321 ;
+    foaf:name """Hugh Lincoln""" ;
+    rdfs:label """Hugh Lincoln""" ;
+    schema:url <https://kitsaplabs.com/od/user/321> .
+
+od:user-324 a foaf:Person, od:User ;
+    od:userId 324 ;
+    foaf:name """vagabond""" ;
+    rdfs:label """vagabond""" ;
+    schema:url <https://kitsaplabs.com/od/user/324> .
+
+od:user-326 a foaf:Person, od:User ;
+    od:userId 326 ;
+    foaf:name """Bardamu""" ;
+    rdfs:label """Bardamu""" ;
+    schema:url <https://kitsaplabs.com/od/user/326> .
+
+od:user-329 a foaf:Person, od:User ;
+    od:userId 329 ;
+    foaf:name """santafe21""" ;
+    rdfs:label """santafe21""" ;
+    schema:url <https://kitsaplabs.com/od/user/329> .
+
+od:user-332 a foaf:Person, od:User ;
+    od:userId 332 ;
+    foaf:name """Manifest Destiny""" ;
+    rdfs:label """Manifest Destiny""" ;
+    schema:url <https://kitsaplabs.com/od/user/332> .
+
+od:user-333 a foaf:Person, od:User ;
+    od:userId 333 ;
+    foaf:name """Song of Insulin""" ;
+    rdfs:label """Song of Insulin""" ;
+    schema:url <https://kitsaplabs.com/od/user/333> .
+
+od:user-334 a foaf:Person, od:User ;
+    od:userId 334 ;
+    foaf:name """SWINESTEIN""" ;
+    rdfs:label """SWINESTEIN""" ;
+    schema:url <https://kitsaplabs.com/od/user/334> .
+
+od:user-335 a foaf:Person, od:User ;
+    od:userId 335 ;
+    foaf:name """rwinger""" ;
+    rdfs:label """rwinger""" ;
+    schema:url <https://kitsaplabs.com/od/user/335> .
+
+od:user-337 a foaf:Person, od:User ;
+    od:userId 337 ;
+    foaf:name """Roland""" ;
+    rdfs:label """Roland""" ;
+    schema:url <https://kitsaplabs.com/od/user/337> .
+
+od:user-341 a foaf:Person, od:User ;
+    od:userId 341 ;
+    foaf:name """Spida""" ;
+    rdfs:label """Spida""" ;
+    schema:url <https://kitsaplabs.com/od/user/341> .
+
+od:user-342 a foaf:Person, od:User ;
+    od:userId 342 ;
+    foaf:name """SoonerN""" ;
+    rdfs:label """SoonerN""" ;
+    schema:url <https://kitsaplabs.com/od/user/342> .
+
+od:user-343 a foaf:Person, od:User ;
+    od:userId 343 ;
+    foaf:name """DesertFox""" ;
+    rdfs:label """DesertFox""" ;
+    schema:url <https://kitsaplabs.com/od/user/343> .
+
+od:user-345 a foaf:Person, od:User ;
+    od:userId 345 ;
+    foaf:name """The Hammer""" ;
+    rdfs:label """The Hammer""" ;
+    schema:url <https://kitsaplabs.com/od/user/345> .
+
+od:user-346 a foaf:Person, od:User ;
+    od:userId 346 ;
+    foaf:name """2600""" ;
+    rdfs:label """2600""" ;
+    schema:url <https://kitsaplabs.com/od/user/346> .
+
+od:user-347 a foaf:Person, od:User ;
+    od:userId 347 ;
+    foaf:name """FadeTheButcher""" ;
+    rdfs:label """FadeTheButcher""" ;
+    schema:url <https://kitsaplabs.com/od/user/347> .
+
+od:user-351 a foaf:Person, od:User ;
+    od:userId 351 ;
+    foaf:name """Mentzer""" ;
+    rdfs:label """Mentzer""" ;
+    schema:url <https://kitsaplabs.com/od/user/351> .
+
+od:user-352 a foaf:Person, od:User ;
+    od:userId 352 ;
+    foaf:name """anticommunitarian""" ;
+    rdfs:label """anticommunitarian""" ;
+    schema:url <https://kitsaplabs.com/od/user/352> .
+
+od:user-353 a foaf:Person, od:User ;
+    od:userId 353 ;
+    foaf:name """jamestown""" ;
+    rdfs:label """jamestown""" ;
+    schema:url <https://kitsaplabs.com/od/user/353> .
+
+od:user-355 a foaf:Person, od:User ;
+    od:userId 355 ;
+    foaf:name """The Skunk""" ;
+    rdfs:label """The Skunk""" ;
+    schema:url <https://kitsaplabs.com/od/user/355> .
+
+od:user-356 a foaf:Person, od:User ;
+    od:userId 356 ;
+    foaf:name """John Crichton""" ;
+    rdfs:label """John Crichton""" ;
+    schema:url <https://kitsaplabs.com/od/user/356> .
+
+od:user-357 a foaf:Person, od:User ;
+    od:userId 357 ;
+    foaf:name """Paleoleftist""" ;
+    rdfs:label """Paleoleftist""" ;
+    schema:url <https://kitsaplabs.com/od/user/357> .
+
+od:user-359 a foaf:Person, od:User ;
+    od:userId 359 ;
+    foaf:name """kathaksung""" ;
+    rdfs:label """kathaksung""" ;
+    schema:url <https://kitsaplabs.com/od/user/359> .
+
+od:user-360 a foaf:Person, od:User ;
+    od:userId 360 ;
+    foaf:name """GaConfed""" ;
+    rdfs:label """GaConfed""" ;
+    schema:url <https://kitsaplabs.com/od/user/360> .
+
+od:user-362 a foaf:Person, od:User ;
+    od:userId 362 ;
+    foaf:name """Pecenje""" ;
+    rdfs:label """Pecenje""" ;
+    schema:url <https://kitsaplabs.com/od/user/362> .
+
+od:user-363 a foaf:Person, od:User ;
+    od:userId 363 ;
+    foaf:name """Ragin1""" ;
+    rdfs:label """Ragin1""" ;
+    schema:url <https://kitsaplabs.com/od/user/363> .
+
+od:user-367 a foaf:Person, od:User ;
+    od:userId 367 ;
+    foaf:name """bmullins""" ;
+    rdfs:label """bmullins""" ;
+    schema:url <https://kitsaplabs.com/od/user/367> .
+
+od:user-372 a foaf:Person, od:User ;
+    od:userId 372 ;
+    foaf:name """race_conscious""" ;
+    rdfs:label """race_conscious""" ;
+    schema:url <https://kitsaplabs.com/od/user/372> .
+
+od:user-374 a foaf:Person, od:User ;
+    od:userId 374 ;
+    foaf:name """capecode""" ;
+    rdfs:label """capecode""" ;
+    schema:url <https://kitsaplabs.com/od/user/374> .
+
+od:user-375 a foaf:Person, od:User ;
+    od:userId 375 ;
+    foaf:name """golfball""" ;
+    rdfs:label """golfball""" ;
+    schema:url <https://kitsaplabs.com/od/user/375> .
+
+od:user-376 a foaf:Person, od:User ;
+    od:userId 376 ;
+    foaf:name """Allan""" ;
+    rdfs:label """Allan""" ;
+    schema:url <https://kitsaplabs.com/od/user/376> .
+
+od:user-378 a foaf:Person, od:User ;
+    od:userId 378 ;
+    foaf:name """Eendracht Maakt Mag""" ;
+    rdfs:label """Eendracht Maakt Mag""" ;
+    schema:url <https://kitsaplabs.com/od/user/378> .
+
+od:user-382 a foaf:Person, od:User ;
+    od:userId 382 ;
+    foaf:name """Preserved Mather""" ;
+    rdfs:label """Preserved Mather""" ;
+    schema:url <https://kitsaplabs.com/od/user/382> .
+
+od:user-383 a foaf:Person, od:User ;
+    od:userId 383 ;
+    foaf:name """NewJerseyAttack""" ;
+    rdfs:label """NewJerseyAttack""" ;
+    schema:url <https://kitsaplabs.com/od/user/383> .
+
+od:user-386 a foaf:Person, od:User ;
+    od:userId 386 ;
+    foaf:name """Conservative""" ;
+    rdfs:label """Conservative""" ;
+    schema:url <https://kitsaplabs.com/od/user/386> .
+
+od:user-387 a foaf:Person, od:User ;
+    od:userId 387 ;
+    foaf:name """Kurt""" ;
+    rdfs:label """Kurt""" ;
+    schema:url <https://kitsaplabs.com/od/user/387> .
+
+od:user-389 a foaf:Person, od:User ;
+    od:userId 389 ;
+    foaf:name """EDUMAKATEDMOFO""" ;
+    rdfs:label """EDUMAKATEDMOFO""" ;
+    schema:url <https://kitsaplabs.com/od/user/389> .
+
+od:user-391 a foaf:Person, od:User ;
+    od:userId 391 ;
+    foaf:name """DruidDude""" ;
+    rdfs:label """DruidDude""" ;
+    schema:url <https://kitsaplabs.com/od/user/391> .
+
+od:user-394 a foaf:Person, od:User ;
+    od:userId 394 ;
+    foaf:name """triskelion""" ;
+    rdfs:label """triskelion""" ;
+    schema:url <https://kitsaplabs.com/od/user/394> .
+
+od:user-395 a foaf:Person, od:User ;
+    od:userId 395 ;
+    foaf:name """Snouter""" ;
+    rdfs:label """Snouter""" ;
+    schema:url <https://kitsaplabs.com/od/user/395> .
+
+od:user-399 a foaf:Person, od:User ;
+    od:userId 399 ;
+    foaf:name """GRF""" ;
+    rdfs:label """GRF""" ;
+    schema:url <https://kitsaplabs.com/od/user/399> .
+
+od:user-401 a foaf:Person, od:User ;
+    od:userId 401 ;
+    foaf:name """Rainman""" ;
+    rdfs:label """Rainman""" ;
+    schema:url <https://kitsaplabs.com/od/user/401> .
+
+od:user-402 a foaf:Person, od:User ;
+    od:userId 402 ;
+    foaf:name """max soldo""" ;
+    rdfs:label """max soldo""" ;
+    schema:url <https://kitsaplabs.com/od/user/402> .
+
+od:user-403 a foaf:Person, od:User ;
+    od:userId 403 ;
+    foaf:name """laconas""" ;
+    rdfs:label """laconas""" ;
+    schema:url <https://kitsaplabs.com/od/user/403> .
+
+od:user-404 a foaf:Person, od:User ;
+    od:userId 404 ;
+    foaf:name """Madrid burns""" ;
+    rdfs:label """Madrid burns""" ;
+    schema:url <https://kitsaplabs.com/od/user/404> .
+
+od:user-406 a foaf:Person, od:User ;
+    od:userId 406 ;
+    foaf:name """Alka""" ;
+    rdfs:label """Alka""" ;
+    schema:url <https://kitsaplabs.com/od/user/406> .
+
+od:user-408 a foaf:Person, od:User ;
+    od:userId 408 ;
+    foaf:name """Rudel""" ;
+    rdfs:label """Rudel""" ;
+    schema:url <https://kitsaplabs.com/od/user/408> .
+
+od:user-409 a foaf:Person, od:User ;
+    od:userId 409 ;
+    foaf:name """Cracker of the Whip""" ;
+    rdfs:label """Cracker of the Whip""" ;
+    schema:url <https://kitsaplabs.com/od/user/409> .
+
+od:user-410 a foaf:Person, od:User ;
+    od:userId 410 ;
+    foaf:name """Atlantin""" ;
+    rdfs:label """Atlantin""" ;
+    schema:url <https://kitsaplabs.com/od/user/410> .
+
+od:user-411 a foaf:Person, od:User ;
+    od:userId 411 ;
+    foaf:name """England""" ;
+    rdfs:label """England""" ;
+    schema:url <https://kitsaplabs.com/od/user/411> .
+
+od:user-413 a foaf:Person, od:User ;
+    od:userId 413 ;
+    foaf:name """Falconnier""" ;
+    rdfs:label """Falconnier""" ;
+    schema:url <https://kitsaplabs.com/od/user/413> .
+
+od:user-415 a foaf:Person, od:User ;
+    od:userId 415 ;
+    foaf:name """grep14w""" ;
+    rdfs:label """grep14w""" ;
+    schema:url <https://kitsaplabs.com/od/user/415> .
+
+od:user-416 a foaf:Person, od:User ;
+    od:userId 416 ;
+    foaf:name """AryanKnight""" ;
+    rdfs:label """AryanKnight""" ;
+    schema:url <https://kitsaplabs.com/od/user/416> .
+
+od:user-420 a foaf:Person, od:User ;
+    od:userId 420 ;
+    foaf:name """JAT""" ;
+    rdfs:label """JAT""" ;
+    schema:url <https://kitsaplabs.com/od/user/420> .
+
+od:user-421 a foaf:Person, od:User ;
+    od:userId 421 ;
+    foaf:name """Rumblestrip""" ;
+    rdfs:label """Rumblestrip""" ;
+    schema:url <https://kitsaplabs.com/od/user/421> .
+
+od:user-424 a foaf:Person, od:User ;
+    od:userId 424 ;
+    foaf:name """amussert""" ;
+    rdfs:label """amussert""" ;
+    schema:url <https://kitsaplabs.com/od/user/424> .
+
+od:user-425 a foaf:Person, od:User ;
+    od:userId 425 ;
+    foaf:name """JOEBIALEK""" ;
+    rdfs:label """JOEBIALEK""" ;
+    schema:url <https://kitsaplabs.com/od/user/425> .
+
+od:user-426 a foaf:Person, od:User ;
+    od:userId 426 ;
+    foaf:name """DakotaBlue""" ;
+    rdfs:label """DakotaBlue""" ;
+    schema:url <https://kitsaplabs.com/od/user/426> .
+
+od:user-427 a foaf:Person, od:User ;
+    od:userId 427 ;
+    foaf:name """Tom Rennick""" ;
+    rdfs:label """Tom Rennick""" ;
+    schema:url <https://kitsaplabs.com/od/user/427> .
+
+od:user-428 a foaf:Person, od:User ;
+    od:userId 428 ;
+    foaf:name """serbianfire""" ;
+    rdfs:label """serbianfire""" ;
+    schema:url <https://kitsaplabs.com/od/user/428> .
+
+od:user-430 a foaf:Person, od:User ;
+    od:userId 430 ;
+    foaf:name """Zvaci""" ;
+    rdfs:label """Zvaci""" ;
+    schema:url <https://kitsaplabs.com/od/user/430> .
+
+od:user-431 a foaf:Person, od:User ;
+    od:userId 431 ;
+    foaf:name """damian""" ;
+    rdfs:label """damian""" ;
+    schema:url <https://kitsaplabs.com/od/user/431> .
+
+od:user-432 a foaf:Person, od:User ;
+    od:userId 432 ;
+    foaf:name """Eisenfaust""" ;
+    rdfs:label """Eisenfaust""" ;
+    schema:url <https://kitsaplabs.com/od/user/432> .
+
+od:user-434 a foaf:Person, od:User ;
+    od:userId 434 ;
+    foaf:name """Timegrid""" ;
+    rdfs:label """Timegrid""" ;
+    schema:url <https://kitsaplabs.com/od/user/434> .
+
+od:user-438 a foaf:Person, od:User ;
+    od:userId 438 ;
+    foaf:name """Hilaire Belloc""" ;
+    rdfs:label """Hilaire Belloc""" ;
+    schema:url <https://kitsaplabs.com/od/user/438> .
+
+od:user-441 a foaf:Person, od:User ;
+    od:userId 441 ;
+    foaf:name """James Henly Thornwell""" ;
+    rdfs:label """James Henly Thornwell""" ;
+    schema:url <https://kitsaplabs.com/od/user/441> .
+
+od:user-442 a foaf:Person, od:User ;
+    od:userId 442 ;
+    foaf:name """M1488D""" ;
+    rdfs:label """M1488D""" ;
+    schema:url <https://kitsaplabs.com/od/user/442> .
+
+od:user-443 a foaf:Person, od:User ;
+    od:userId 443 ;
+    foaf:name """Kevin Alfred Strom""" ;
+    rdfs:label """Kevin Alfred Strom""" ;
+    schema:url <https://kitsaplabs.com/od/user/443> .
+
+od:user-444 a foaf:Person, od:User ;
+    od:userId 444 ;
+    foaf:name """Analytic""" ;
+    rdfs:label """Analytic""" ;
+    schema:url <https://kitsaplabs.com/od/user/444> .
+
+od:user-445 a foaf:Person, od:User ;
+    od:userId 445 ;
+    foaf:name """A.T. Tapman""" ;
+    rdfs:label """A.T. Tapman""" ;
+    schema:url <https://kitsaplabs.com/od/user/445> .
+
+od:user-446 a foaf:Person, od:User ;
+    od:userId 446 ;
+    foaf:name """Patrick""" ;
+    rdfs:label """Patrick""" ;
+    schema:url <https://kitsaplabs.com/od/user/446> .
+
+od:user-447 a foaf:Person, od:User ;
+    od:userId 447 ;
+    foaf:name """Undecided""" ;
+    rdfs:label """Undecided""" ;
+    schema:url <https://kitsaplabs.com/od/user/447> .
+
+od:user-448 a foaf:Person, od:User ;
+    od:userId 448 ;
+    foaf:name """Patriot""" ;
+    rdfs:label """Patriot""" ;
+    schema:url <https://kitsaplabs.com/od/user/448> .
+
+od:user-450 a foaf:Person, od:User ;
+    od:userId 450 ;
+    foaf:name """Brooke""" ;
+    rdfs:label """Brooke""" ;
+    schema:url <https://kitsaplabs.com/od/user/450> .
+
+od:user-452 a foaf:Person, od:User ;
+    od:userId 452 ;
+    foaf:name """Midgard""" ;
+    rdfs:label """Midgard""" ;
+    schema:url <https://kitsaplabs.com/od/user/452> .
+
+od:user-453 a foaf:Person, od:User ;
+    od:userId 453 ;
+    foaf:name """kinbote""" ;
+    rdfs:label """kinbote""" ;
+    schema:url <https://kitsaplabs.com/od/user/453> .
+
+od:user-455 a foaf:Person, od:User ;
+    od:userId 455 ;
+    foaf:name """Jeff Head""" ;
+    rdfs:label """Jeff Head""" ;
+    schema:url <https://kitsaplabs.com/od/user/455> .
+
+od:user-457 a foaf:Person, od:User ;
+    od:userId 457 ;
+    foaf:name """Brian J. Bucher""" ;
+    rdfs:label """Brian J. Bucher""" ;
+    schema:url <https://kitsaplabs.com/od/user/457> .
+
+od:user-458 a foaf:Person, od:User ;
+    od:userId 458 ;
+    foaf:name """troup1998""" ;
+    rdfs:label """troup1998""" ;
+    schema:url <https://kitsaplabs.com/od/user/458> .
+
+od:user-459 a foaf:Person, od:User ;
+    od:userId 459 ;
+    foaf:name """The DOC""" ;
+    rdfs:label """The DOC""" ;
+    schema:url <https://kitsaplabs.com/od/user/459> .
+
+od:user-460 a foaf:Person, od:User ;
+    od:userId 460 ;
+    foaf:name """NS Serbia""" ;
+    rdfs:label """NS Serbia""" ;
+    schema:url <https://kitsaplabs.com/od/user/460> .
+
+od:user-462 a foaf:Person, od:User ;
+    od:userId 462 ;
+    foaf:name """Lewis Wetzel""" ;
+    rdfs:label """Lewis Wetzel""" ;
+    schema:url <https://kitsaplabs.com/od/user/462> .
+
+od:user-463 a foaf:Person, od:User ;
+    od:userId 463 ;
+    foaf:name """RangeMe""" ;
+    rdfs:label """RangeMe""" ;
+    schema:url <https://kitsaplabs.com/od/user/463> .
+
+od:user-464 a foaf:Person, od:User ;
+    od:userId 464 ;
+    foaf:name """Fire Pen""" ;
+    rdfs:label """Fire Pen""" ;
+    schema:url <https://kitsaplabs.com/od/user/464> .
+
+od:user-465 a foaf:Person, od:User ;
+    od:userId 465 ;
+    foaf:name """Chaucer""" ;
+    rdfs:label """Chaucer""" ;
+    schema:url <https://kitsaplabs.com/od/user/465> .
+
+od:user-466 a foaf:Person, od:User ;
+    od:userId 466 ;
+    foaf:name """Chauncey""" ;
+    rdfs:label """Chauncey""" ;
+    schema:url <https://kitsaplabs.com/od/user/466> .
+
+od:user-471 a foaf:Person, od:User ;
+    od:userId 471 ;
+    foaf:name """spartakos""" ;
+    rdfs:label """spartakos""" ;
+    schema:url <https://kitsaplabs.com/od/user/471> .
+
+od:user-472 a foaf:Person, od:User ;
+    od:userId 472 ;
+    foaf:name """Raider of Arks""" ;
+    rdfs:label """Raider of Arks""" ;
+    schema:url <https://kitsaplabs.com/od/user/472> .
+
+od:user-473 a foaf:Person, od:User ;
+    od:userId 473 ;
+    foaf:name """KingOfPain""" ;
+    rdfs:label """KingOfPain""" ;
+    schema:url <https://kitsaplabs.com/od/user/473> .
+
+od:user-475 a foaf:Person, od:User ;
+    od:userId 475 ;
+    foaf:name """iwannabeanarchy""" ;
+    rdfs:label """iwannabeanarchy""" ;
+    schema:url <https://kitsaplabs.com/od/user/475> .
+
+od:user-476 a foaf:Person, od:User ;
+    od:userId 476 ;
+    foaf:name """atruelove""" ;
+    rdfs:label """atruelove""" ;
+    schema:url <https://kitsaplabs.com/od/user/476> .
+
+od:user-478 a foaf:Person, od:User ;
+    od:userId 478 ;
+    foaf:name """Lady_America""" ;
+    rdfs:label """Lady_America""" ;
+    schema:url <https://kitsaplabs.com/od/user/478> .
+
+od:user-481 a foaf:Person, od:User ;
+    od:userId 481 ;
+    foaf:name """shamrock44""" ;
+    rdfs:label """shamrock44""" ;
+    schema:url <https://kitsaplabs.com/od/user/481> .
+
+od:user-482 a foaf:Person, od:User ;
+    od:userId 482 ;
+    foaf:name """rglencheek""" ;
+    rdfs:label """rglencheek""" ;
+    schema:url <https://kitsaplabs.com/od/user/482> .
+
+od:user-484 a foaf:Person, od:User ;
+    od:userId 484 ;
+    foaf:name """Ausonius""" ;
+    rdfs:label """Ausonius""" ;
+    schema:url <https://kitsaplabs.com/od/user/484> .
+
+od:user-486 a foaf:Person, od:User ;
+    od:userId 486 ;
+    foaf:name """Aidos""" ;
+    rdfs:label """Aidos""" ;
+    schema:url <https://kitsaplabs.com/od/user/486> .
+
+od:user-488 a foaf:Person, od:User ;
+    od:userId 488 ;
+    foaf:name """ÃÅbeltÃÂ¤ter""" ;
+    rdfs:label """ÃÅbeltÃÂ¤ter""" ;
+    schema:url <https://kitsaplabs.com/od/user/488> .
+
+od:user-489 a foaf:Person, od:User ;
+    od:userId 489 ;
+    foaf:name """Anissimov""" ;
+    rdfs:label """Anissimov""" ;
+    schema:url <https://kitsaplabs.com/od/user/489> .
+
+od:user-497 a foaf:Person, od:User ;
+    od:userId 497 ;
+    foaf:name """jack_boot""" ;
+    rdfs:label """jack_boot""" ;
+    schema:url <https://kitsaplabs.com/od/user/497> .
+
+od:user-498 a foaf:Person, od:User ;
+    od:userId 498 ;
+    foaf:name """johnereb63""" ;
+    rdfs:label """johnereb63""" ;
+    schema:url <https://kitsaplabs.com/od/user/498> .
+
+od:user-499 a foaf:Person, od:User ;
+    od:userId 499 ;
+    foaf:name """Max_Power""" ;
+    rdfs:label """Max_Power""" ;
+    schema:url <https://kitsaplabs.com/od/user/499> .
+
+od:user-502 a foaf:Person, od:User ;
+    od:userId 502 ;
+    foaf:name """Jahel""" ;
+    rdfs:label """Jahel""" ;
+    schema:url <https://kitsaplabs.com/od/user/502> .
+
+od:user-507 a foaf:Person, od:User ;
+    od:userId 507 ;
+    foaf:name """Cecilius_Calvert""" ;
+    rdfs:label """Cecilius_Calvert""" ;
+    schema:url <https://kitsaplabs.com/od/user/507> .
+
+od:user-508 a foaf:Person, od:User ;
+    od:userId 508 ;
+    foaf:name """Wolfsnarl""" ;
+    rdfs:label """Wolfsnarl""" ;
+    schema:url <https://kitsaplabs.com/od/user/508> .
+
+od:user-509 a foaf:Person, od:User ;
+    od:userId 509 ;
+    foaf:name """difftrev""" ;
+    rdfs:label """difftrev""" ;
+    schema:url <https://kitsaplabs.com/od/user/509> .
+
+od:user-511 a foaf:Person, od:User ;
+    od:userId 511 ;
+    foaf:name """Karl Wilhelm""" ;
+    rdfs:label """Karl Wilhelm""" ;
+    schema:url <https://kitsaplabs.com/od/user/511> .
+
+od:user-513 a foaf:Person, od:User ;
+    od:userId 513 ;
+    foaf:name """Mack""" ;
+    rdfs:label """Mack""" ;
+    schema:url <https://kitsaplabs.com/od/user/513> .
+
+od:user-514 a foaf:Person, od:User ;
+    od:userId 514 ;
+    foaf:name """Tosti""" ;
+    rdfs:label """Tosti""" ;
+    schema:url <https://kitsaplabs.com/od/user/514> .
+
+od:user-515 a foaf:Person, od:User ;
+    od:userId 515 ;
+    foaf:name """mrmetal""" ;
+    rdfs:label """mrmetal""" ;
+    schema:url <https://kitsaplabs.com/od/user/515> .
+
+od:user-516 a foaf:Person, od:User ;
+    od:userId 516 ;
+    foaf:name """far82sight""" ;
+    rdfs:label """far82sight""" ;
+    schema:url <https://kitsaplabs.com/od/user/516> .
+
+od:user-518 a foaf:Person, od:User ;
+    od:userId 518 ;
+    foaf:name """Jerry Abbott""" ;
+    rdfs:label """Jerry Abbott""" ;
+    schema:url <https://kitsaplabs.com/od/user/518> .
+
+od:user-520 a foaf:Person, od:User ;
+    od:userId 520 ;
+    foaf:name """dallenk""" ;
+    rdfs:label """dallenk""" ;
+    schema:url <https://kitsaplabs.com/od/user/520> .
+
+od:user-531 a foaf:Person, od:User ;
+    od:userId 531 ;
+    foaf:name """efflux""" ;
+    rdfs:label """efflux""" ;
+    schema:url <https://kitsaplabs.com/od/user/531> .
+
+od:user-533 a foaf:Person, od:User ;
+    od:userId 533 ;
+    foaf:name """Vojin""" ;
+    rdfs:label """Vojin""" ;
+    schema:url <https://kitsaplabs.com/od/user/533> .
+
+od:user-534 a foaf:Person, od:User ;
+    od:userId 534 ;
+    foaf:name """dragon5607""" ;
+    rdfs:label """dragon5607""" ;
+    schema:url <https://kitsaplabs.com/od/user/534> .
+
+od:user-535 a foaf:Person, od:User ;
+    od:userId 535 ;
+    foaf:name """tiny123""" ;
+    rdfs:label """tiny123""" ;
+    schema:url <https://kitsaplabs.com/od/user/535> .
+
+od:user-539 a foaf:Person, od:User ;
+    od:userId 539 ;
+    foaf:name """Polish Noble""" ;
+    rdfs:label """Polish Noble""" ;
+    schema:url <https://kitsaplabs.com/od/user/539> .
+
+od:user-541 a foaf:Person, od:User ;
+    od:userId 541 ;
+    foaf:name """mblaze1973""" ;
+    rdfs:label """mblaze1973""" ;
+    schema:url <https://kitsaplabs.com/od/user/541> .
+
+od:user-543 a foaf:Person, od:User ;
+    od:userId 543 ;
+    foaf:name """s_guy""" ;
+    rdfs:label """s_guy""" ;
+    schema:url <https://kitsaplabs.com/od/user/543> .
+
+od:user-546 a foaf:Person, od:User ;
+    od:userId 546 ;
+    foaf:name """Nukeman30""" ;
+    rdfs:label """Nukeman30""" ;
+    schema:url <https://kitsaplabs.com/od/user/546> .
+
+od:user-547 a foaf:Person, od:User ;
+    od:userId 547 ;
+    foaf:name """Gabrielle""" ;
+    rdfs:label """Gabrielle""" ;
+    schema:url <https://kitsaplabs.com/od/user/547> .
+
+od:user-548 a foaf:Person, od:User ;
+    od:userId 548 ;
+    foaf:name """Ivan""" ;
+    rdfs:label """Ivan""" ;
+    schema:url <https://kitsaplabs.com/od/user/548> .
+
+od:user-549 a foaf:Person, od:User ;
+    od:userId 549 ;
+    foaf:name """swedish_NA_member""" ;
+    rdfs:label """swedish_NA_member""" ;
+    schema:url <https://kitsaplabs.com/od/user/549> .
+
+od:user-551 a foaf:Person, od:User ;
+    od:userId 551 ;
+    foaf:name """CrankyFrank""" ;
+    rdfs:label """CrankyFrank""" ;
+    schema:url <https://kitsaplabs.com/od/user/551> .
+
+od:user-555 a foaf:Person, od:User ;
+    od:userId 555 ;
+    foaf:name """annonly""" ;
+    rdfs:label """annonly""" ;
+    schema:url <https://kitsaplabs.com/od/user/555> .
+
+od:user-556 a foaf:Person, od:User ;
+    od:userId 556 ;
+    foaf:name """flameburns623""" ;
+    rdfs:label """flameburns623""" ;
+    schema:url <https://kitsaplabs.com/od/user/556> .
+
+od:user-557 a foaf:Person, od:User ;
+    od:userId 557 ;
+    foaf:name """JohnJoyTree""" ;
+    rdfs:label """JohnJoyTree""" ;
+    schema:url <https://kitsaplabs.com/od/user/557> .
+
+od:user-561 a foaf:Person, od:User ;
+    od:userId 561 ;
+    foaf:name """Aiwaz93""" ;
+    rdfs:label """Aiwaz93""" ;
+    schema:url <https://kitsaplabs.com/od/user/561> .
+
+od:user-563 a foaf:Person, od:User ;
+    od:userId 563 ;
+    foaf:name """godlesscapitalist""" ;
+    rdfs:label """godlesscapitalist""" ;
+    schema:url <https://kitsaplabs.com/od/user/563> .
+
+od:user-564 a foaf:Person, od:User ;
+    od:userId 564 ;
+    foaf:name """Rick_Dean""" ;
+    rdfs:label """Rick_Dean""" ;
+    schema:url <https://kitsaplabs.com/od/user/564> .
+
+od:user-565 a foaf:Person, od:User ;
+    od:userId 565 ;
+    foaf:name """yummybear""" ;
+    rdfs:label """yummybear""" ;
+    schema:url <https://kitsaplabs.com/od/user/565> .
+
+od:user-568 a foaf:Person, od:User ;
+    od:userId 568 ;
+    foaf:name """TDW_BIBLE""" ;
+    rdfs:label """TDW_BIBLE""" ;
+    schema:url <https://kitsaplabs.com/od/user/568> .
+
+od:user-569 a foaf:Person, od:User ;
+    od:userId 569 ;
+    foaf:name """yoram6""" ;
+    rdfs:label """yoram6""" ;
+    schema:url <https://kitsaplabs.com/od/user/569> .
+
+od:user-571 a foaf:Person, od:User ;
+    od:userId 571 ;
+    foaf:name """MemyselfandI""" ;
+    rdfs:label """MemyselfandI""" ;
+    schema:url <https://kitsaplabs.com/od/user/571> .
+
+od:user-572 a foaf:Person, od:User ;
+    od:userId 572 ;
+    foaf:name """Fletch""" ;
+    rdfs:label """Fletch""" ;
+    schema:url <https://kitsaplabs.com/od/user/572> .
+
+od:user-574 a foaf:Person, od:User ;
+    od:userId 574 ;
+    foaf:name """Nein Gott""" ;
+    rdfs:label """Nein Gott""" ;
+    schema:url <https://kitsaplabs.com/od/user/574> .
+
+od:user-576 a foaf:Person, od:User ;
+    od:userId 576 ;
+    foaf:name """Sojourner""" ;
+    rdfs:label """Sojourner""" ;
+    schema:url <https://kitsaplabs.com/od/user/576> .
+
+od:user-578 a foaf:Person, od:User ;
+    od:userId 578 ;
+    foaf:name """friedrich braun""" ;
+    rdfs:label """friedrich braun""" ;
+    schema:url <https://kitsaplabs.com/od/user/578> .
+
+od:user-582 a foaf:Person, od:User ;
+    od:userId 582 ;
+    foaf:name """MercuryMan""" ;
+    rdfs:label """MercuryMan""" ;
+    schema:url <https://kitsaplabs.com/od/user/582> .
+
+od:user-584 a foaf:Person, od:User ;
+    od:userId 584 ;
+    foaf:name """mmartins""" ;
+    rdfs:label """mmartins""" ;
+    schema:url <https://kitsaplabs.com/od/user/584> .
+
+od:user-589 a foaf:Person, od:User ;
+    od:userId 589 ;
+    foaf:name """Mr. Tsun""" ;
+    rdfs:label """Mr. Tsun""" ;
+    schema:url <https://kitsaplabs.com/od/user/589> .
+
+od:user-590 a foaf:Person, od:User ;
+    od:userId 590 ;
+    foaf:name """Fernando Wood""" ;
+    rdfs:label """Fernando Wood""" ;
+    schema:url <https://kitsaplabs.com/od/user/590> .
+
+od:user-591 a foaf:Person, od:User ;
+    od:userId 591 ;
+    foaf:name """Chad""" ;
+    rdfs:label """Chad""" ;
+    schema:url <https://kitsaplabs.com/od/user/591> .
+
+od:user-593 a foaf:Person, od:User ;
+    od:userId 593 ;
+    foaf:name """General Rommel""" ;
+    rdfs:label """General Rommel""" ;
+    schema:url <https://kitsaplabs.com/od/user/593> .
+
+od:user-598 a foaf:Person, od:User ;
+    od:userId 598 ;
+    foaf:name """prozak""" ;
+    rdfs:label """prozak""" ;
+    schema:url <https://kitsaplabs.com/od/user/598> .
+
+od:user-602 a foaf:Person, od:User ;
+    od:userId 602 ;
+    foaf:name """Nordhammer""" ;
+    rdfs:label """Nordhammer""" ;
+    schema:url <https://kitsaplabs.com/od/user/602> .
+
+od:user-603 a foaf:Person, od:User ;
+    od:userId 603 ;
+    foaf:name """HBarniv""" ;
+    rdfs:label """HBarniv""" ;
+    schema:url <https://kitsaplabs.com/od/user/603> .
+
+od:user-605 a foaf:Person, od:User ;
+    od:userId 605 ;
+    foaf:name """Edric""" ;
+    rdfs:label """Edric""" ;
+    schema:url <https://kitsaplabs.com/od/user/605> .
+
+od:user-606 a foaf:Person, od:User ;
+    od:userId 606 ;
+    foaf:name """Phil""" ;
+    rdfs:label """Phil""" ;
+    schema:url <https://kitsaplabs.com/od/user/606> .
+
+od:user-607 a foaf:Person, od:User ;
+    od:userId 607 ;
+    foaf:name """esquire1983""" ;
+    rdfs:label """esquire1983""" ;
+    schema:url <https://kitsaplabs.com/od/user/607> .
+
+od:user-610 a foaf:Person, od:User ;
+    od:userId 610 ;
+    foaf:name """Nagelfar""" ;
+    rdfs:label """Nagelfar""" ;
+    schema:url <https://kitsaplabs.com/od/user/610> .
+
+od:user-611 a foaf:Person, od:User ;
+    od:userId 611 ;
+    foaf:name """Polako""" ;
+    rdfs:label """Polako""" ;
+    schema:url <https://kitsaplabs.com/od/user/611> .
+
+od:user-612 a foaf:Person, od:User ;
+    od:userId 612 ;
+    foaf:name """Jessica1973""" ;
+    rdfs:label """Jessica1973""" ;
+    schema:url <https://kitsaplabs.com/od/user/612> .
+
+od:user-613 a foaf:Person, od:User ;
+    od:userId 613 ;
+    foaf:name """FreedomHaters.com""" ;
+    rdfs:label """FreedomHaters.com""" ;
+    schema:url <https://kitsaplabs.com/od/user/613> .
+
+od:user-614 a foaf:Person, od:User ;
+    od:userId 614 ;
+    foaf:name """blackamerican""" ;
+    rdfs:label """blackamerican""" ;
+    schema:url <https://kitsaplabs.com/od/user/614> .
+
+od:user-617 a foaf:Person, od:User ;
+    od:userId 617 ;
+    foaf:name """George B.""" ;
+    rdfs:label """George B.""" ;
+    schema:url <https://kitsaplabs.com/od/user/617> .
+
+od:user-622 a foaf:Person, od:User ;
+    od:userId 622 ;
+    foaf:name """sun tzu""" ;
+    rdfs:label """sun tzu""" ;
+    schema:url <https://kitsaplabs.com/od/user/622> .
+
+od:user-626 a foaf:Person, od:User ;
+    od:userId 626 ;
+    foaf:name """Jack_Barbara""" ;
+    rdfs:label """Jack_Barbara""" ;
+    schema:url <https://kitsaplabs.com/od/user/626> .
+
+od:user-629 a foaf:Person, od:User ;
+    od:userId 629 ;
+    foaf:name """arya""" ;
+    rdfs:label """arya""" ;
+    schema:url <https://kitsaplabs.com/od/user/629> .
+
+od:user-634 a foaf:Person, od:User ;
+    od:userId 634 ;
+    foaf:name """Rex_Mundi""" ;
+    rdfs:label """Rex_Mundi""" ;
+    schema:url <https://kitsaplabs.com/od/user/634> .
+
+od:user-635 a foaf:Person, od:User ;
+    od:userId 635 ;
+    foaf:name """clairyoungii""" ;
+    rdfs:label """clairyoungii""" ;
+    schema:url <https://kitsaplabs.com/od/user/635> .
+
+od:user-637 a foaf:Person, od:User ;
+    od:userId 637 ;
+    foaf:name """BjarniTyrdal""" ;
+    rdfs:label """BjarniTyrdal""" ;
+    schema:url <https://kitsaplabs.com/od/user/637> .
+
+od:user-640 a foaf:Person, od:User ;
+    od:userId 640 ;
+    foaf:name """divanrg""" ;
+    rdfs:label """divanrg""" ;
+    schema:url <https://kitsaplabs.com/od/user/640> .
+
+od:user-641 a foaf:Person, od:User ;
+    od:userId 641 ;
+    foaf:name """Renton""" ;
+    rdfs:label """Renton""" ;
+    schema:url <https://kitsaplabs.com/od/user/641> .
+
+od:user-642 a foaf:Person, od:User ;
+    od:userId 642 ;
+    foaf:name """john w k""" ;
+    rdfs:label """john w k""" ;
+    schema:url <https://kitsaplabs.com/od/user/642> .
+
+od:user-643 a foaf:Person, od:User ;
+    od:userId 643 ;
+    foaf:name """uhytgb""" ;
+    rdfs:label """uhytgb""" ;
+    schema:url <https://kitsaplabs.com/od/user/643> .
+
+od:user-644 a foaf:Person, od:User ;
+    od:userId 644 ;
+    foaf:name """Cruz de Cristo""" ;
+    rdfs:label """Cruz de Cristo""" ;
+    schema:url <https://kitsaplabs.com/od/user/644> .
+
+od:user-646 a foaf:Person, od:User ;
+    od:userId 646 ;
+    foaf:name """travis""" ;
+    rdfs:label """travis""" ;
+    schema:url <https://kitsaplabs.com/od/user/646> .
+
+od:user-648 a foaf:Person, od:User ;
+    od:userId 648 ;
+    foaf:name """Sumadinac""" ;
+    rdfs:label """Sumadinac""" ;
+    schema:url <https://kitsaplabs.com/od/user/648> .
+
+od:user-649 a foaf:Person, od:User ;
+    od:userId 649 ;
+    foaf:name """Robert Arnold""" ;
+    rdfs:label """Robert Arnold""" ;
+    schema:url <https://kitsaplabs.com/od/user/649> .
+
+od:user-650 a foaf:Person, od:User ;
+    od:userId 650 ;
+    foaf:name """Julian the Apostate""" ;
+    rdfs:label """Julian the Apostate""" ;
+    schema:url <https://kitsaplabs.com/od/user/650> .
+
+od:user-652 a foaf:Person, od:User ;
+    od:userId 652 ;
+    foaf:name """johnthepaleocon""" ;
+    rdfs:label """johnthepaleocon""" ;
+    schema:url <https://kitsaplabs.com/od/user/652> .
+
+od:user-654 a foaf:Person, od:User ;
+    od:userId 654 ;
+    foaf:name """Spiderman""" ;
+    rdfs:label """Spiderman""" ;
+    schema:url <https://kitsaplabs.com/od/user/654> .
+
+od:user-657 a foaf:Person, od:User ;
+    od:userId 657 ;
+    foaf:name """Last Outpost""" ;
+    rdfs:label """Last Outpost""" ;
+    schema:url <https://kitsaplabs.com/od/user/657> .
+
+od:user-658 a foaf:Person, od:User ;
+    od:userId 658 ;
+    foaf:name """Abbess Ectoplasm""" ;
+    rdfs:label """Abbess Ectoplasm""" ;
+    schema:url <https://kitsaplabs.com/od/user/658> .
+
+od:user-663 a foaf:Person, od:User ;
+    od:userId 663 ;
+    foaf:name """NameTheDemonInShoeLeather""" ;
+    rdfs:label """NameTheDemonInShoeLeather""" ;
+    schema:url <https://kitsaplabs.com/od/user/663> .
+
+od:user-664 a foaf:Person, od:User ;
+    od:userId 664 ;
+    foaf:name """All Old Right""" ;
+    rdfs:label """All Old Right""" ;
+    schema:url <https://kitsaplabs.com/od/user/664> .
+
+od:user-666 a foaf:Person, od:User ;
+    od:userId 666 ;
+    foaf:name """bbblitzz""" ;
+    rdfs:label """bbblitzz""" ;
+    schema:url <https://kitsaplabs.com/od/user/666> .
+
+od:user-671 a foaf:Person, od:User ;
+    od:userId 671 ;
+    foaf:name """MonyXtwo""" ;
+    rdfs:label """MonyXtwo""" ;
+    schema:url <https://kitsaplabs.com/od/user/671> .
+
+od:user-673 a foaf:Person, od:User ;
+    od:userId 673 ;
+    foaf:name """Jack Sarfatti""" ;
+    rdfs:label """Jack Sarfatti""" ;
+    schema:url <https://kitsaplabs.com/od/user/673> .
+
+od:user-678 a foaf:Person, od:User ;
+    od:userId 678 ;
+    foaf:name """Unibit""" ;
+    rdfs:label """Unibit""" ;
+    schema:url <https://kitsaplabs.com/od/user/678> .
+
+od:user-680 a foaf:Person, od:User ;
+    od:userId 680 ;
+    foaf:name """Ron""" ;
+    rdfs:label """Ron""" ;
+    schema:url <https://kitsaplabs.com/od/user/680> .
+
+od:user-681 a foaf:Person, od:User ;
+    od:userId 681 ;
+    foaf:name """Ebusitanus""" ;
+    rdfs:label """Ebusitanus""" ;
+    schema:url <https://kitsaplabs.com/od/user/681> .
+
+od:user-683 a foaf:Person, od:User ;
+    od:userId 683 ;
+    foaf:name """DBaller""" ;
+    rdfs:label """DBaller""" ;
+    schema:url <https://kitsaplabs.com/od/user/683> .
+
+od:user-684 a foaf:Person, od:User ;
+    od:userId 684 ;
+    foaf:name """SNogan""" ;
+    rdfs:label """SNogan""" ;
+    schema:url <https://kitsaplabs.com/od/user/684> .
+
+od:user-686 a foaf:Person, od:User ;
+    od:userId 686 ;
+    foaf:name """Regicide""" ;
+    rdfs:label """Regicide""" ;
+    schema:url <https://kitsaplabs.com/od/user/686> .
+
+od:user-687 a foaf:Person, od:User ;
+    od:userId 687 ;
+    foaf:name """floro""" ;
+    rdfs:label """floro""" ;
+    schema:url <https://kitsaplabs.com/od/user/687> .
+
+od:user-690 a foaf:Person, od:User ;
+    od:userId 690 ;
+    foaf:name """kidsminister""" ;
+    rdfs:label """kidsminister""" ;
+    schema:url <https://kitsaplabs.com/od/user/690> .
+
+od:user-691 a foaf:Person, od:User ;
+    od:userId 691 ;
+    foaf:name """virgil caine""" ;
+    rdfs:label """virgil caine""" ;
+    schema:url <https://kitsaplabs.com/od/user/691> .
+
+od:user-693 a foaf:Person, od:User ;
+    od:userId 693 ;
+    foaf:name """Roke Epson""" ;
+    rdfs:label """Roke Epson""" ;
+    schema:url <https://kitsaplabs.com/od/user/693> .
+
+od:user-694 a foaf:Person, od:User ;
+    od:userId 694 ;
+    foaf:name """arjurg""" ;
+    rdfs:label """arjurg""" ;
+    schema:url <https://kitsaplabs.com/od/user/694> .
+
+od:user-695 a foaf:Person, od:User ;
+    od:userId 695 ;
+    foaf:name """arkady""" ;
+    rdfs:label """arkady""" ;
+    schema:url <https://kitsaplabs.com/od/user/695> .
+
+od:user-696 a foaf:Person, od:User ;
+    od:userId 696 ;
+    foaf:name """SwimmingUpstream""" ;
+    rdfs:label """SwimmingUpstream""" ;
+    schema:url <https://kitsaplabs.com/od/user/696> .
+
+od:user-697 a foaf:Person, od:User ;
+    od:userId 697 ;
+    foaf:name """Six""" ;
+    rdfs:label """Six""" ;
+    schema:url <https://kitsaplabs.com/od/user/697> .
+
+od:user-704 a foaf:Person, od:User ;
+    od:userId 704 ;
+    foaf:name """Grand_Inquisitor""" ;
+    rdfs:label """Grand_Inquisitor""" ;
+    schema:url <https://kitsaplabs.com/od/user/704> .
+
+od:user-705 a foaf:Person, od:User ;
+    od:userId 705 ;
+    foaf:name """FightinWhitey#2""" ;
+    rdfs:label """FightinWhitey#2""" ;
+    schema:url <https://kitsaplabs.com/od/user/705> .
+
+od:user-706 a foaf:Person, od:User ;
+    od:userId 706 ;
+    foaf:name """Odysseus""" ;
+    rdfs:label """Odysseus""" ;
+    schema:url <https://kitsaplabs.com/od/user/706> .
+
+od:user-710 a foaf:Person, od:User ;
+    od:userId 710 ;
+    foaf:name """nemmok riw""" ;
+    rdfs:label """nemmok riw""" ;
+    schema:url <https://kitsaplabs.com/od/user/710> .
+
+od:user-713 a foaf:Person, od:User ;
+    od:userId 713 ;
+    foaf:name """Siegfried Aurelius""" ;
+    rdfs:label """Siegfried Aurelius""" ;
+    schema:url <https://kitsaplabs.com/od/user/713> .
+
+od:user-716 a foaf:Person, od:User ;
+    od:userId 716 ;
+    foaf:name """Pagangirl""" ;
+    rdfs:label """Pagangirl""" ;
+    schema:url <https://kitsaplabs.com/od/user/716> .
+
+od:user-717 a foaf:Person, od:User ;
+    od:userId 717 ;
+    foaf:name """ViRedd""" ;
+    rdfs:label """ViRedd""" ;
+    schema:url <https://kitsaplabs.com/od/user/717> .
+
+od:user-718 a foaf:Person, od:User ;
+    od:userId 718 ;
+    foaf:name """Rob de Chazal""" ;
+    rdfs:label """Rob de Chazal""" ;
+    schema:url <https://kitsaplabs.com/od/user/718> .
+
+od:user-720 a foaf:Person, od:User ;
+    od:userId 720 ;
+    foaf:name """Smedley Butler""" ;
+    rdfs:label """Smedley Butler""" ;
+    schema:url <https://kitsaplabs.com/od/user/720> .
+
+od:user-723 a foaf:Person, od:User ;
+    od:userId 723 ;
+    foaf:name """Ritter""" ;
+    rdfs:label """Ritter""" ;
+    schema:url <https://kitsaplabs.com/od/user/723> .
+
+od:user-725 a foaf:Person, od:User ;
+    od:userId 725 ;
+    foaf:name """ErikD""" ;
+    rdfs:label """ErikD""" ;
+    schema:url <https://kitsaplabs.com/od/user/725> .
+
+od:user-726 a foaf:Person, od:User ;
+    od:userId 726 ;
+    foaf:name """Ender137""" ;
+    rdfs:label """Ender137""" ;
+    schema:url <https://kitsaplabs.com/od/user/726> .
+
+od:user-727 a foaf:Person, od:User ;
+    od:userId 727 ;
+    foaf:name """Loki""" ;
+    rdfs:label """Loki""" ;
+    schema:url <https://kitsaplabs.com/od/user/727> .
+
+od:user-728 a foaf:Person, od:User ;
+    od:userId 728 ;
+    foaf:name """GrayBeard""" ;
+    rdfs:label """GrayBeard""" ;
+    schema:url <https://kitsaplabs.com/od/user/728> .
+
+od:user-732 a foaf:Person, od:User ;
+    od:userId 732 ;
+    foaf:name """Kievsky""" ;
+    rdfs:label """Kievsky""" ;
+    schema:url <https://kitsaplabs.com/od/user/732> .
+
+od:user-733 a foaf:Person, od:User ;
+    od:userId 733 ;
+    foaf:name """WhiteUtopian""" ;
+    rdfs:label """WhiteUtopian""" ;
+    schema:url <https://kitsaplabs.com/od/user/733> .
+
+od:user-737 a foaf:Person, od:User ;
+    od:userId 737 ;
+    foaf:name """GraphicQueen""" ;
+    rdfs:label """GraphicQueen""" ;
+    schema:url <https://kitsaplabs.com/od/user/737> .
+
+od:user-739 a foaf:Person, od:User ;
+    od:userId 739 ;
+    foaf:name """Redneck Justice""" ;
+    rdfs:label """Redneck Justice""" ;
+    schema:url <https://kitsaplabs.com/od/user/739> .
+
+od:user-746 a foaf:Person, od:User ;
+    od:userId 746 ;
+    foaf:name """Acorn""" ;
+    rdfs:label """Acorn""" ;
+    schema:url <https://kitsaplabs.com/od/user/746> .
+
+od:user-749 a foaf:Person, od:User ;
+    od:userId 749 ;
+    foaf:name """White Will""" ;
+    rdfs:label """White Will""" ;
+    schema:url <https://kitsaplabs.com/od/user/749> .
+
+od:user-750 a foaf:Person, od:User ;
+    od:userId 750 ;
+    foaf:name """illman""" ;
+    rdfs:label """illman""" ;
+    schema:url <https://kitsaplabs.com/od/user/750> .
+
+od:user-757 a foaf:Person, od:User ;
+    od:userId 757 ;
+    foaf:name """Gregz""" ;
+    rdfs:label """Gregz""" ;
+    schema:url <https://kitsaplabs.com/od/user/757> .
+
+od:user-759 a foaf:Person, od:User ;
+    od:userId 759 ;
+    foaf:name """St_XenXus""" ;
+    rdfs:label """St_XenXus""" ;
+    schema:url <https://kitsaplabs.com/od/user/759> .
+
+od:user-763 a foaf:Person, od:User ;
+    od:userId 763 ;
+    foaf:name """fatty""" ;
+    rdfs:label """fatty""" ;
+    schema:url <https://kitsaplabs.com/od/user/763> .
+
+od:user-764 a foaf:Person, od:User ;
+    od:userId 764 ;
+    foaf:name """WhiteGirl""" ;
+    rdfs:label """WhiteGirl""" ;
+    schema:url <https://kitsaplabs.com/od/user/764> .
+
+od:user-766 a foaf:Person, od:User ;
+    od:userId 766 ;
+    foaf:name """Real American""" ;
+    rdfs:label """Real American""" ;
+    schema:url <https://kitsaplabs.com/od/user/766> .
+
+od:user-771 a foaf:Person, od:User ;
+    od:userId 771 ;
+    foaf:name """Sinclair""" ;
+    rdfs:label """Sinclair""" ;
+    schema:url <https://kitsaplabs.com/od/user/771> .
+
+od:user-772 a foaf:Person, od:User ;
+    od:userId 772 ;
+    foaf:name """Agrippa""" ;
+    rdfs:label """Agrippa""" ;
+    schema:url <https://kitsaplabs.com/od/user/772> .
+
+od:user-773 a foaf:Person, od:User ;
+    od:userId 773 ;
+    foaf:name """simul""" ;
+    rdfs:label """simul""" ;
+    schema:url <https://kitsaplabs.com/od/user/773> .
+
+od:user-774 a foaf:Person, od:User ;
+    od:userId 774 ;
+    foaf:name """Hans""" ;
+    rdfs:label """Hans""" ;
+    schema:url <https://kitsaplabs.com/od/user/774> .
+
+od:user-777 a foaf:Person, od:User ;
+    od:userId 777 ;
+    foaf:name """AngryWhiteWorkingClassGuy""" ;
+    rdfs:label """AngryWhiteWorkingClassGuy""" ;
+    schema:url <https://kitsaplabs.com/od/user/777> .
+
+od:user-778 a foaf:Person, od:User ;
+    od:userId 778 ;
+    foaf:name """paleo-nationalist""" ;
+    rdfs:label """paleo-nationalist""" ;
+    schema:url <https://kitsaplabs.com/od/user/778> .
+
+od:user-779 a foaf:Person, od:User ;
+    od:userId 779 ;
+    foaf:name """Chinpokomon""" ;
+    rdfs:label """Chinpokomon""" ;
+    schema:url <https://kitsaplabs.com/od/user/779> .
+
+od:user-780 a foaf:Person, od:User ;
+    od:userId 780 ;
+    foaf:name """Dan B""" ;
+    rdfs:label """Dan B""" ;
+    schema:url <https://kitsaplabs.com/od/user/780> .
+
+od:user-782 a foaf:Person, od:User ;
+    od:userId 782 ;
+    foaf:name """Mithras""" ;
+    rdfs:label """Mithras""" ;
+    schema:url <https://kitsaplabs.com/od/user/782> .
+
+od:user-783 a foaf:Person, od:User ;
+    od:userId 783 ;
+    foaf:name """Bunga""" ;
+    rdfs:label """Bunga""" ;
+    schema:url <https://kitsaplabs.com/od/user/783> .
+
+od:user-786 a foaf:Person, od:User ;
+    od:userId 786 ;
+    foaf:name """Michael Walker""" ;
+    rdfs:label """Michael Walker""" ;
+    schema:url <https://kitsaplabs.com/od/user/786> .
+
+od:user-788 a foaf:Person, od:User ;
+    od:userId 788 ;
+    foaf:name """Maxim""" ;
+    rdfs:label """Maxim""" ;
+    schema:url <https://kitsaplabs.com/od/user/788> .
+
+od:user-796 a foaf:Person, od:User ;
+    od:userId 796 ;
+    foaf:name """catalyst14""" ;
+    rdfs:label """catalyst14""" ;
+    schema:url <https://kitsaplabs.com/od/user/796> .
+
+od:user-798 a foaf:Person, od:User ;
+    od:userId 798 ;
+    foaf:name """awakened_sleepnomore""" ;
+    rdfs:label """awakened_sleepnomore""" ;
+    schema:url <https://kitsaplabs.com/od/user/798> .
+
+od:user-803 a foaf:Person, od:User ;
+    od:userId 803 ;
+    foaf:name """t_electric""" ;
+    rdfs:label """t_electric""" ;
+    schema:url <https://kitsaplabs.com/od/user/803> .
+
+od:user-805 a foaf:Person, od:User ;
+    od:userId 805 ;
+    foaf:name """Aviva Shamash""" ;
+    rdfs:label """Aviva Shamash""" ;
+    schema:url <https://kitsaplabs.com/od/user/805> .
+
+od:user-809 a foaf:Person, od:User ;
+    od:userId 809 ;
+    foaf:name """ohio_wr7""" ;
+    rdfs:label """ohio_wr7""" ;
+    schema:url <https://kitsaplabs.com/od/user/809> .
+
+od:user-810 a foaf:Person, od:User ;
+    od:userId 810 ;
+    foaf:name """melissa""" ;
+    rdfs:label """melissa""" ;
+    schema:url <https://kitsaplabs.com/od/user/810> .
+
+od:user-814 a foaf:Person, od:User ;
+    od:userId 814 ;
+    foaf:name """Craig Smith""" ;
+    rdfs:label """Craig Smith""" ;
+    schema:url <https://kitsaplabs.com/od/user/814> .
+
+od:user-815 a foaf:Person, od:User ;
+    od:userId 815 ;
+    foaf:name """LT97B""" ;
+    rdfs:label """LT97B""" ;
+    schema:url <https://kitsaplabs.com/od/user/815> .
+
+od:user-818 a foaf:Person, od:User ;
+    od:userId 818 ;
+    foaf:name """Chest Rockwell""" ;
+    rdfs:label """Chest Rockwell""" ;
+    schema:url <https://kitsaplabs.com/od/user/818> .
+
+od:user-821 a foaf:Person, od:User ;
+    od:userId 821 ;
+    foaf:name """Frank""" ;
+    rdfs:label """Frank""" ;
+    schema:url <https://kitsaplabs.com/od/user/821> .
+
+od:user-823 a foaf:Person, od:User ;
+    od:userId 823 ;
+    foaf:name """TBP""" ;
+    rdfs:label """TBP""" ;
+    schema:url <https://kitsaplabs.com/od/user/823> .
+
+od:user-826 a foaf:Person, od:User ;
+    od:userId 826 ;
+    foaf:name """crispian""" ;
+    rdfs:label """crispian""" ;
+    schema:url <https://kitsaplabs.com/od/user/826> .
+
+od:user-829 a foaf:Person, od:User ;
+    od:userId 829 ;
+    foaf:name """OlafLynckner""" ;
+    rdfs:label """OlafLynckner""" ;
+    schema:url <https://kitsaplabs.com/od/user/829> .
+
+od:user-830 a foaf:Person, od:User ;
+    od:userId 830 ;
+    foaf:name """Suomi Finland Perkele""" ;
+    rdfs:label """Suomi Finland Perkele""" ;
+    schema:url <https://kitsaplabs.com/od/user/830> .
+
+od:user-835 a foaf:Person, od:User ;
+    od:userId 835 ;
+    foaf:name """NewsBarkerman""" ;
+    rdfs:label """NewsBarkerman""" ;
+    schema:url <https://kitsaplabs.com/od/user/835> .
+
+od:user-840 a foaf:Person, od:User ;
+    od:userId 840 ;
+    foaf:name """Merman""" ;
+    rdfs:label """Merman""" ;
+    schema:url <https://kitsaplabs.com/od/user/840> .
+
+od:user-842 a foaf:Person, od:User ;
+    od:userId 842 ;
+    foaf:name """wild_bill""" ;
+    rdfs:label """wild_bill""" ;
+    schema:url <https://kitsaplabs.com/od/user/842> .
+
+od:user-846 a foaf:Person, od:User ;
+    od:userId 846 ;
+    foaf:name """truth""" ;
+    rdfs:label """truth""" ;
+    schema:url <https://kitsaplabs.com/od/user/846> .
+
+od:user-849 a foaf:Person, od:User ;
+    od:userId 849 ;
+    foaf:name """Gebirgsjager""" ;
+    rdfs:label """Gebirgsjager""" ;
+    schema:url <https://kitsaplabs.com/od/user/849> .
+
+od:user-850 a foaf:Person, od:User ;
+    od:userId 850 ;
+    foaf:name """Patrick Stockholm""" ;
+    rdfs:label """Patrick Stockholm""" ;
+    schema:url <https://kitsaplabs.com/od/user/850> .
+
+od:user-851 a foaf:Person, od:User ;
+    od:userId 851 ;
+    foaf:name """Bozzoh""" ;
+    rdfs:label """Bozzoh""" ;
+    schema:url <https://kitsaplabs.com/od/user/851> .
+
+od:user-859 a foaf:Person, od:User ;
+    od:userId 859 ;
+    foaf:name """Wishbone""" ;
+    rdfs:label """Wishbone""" ;
+    schema:url <https://kitsaplabs.com/od/user/859> .
+
+od:user-861 a foaf:Person, od:User ;
+    od:userId 861 ;
+    foaf:name """RcanSaw""" ;
+    rdfs:label """RcanSaw""" ;
+    schema:url <https://kitsaplabs.com/od/user/861> .
+
+od:user-863 a foaf:Person, od:User ;
+    od:userId 863 ;
+    foaf:name """Siegfriedson""" ;
+    rdfs:label """Siegfriedson""" ;
+    schema:url <https://kitsaplabs.com/od/user/863> .
+
+od:user-864 a foaf:Person, od:User ;
+    od:userId 864 ;
+    foaf:name """megma""" ;
+    rdfs:label """megma""" ;
+    schema:url <https://kitsaplabs.com/od/user/864> .
+
+od:user-868 a foaf:Person, od:User ;
+    od:userId 868 ;
+    foaf:name """andrewx98""" ;
+    rdfs:label """andrewx98""" ;
+    schema:url <https://kitsaplabs.com/od/user/868> .
+
+od:user-869 a foaf:Person, od:User ;
+    od:userId 869 ;
+    foaf:name """buggerzion""" ;
+    rdfs:label """buggerzion""" ;
+    schema:url <https://kitsaplabs.com/od/user/869> .
+
+od:user-870 a foaf:Person, od:User ;
+    od:userId 870 ;
+    foaf:name """quicksilverdime""" ;
+    rdfs:label """quicksilverdime""" ;
+    schema:url <https://kitsaplabs.com/od/user/870> .
+
+od:user-872 a foaf:Person, od:User ;
+    od:userId 872 ;
+    foaf:name """Eurotrash""" ;
+    rdfs:label """Eurotrash""" ;
+    schema:url <https://kitsaplabs.com/od/user/872> .
+
+od:user-873 a foaf:Person, od:User ;
+    od:userId 873 ;
+    foaf:name """theaustrian""" ;
+    rdfs:label """theaustrian""" ;
+    schema:url <https://kitsaplabs.com/od/user/873> .
+
+od:user-874 a foaf:Person, od:User ;
+    od:userId 874 ;
+    foaf:name """LetsGoViking!""" ;
+    rdfs:label """LetsGoViking!""" ;
+    schema:url <https://kitsaplabs.com/od/user/874> .
+
+od:user-875 a foaf:Person, od:User ;
+    od:userId 875 ;
+    foaf:name """playful""" ;
+    rdfs:label """playful""" ;
+    schema:url <https://kitsaplabs.com/od/user/875> .
+
+od:user-877 a foaf:Person, od:User ;
+    od:userId 877 ;
+    foaf:name """kamui""" ;
+    rdfs:label """kamui""" ;
+    schema:url <https://kitsaplabs.com/od/user/877> .
+
+od:user-879 a foaf:Person, od:User ;
+    od:userId 879 ;
+    foaf:name """Buddy""" ;
+    rdfs:label """Buddy""" ;
+    schema:url <https://kitsaplabs.com/od/user/879> .
+
+od:user-882 a foaf:Person, od:User ;
+    od:userId 882 ;
+    foaf:name """LlenLleawc""" ;
+    rdfs:label """LlenLleawc""" ;
+    schema:url <https://kitsaplabs.com/od/user/882> .
+
+od:user-883 a foaf:Person, od:User ;
+    od:userId 883 ;
+    foaf:name """Braveheart""" ;
+    rdfs:label """Braveheart""" ;
+    schema:url <https://kitsaplabs.com/od/user/883> .
+
+od:user-885 a foaf:Person, od:User ;
+    od:userId 885 ;
+    foaf:name """Net Prophet""" ;
+    rdfs:label """Net Prophet""" ;
+    schema:url <https://kitsaplabs.com/od/user/885> .
+
+od:user-886 a foaf:Person, od:User ;
+    od:userId 886 ;
+    foaf:name """Die Zeit""" ;
+    rdfs:label """Die Zeit""" ;
+    schema:url <https://kitsaplabs.com/od/user/886> .
+
+od:user-891 a foaf:Person, od:User ;
+    od:userId 891 ;
+    foaf:name """Dave Cave""" ;
+    rdfs:label """Dave Cave""" ;
+    schema:url <https://kitsaplabs.com/od/user/891> .
+
+od:user-894 a foaf:Person, od:User ;
+    od:userId 894 ;
+    foaf:name """Jim""" ;
+    rdfs:label """Jim""" ;
+    schema:url <https://kitsaplabs.com/od/user/894> .
+
+od:user-898 a foaf:Person, od:User ;
+    od:userId 898 ;
+    foaf:name """White Knight""" ;
+    rdfs:label """White Knight""" ;
+    schema:url <https://kitsaplabs.com/od/user/898> .
+
+od:user-899 a foaf:Person, od:User ;
+    od:userId 899 ;
+    foaf:name """Metternich""" ;
+    rdfs:label """Metternich""" ;
+    schema:url <https://kitsaplabs.com/od/user/899> .
+
+od:user-901 a foaf:Person, od:User ;
+    od:userId 901 ;
+    foaf:name """Ponce""" ;
+    rdfs:label """Ponce""" ;
+    schema:url <https://kitsaplabs.com/od/user/901> .
+
+od:user-905 a foaf:Person, od:User ;
+    od:userId 905 ;
+    foaf:name """Demigorgona""" ;
+    rdfs:label """Demigorgona""" ;
+    schema:url <https://kitsaplabs.com/od/user/905> .
+
+od:user-909 a foaf:Person, od:User ;
+    od:userId 909 ;
+    foaf:name """Sheridan""" ;
+    rdfs:label """Sheridan""" ;
+    schema:url <https://kitsaplabs.com/od/user/909> .
+
+od:user-912 a foaf:Person, od:User ;
+    od:userId 912 ;
+    foaf:name """Tammuz of Bablyon""" ;
+    rdfs:label """Tammuz of Bablyon""" ;
+    schema:url <https://kitsaplabs.com/od/user/912> .
+
+od:user-920 a foaf:Person, od:User ;
+    od:userId 920 ;
+    foaf:name """anubis""" ;
+    rdfs:label """anubis""" ;
+    schema:url <https://kitsaplabs.com/od/user/920> .
+
+od:user-921 a foaf:Person, od:User ;
+    od:userId 921 ;
+    foaf:name """Europe Endless""" ;
+    rdfs:label """Europe Endless""" ;
+    schema:url <https://kitsaplabs.com/od/user/921> .
+
+od:user-924 a foaf:Person, od:User ;
+    od:userId 924 ;
+    foaf:name """Dagmar""" ;
+    rdfs:label """Dagmar""" ;
+    schema:url <https://kitsaplabs.com/od/user/924> .
+
+od:user-925 a foaf:Person, od:User ;
+    od:userId 925 ;
+    foaf:name """Volksgeist""" ;
+    rdfs:label """Volksgeist""" ;
+    schema:url <https://kitsaplabs.com/od/user/925> .
+
+od:user-929 a foaf:Person, od:User ;
+    od:userId 929 ;
+    foaf:name """Kevin_O'Keeffe""" ;
+    rdfs:label """Kevin_O'Keeffe""" ;
+    schema:url <https://kitsaplabs.com/od/user/929> .
+
+od:user-930 a foaf:Person, od:User ;
+    od:userId 930 ;
+    foaf:name """sylver""" ;
+    rdfs:label """sylver""" ;
+    schema:url <https://kitsaplabs.com/od/user/930> .
+
+od:user-931 a foaf:Person, od:User ;
+    od:userId 931 ;
+    foaf:name """KUCINICHCOM""" ;
+    rdfs:label """KUCINICHCOM""" ;
+    schema:url <https://kitsaplabs.com/od/user/931> .
+
+od:user-934 a foaf:Person, od:User ;
+    od:userId 934 ;
+    foaf:name """Diogenes""" ;
+    rdfs:label """Diogenes""" ;
+    schema:url <https://kitsaplabs.com/od/user/934> .
+
+od:user-936 a foaf:Person, od:User ;
+    od:userId 936 ;
+    foaf:name """Parsifal""" ;
+    rdfs:label """Parsifal""" ;
+    schema:url <https://kitsaplabs.com/od/user/936> .
+
+od:user-937 a foaf:Person, od:User ;
+    od:userId 937 ;
+    foaf:name """el_jefe14""" ;
+    rdfs:label """el_jefe14""" ;
+    schema:url <https://kitsaplabs.com/od/user/937> .
+
+od:user-938 a foaf:Person, od:User ;
+    od:userId 938 ;
+    foaf:name """Ahmed Bahzzi""" ;
+    rdfs:label """Ahmed Bahzzi""" ;
+    schema:url <https://kitsaplabs.com/od/user/938> .
+
+od:user-939 a foaf:Person, od:User ;
+    od:userId 939 ;
+    foaf:name """malcontents""" ;
+    rdfs:label """malcontents""" ;
+    schema:url <https://kitsaplabs.com/od/user/939> .
+
+od:user-940 a foaf:Person, od:User ;
+    od:userId 940 ;
+    foaf:name """Damian1977""" ;
+    rdfs:label """Damian1977""" ;
+    schema:url <https://kitsaplabs.com/od/user/940> .
+
+od:user-943 a foaf:Person, od:User ;
+    od:userId 943 ;
+    foaf:name """UnsleepingFlame""" ;
+    rdfs:label """UnsleepingFlame""" ;
+    schema:url <https://kitsaplabs.com/od/user/943> .
+
+od:user-944 a foaf:Person, od:User ;
+    od:userId 944 ;
+    foaf:name """Francis Wintworth""" ;
+    rdfs:label """Francis Wintworth""" ;
+    schema:url <https://kitsaplabs.com/od/user/944> .
+
+od:user-947 a foaf:Person, od:User ;
+    od:userId 947 ;
+    foaf:name """Salvador""" ;
+    rdfs:label """Salvador""" ;
+    schema:url <https://kitsaplabs.com/od/user/947> .
+
+od:user-949 a foaf:Person, od:User ;
+    od:userId 949 ;
+    foaf:name """Colonel Rebel""" ;
+    rdfs:label """Colonel Rebel""" ;
+    schema:url <https://kitsaplabs.com/od/user/949> .
+
+od:user-951 a foaf:Person, od:User ;
+    od:userId 951 ;
+    foaf:name """thoreaupoe""" ;
+    rdfs:label """thoreaupoe""" ;
+    schema:url <https://kitsaplabs.com/od/user/951> .
+
+od:user-953 a foaf:Person, od:User ;
+    od:userId 953 ;
+    foaf:name """1 Patriot""" ;
+    rdfs:label """1 Patriot""" ;
+    schema:url <https://kitsaplabs.com/od/user/953> .
+
+od:user-957 a foaf:Person, od:User ;
+    od:userId 957 ;
+    foaf:name """oorwullie""" ;
+    rdfs:label """oorwullie""" ;
+    schema:url <https://kitsaplabs.com/od/user/957> .
+
+od:user-958 a foaf:Person, od:User ;
+    od:userId 958 ;
+    foaf:name """Nietzsche""" ;
+    rdfs:label """Nietzsche""" ;
+    schema:url <https://kitsaplabs.com/od/user/958> .
+
+od:user-959 a foaf:Person, od:User ;
+    od:userId 959 ;
+    foaf:name """JimX""" ;
+    rdfs:label """JimX""" ;
+    schema:url <https://kitsaplabs.com/od/user/959> .
+
+od:user-960 a foaf:Person, od:User ;
+    od:userId 960 ;
+    foaf:name """SummersDay""" ;
+    rdfs:label """SummersDay""" ;
+    schema:url <https://kitsaplabs.com/od/user/960> .
+
+od:user-961 a foaf:Person, od:User ;
+    od:userId 961 ;
+    foaf:name """Marlowe""" ;
+    rdfs:label """Marlowe""" ;
+    schema:url <https://kitsaplabs.com/od/user/961> .
+
+od:user-963 a foaf:Person, od:User ;
+    od:userId 963 ;
+    foaf:name """U of IL Conservative""" ;
+    rdfs:label """U of IL Conservative""" ;
+    schema:url <https://kitsaplabs.com/od/user/963> .
+
+od:user-964 a foaf:Person, od:User ;
+    od:userId 964 ;
+    foaf:name """Euroson""" ;
+    rdfs:label """Euroson""" ;
+    schema:url <https://kitsaplabs.com/od/user/964> .
+
+od:user-968 a foaf:Person, od:User ;
+    od:userId 968 ;
+    foaf:name """Mike""" ;
+    rdfs:label """Mike""" ;
+    schema:url <https://kitsaplabs.com/od/user/968> .
+
+od:user-970 a foaf:Person, od:User ;
+    od:userId 970 ;
+    foaf:name """cosmocreator""" ;
+    rdfs:label """cosmocreator""" ;
+    schema:url <https://kitsaplabs.com/od/user/970> .
+
+od:user-971 a foaf:Person, od:User ;
+    od:userId 971 ;
+    foaf:name """SchwarzeSonne""" ;
+    rdfs:label """SchwarzeSonne""" ;
+    schema:url <https://kitsaplabs.com/od/user/971> .
+
+od:user-972 a foaf:Person, od:User ;
+    od:userId 972 ;
+    foaf:name """Canute""" ;
+    rdfs:label """Canute""" ;
+    schema:url <https://kitsaplabs.com/od/user/972> .
+
+od:user-974 a foaf:Person, od:User ;
+    od:userId 974 ;
+    foaf:name """TominTX""" ;
+    rdfs:label """TominTX""" ;
+    schema:url <https://kitsaplabs.com/od/user/974> .
+
+od:user-975 a foaf:Person, od:User ;
+    od:userId 975 ;
+    foaf:name """sb11""" ;
+    rdfs:label """sb11""" ;
+    schema:url <https://kitsaplabs.com/od/user/975> .
+
+od:user-976 a foaf:Person, od:User ;
+    od:userId 976 ;
+    foaf:name """David Henry""" ;
+    rdfs:label """David Henry""" ;
+    schema:url <https://kitsaplabs.com/od/user/976> .
+
+od:user-978 a foaf:Person, od:User ;
+    od:userId 978 ;
+    foaf:name """Disgruntled White Male""" ;
+    rdfs:label """Disgruntled White Male""" ;
+    schema:url <https://kitsaplabs.com/od/user/978> .
+
+od:user-980 a foaf:Person, od:User ;
+    od:userId 980 ;
+    foaf:name """GunnerGal""" ;
+    rdfs:label """GunnerGal""" ;
+    schema:url <https://kitsaplabs.com/od/user/980> .
+
+od:user-982 a foaf:Person, od:User ;
+    od:userId 982 ;
+    foaf:name """Yggdrasil""" ;
+    rdfs:label """Yggdrasil""" ;
+    schema:url <https://kitsaplabs.com/od/user/982> .
+
+od:user-986 a foaf:Person, od:User ;
+    od:userId 986 ;
+    foaf:name """beyondleftandright""" ;
+    rdfs:label """beyondleftandright""" ;
+    schema:url <https://kitsaplabs.com/od/user/986> .
+
+od:user-991 a foaf:Person, od:User ;
+    od:userId 991 ;
+    foaf:name """Kosmos Luftwaffe""" ;
+    rdfs:label """Kosmos Luftwaffe""" ;
+    schema:url <https://kitsaplabs.com/od/user/991> .
+
+od:user-993 a foaf:Person, od:User ;
+    od:userId 993 ;
+    foaf:name """Gatita de Oro""" ;
+    rdfs:label """Gatita de Oro""" ;
+    schema:url <https://kitsaplabs.com/od/user/993> .
+
+od:user-995 a foaf:Person, od:User ;
+    od:userId 995 ;
+    foaf:name """okami""" ;
+    rdfs:label """okami""" ;
+    schema:url <https://kitsaplabs.com/od/user/995> .
+
+od:user-996 a foaf:Person, od:User ;
+    od:userId 996 ;
+    foaf:name """WesleyWes""" ;
+    rdfs:label """WesleyWes""" ;
+    schema:url <https://kitsaplabs.com/od/user/996> .
+
+od:user-997 a foaf:Person, od:User ;
+    od:userId 997 ;
+    foaf:name """Linc""" ;
+    rdfs:label """Linc""" ;
+    schema:url <https://kitsaplabs.com/od/user/997> .
+
+od:user-1001 a foaf:Person, od:User ;
+    od:userId 1001 ;
+    foaf:name """flippant""" ;
+    rdfs:label """flippant""" ;
+    schema:url <https://kitsaplabs.com/od/user/1001> .
+
+od:user-1003 a foaf:Person, od:User ;
+    od:userId 1003 ;
+    foaf:name """Bruce""" ;
+    rdfs:label """Bruce""" ;
+    schema:url <https://kitsaplabs.com/od/user/1003> .
+
+od:user-1004 a foaf:Person, od:User ;
+    od:userId 1004 ;
+    foaf:name """NightWish1488""" ;
+    rdfs:label """NightWish1488""" ;
+    schema:url <https://kitsaplabs.com/od/user/1004> .
+
+od:user-1006 a foaf:Person, od:User ;
+    od:userId 1006 ;
+    foaf:name """Widukind""" ;
+    rdfs:label """Widukind""" ;
+    schema:url <https://kitsaplabs.com/od/user/1006> .
+
+od:user-1009 a foaf:Person, od:User ;
+    od:userId 1009 ;
+    foaf:name """IrishJay""" ;
+    rdfs:label """IrishJay""" ;
+    schema:url <https://kitsaplabs.com/od/user/1009> .
+
+od:user-1012 a foaf:Person, od:User ;
+    od:userId 1012 ;
+    foaf:name """Petr""" ;
+    rdfs:label """Petr""" ;
+    schema:url <https://kitsaplabs.com/od/user/1012> .
+
+od:user-1014 a foaf:Person, od:User ;
+    od:userId 1014 ;
+    foaf:name """Twister""" ;
+    rdfs:label """Twister""" ;
+    schema:url <https://kitsaplabs.com/od/user/1014> .
+
+od:user-1015 a foaf:Person, od:User ;
+    od:userId 1015 ;
+    foaf:name """Moslimhater""" ;
+    rdfs:label """Moslimhater""" ;
+    schema:url <https://kitsaplabs.com/od/user/1015> .
+
+od:user-1016 a foaf:Person, od:User ;
+    od:userId 1016 ;
+    foaf:name """MontaniSemperLiberi""" ;
+    rdfs:label """MontaniSemperLiberi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1016> .
+
+od:user-1017 a foaf:Person, od:User ;
+    od:userId 1017 ;
+    foaf:name """Goswin_van_Eijck""" ;
+    rdfs:label """Goswin_van_Eijck""" ;
+    schema:url <https://kitsaplabs.com/od/user/1017> .
+
+od:user-1020 a foaf:Person, od:User ;
+    od:userId 1020 ;
+    foaf:name """Sam Houston""" ;
+    rdfs:label """Sam Houston""" ;
+    schema:url <https://kitsaplabs.com/od/user/1020> .
+
+od:user-1021 a foaf:Person, od:User ;
+    od:userId 1021 ;
+    foaf:name """Egon_DeBurke""" ;
+    rdfs:label """Egon_DeBurke""" ;
+    schema:url <https://kitsaplabs.com/od/user/1021> .
+
+od:user-1023 a foaf:Person, od:User ;
+    od:userId 1023 ;
+    foaf:name """Jack Napier""" ;
+    rdfs:label """Jack Napier""" ;
+    schema:url <https://kitsaplabs.com/od/user/1023> .
+
+od:user-1026 a foaf:Person, od:User ;
+    od:userId 1026 ;
+    foaf:name """confederate_commando""" ;
+    rdfs:label """confederate_commando""" ;
+    schema:url <https://kitsaplabs.com/od/user/1026> .
+
+od:user-1027 a foaf:Person, od:User ;
+    od:userId 1027 ;
+    foaf:name """Murray""" ;
+    rdfs:label """Murray""" ;
+    schema:url <https://kitsaplabs.com/od/user/1027> .
+
+od:user-1028 a foaf:Person, od:User ;
+    od:userId 1028 ;
+    foaf:name """Panzer""" ;
+    rdfs:label """Panzer""" ;
+    schema:url <https://kitsaplabs.com/od/user/1028> .
+
+od:user-1035 a foaf:Person, od:User ;
+    od:userId 1035 ;
+    foaf:name """A Fat Republican""" ;
+    rdfs:label """A Fat Republican""" ;
+    schema:url <https://kitsaplabs.com/od/user/1035> .
+
+od:user-1036 a foaf:Person, od:User ;
+    od:userId 1036 ;
+    foaf:name """darkstar""" ;
+    rdfs:label """darkstar""" ;
+    schema:url <https://kitsaplabs.com/od/user/1036> .
+
+od:user-1037 a foaf:Person, od:User ;
+    od:userId 1037 ;
+    foaf:name """Southron""" ;
+    rdfs:label """Southron""" ;
+    schema:url <https://kitsaplabs.com/od/user/1037> .
+
+od:user-1038 a foaf:Person, od:User ;
+    od:userId 1038 ;
+    foaf:name """Carlos W. Porter""" ;
+    rdfs:label """Carlos W. Porter""" ;
+    schema:url <https://kitsaplabs.com/od/user/1038> .
+
+od:user-1039 a foaf:Person, od:User ;
+    od:userId 1039 ;
+    foaf:name """Aquinas""" ;
+    rdfs:label """Aquinas""" ;
+    schema:url <https://kitsaplabs.com/od/user/1039> .
+
+od:user-1042 a foaf:Person, od:User ;
+    od:userId 1042 ;
+    foaf:name """averna""" ;
+    rdfs:label """averna""" ;
+    schema:url <https://kitsaplabs.com/od/user/1042> .
+
+od:user-1044 a foaf:Person, od:User ;
+    od:userId 1044 ;
+    foaf:name """Davey Crockett""" ;
+    rdfs:label """Davey Crockett""" ;
+    schema:url <https://kitsaplabs.com/od/user/1044> .
+
+od:user-1046 a foaf:Person, od:User ;
+    od:userId 1046 ;
+    foaf:name """Christian Nationalist""" ;
+    rdfs:label """Christian Nationalist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1046> .
+
+od:user-1048 a foaf:Person, od:User ;
+    od:userId 1048 ;
+    foaf:name """teamster""" ;
+    rdfs:label """teamster""" ;
+    schema:url <https://kitsaplabs.com/od/user/1048> .
+
+od:user-1050 a foaf:Person, od:User ;
+    od:userId 1050 ;
+    foaf:name """Euronational.org""" ;
+    rdfs:label """Euronational.org""" ;
+    schema:url <https://kitsaplabs.com/od/user/1050> .
+
+od:user-1051 a foaf:Person, od:User ;
+    od:userId 1051 ;
+    foaf:name """AmKernel""" ;
+    rdfs:label """AmKernel""" ;
+    schema:url <https://kitsaplabs.com/od/user/1051> .
+
+od:user-1052 a foaf:Person, od:User ;
+    od:userId 1052 ;
+    foaf:name """xfwayne""" ;
+    rdfs:label """xfwayne""" ;
+    schema:url <https://kitsaplabs.com/od/user/1052> .
+
+od:user-1054 a foaf:Person, od:User ;
+    od:userId 1054 ;
+    foaf:name """White Iceland""" ;
+    rdfs:label """White Iceland""" ;
+    schema:url <https://kitsaplabs.com/od/user/1054> .
+
+od:user-1056 a foaf:Person, od:User ;
+    od:userId 1056 ;
+    foaf:name """AgentOrange""" ;
+    rdfs:label """AgentOrange""" ;
+    schema:url <https://kitsaplabs.com/od/user/1056> .
+
+od:user-1058 a foaf:Person, od:User ;
+    od:userId 1058 ;
+    foaf:name """Jack Cassidy""" ;
+    rdfs:label """Jack Cassidy""" ;
+    schema:url <https://kitsaplabs.com/od/user/1058> .
+
+od:user-1060 a foaf:Person, od:User ;
+    od:userId 1060 ;
+    foaf:name """VanSpeyk""" ;
+    rdfs:label """VanSpeyk""" ;
+    schema:url <https://kitsaplabs.com/od/user/1060> .
+
+od:user-1062 a foaf:Person, od:User ;
+    od:userId 1062 ;
+    foaf:name """Volsunga""" ;
+    rdfs:label """Volsunga""" ;
+    schema:url <https://kitsaplabs.com/od/user/1062> .
+
+od:user-1066 a foaf:Person, od:User ;
+    od:userId 1066 ;
+    foaf:name """JoseyWales""" ;
+    rdfs:label """JoseyWales""" ;
+    schema:url <https://kitsaplabs.com/od/user/1066> .
+
+od:user-1067 a foaf:Person, od:User ;
+    od:userId 1067 ;
+    foaf:name """NeoLiberal""" ;
+    rdfs:label """NeoLiberal""" ;
+    schema:url <https://kitsaplabs.com/od/user/1067> .
+
+od:user-1071 a foaf:Person, od:User ;
+    od:userId 1071 ;
+    foaf:name """Brother Rat (Old VMI)""" ;
+    rdfs:label """Brother Rat (Old VMI)""" ;
+    schema:url <https://kitsaplabs.com/od/user/1071> .
+
+od:user-1074 a foaf:Person, od:User ;
+    od:userId 1074 ;
+    foaf:name """Anastasia""" ;
+    rdfs:label """Anastasia""" ;
+    schema:url <https://kitsaplabs.com/od/user/1074> .
+
+od:user-1077 a foaf:Person, od:User ;
+    od:userId 1077 ;
+    foaf:name """CSA""" ;
+    rdfs:label """CSA""" ;
+    schema:url <https://kitsaplabs.com/od/user/1077> .
+
+od:user-1078 a foaf:Person, od:User ;
+    od:userId 1078 ;
+    foaf:name """kickingsacredcows""" ;
+    rdfs:label """kickingsacredcows""" ;
+    schema:url <https://kitsaplabs.com/od/user/1078> .
+
+od:user-1081 a foaf:Person, od:User ;
+    od:userId 1081 ;
+    foaf:name """HoaxThis""" ;
+    rdfs:label """HoaxThis""" ;
+    schema:url <https://kitsaplabs.com/od/user/1081> .
+
+od:user-1086 a foaf:Person, od:User ;
+    od:userId 1086 ;
+    foaf:name """Sojeru""" ;
+    rdfs:label """Sojeru""" ;
+    schema:url <https://kitsaplabs.com/od/user/1086> .
+
+od:user-1087 a foaf:Person, od:User ;
+    od:userId 1087 ;
+    foaf:name """Hyperborean""" ;
+    rdfs:label """Hyperborean""" ;
+    schema:url <https://kitsaplabs.com/od/user/1087> .
+
+od:user-1092 a foaf:Person, od:User ;
+    od:userId 1092 ;
+    foaf:name """Allen Torx""" ;
+    rdfs:label """Allen Torx""" ;
+    schema:url <https://kitsaplabs.com/od/user/1092> .
+
+od:user-1093 a foaf:Person, od:User ;
+    od:userId 1093 ;
+    foaf:name """Peter Phillips""" ;
+    rdfs:label """Peter Phillips""" ;
+    schema:url <https://kitsaplabs.com/od/user/1093> .
+
+od:user-1094 a foaf:Person, od:User ;
+    od:userId 1094 ;
+    foaf:name """Commander8""" ;
+    rdfs:label """Commander8""" ;
+    schema:url <https://kitsaplabs.com/od/user/1094> .
+
+od:user-1095 a foaf:Person, od:User ;
+    od:userId 1095 ;
+    foaf:name """anon-28648352""" ;
+    rdfs:label """anon-28648352""" ;
+    schema:url <https://kitsaplabs.com/od/user/1095> .
+
+od:user-1098 a foaf:Person, od:User ;
+    od:userId 1098 ;
+    foaf:name """Quantrill""" ;
+    rdfs:label """Quantrill""" ;
+    schema:url <https://kitsaplabs.com/od/user/1098> .
+
+od:user-1099 a foaf:Person, od:User ;
+    od:userId 1099 ;
+    foaf:name """Jim Giles""" ;
+    rdfs:label """Jim Giles""" ;
+    schema:url <https://kitsaplabs.com/od/user/1099> .
+
+od:user-1105 a foaf:Person, od:User ;
+    od:userId 1105 ;
+    foaf:name """Moderate Centrist""" ;
+    rdfs:label """Moderate Centrist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1105> .
+
+od:user-1109 a foaf:Person, od:User ;
+    od:userId 1109 ;
+    foaf:name """norcalnative1971""" ;
+    rdfs:label """norcalnative1971""" ;
+    schema:url <https://kitsaplabs.com/od/user/1109> .
+
+od:user-1112 a foaf:Person, od:User ;
+    od:userId 1112 ;
+    foaf:name """MacDonald CSA""" ;
+    rdfs:label """MacDonald CSA""" ;
+    schema:url <https://kitsaplabs.com/od/user/1112> .
+
+od:user-1113 a foaf:Person, od:User ;
+    od:userId 1113 ;
+    foaf:name """dubeaux636""" ;
+    rdfs:label """dubeaux636""" ;
+    schema:url <https://kitsaplabs.com/od/user/1113> .
+
+od:user-1115 a foaf:Person, od:User ;
+    od:userId 1115 ;
+    foaf:name """Ravenfjord""" ;
+    rdfs:label """Ravenfjord""" ;
+    schema:url <https://kitsaplabs.com/od/user/1115> .
+
+od:user-1119 a foaf:Person, od:User ;
+    od:userId 1119 ;
+    foaf:name """jozen1""" ;
+    rdfs:label """jozen1""" ;
+    schema:url <https://kitsaplabs.com/od/user/1119> .
+
+od:user-1123 a foaf:Person, od:User ;
+    od:userId 1123 ;
+    foaf:name """satu largi""" ;
+    rdfs:label """satu largi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1123> .
+
+od:user-1134 a foaf:Person, od:User ;
+    od:userId 1134 ;
+    foaf:name """halibot22""" ;
+    rdfs:label """halibot22""" ;
+    schema:url <https://kitsaplabs.com/od/user/1134> .
+
+od:user-1137 a foaf:Person, od:User ;
+    od:userId 1137 ;
+    foaf:name """brite""" ;
+    rdfs:label """brite""" ;
+    schema:url <https://kitsaplabs.com/od/user/1137> .
+
+od:user-1139 a foaf:Person, od:User ;
+    od:userId 1139 ;
+    foaf:name """Scott Paine""" ;
+    rdfs:label """Scott Paine""" ;
+    schema:url <https://kitsaplabs.com/od/user/1139> .
+
+od:user-1146 a foaf:Person, od:User ;
+    od:userId 1146 ;
+    foaf:name """Karl Ramstrom""" ;
+    rdfs:label """Karl Ramstrom""" ;
+    schema:url <https://kitsaplabs.com/od/user/1146> .
+
+od:user-1149 a foaf:Person, od:User ;
+    od:userId 1149 ;
+    foaf:name """Hermes""" ;
+    rdfs:label """Hermes""" ;
+    schema:url <https://kitsaplabs.com/od/user/1149> .
+
+od:user-1154 a foaf:Person, od:User ;
+    od:userId 1154 ;
+    foaf:name """Paul Kruger""" ;
+    rdfs:label """Paul Kruger""" ;
+    schema:url <https://kitsaplabs.com/od/user/1154> .
+
+od:user-1159 a foaf:Person, od:User ;
+    od:userId 1159 ;
+    foaf:name """cltncblondeeagle""" ;
+    rdfs:label """cltncblondeeagle""" ;
+    schema:url <https://kitsaplabs.com/od/user/1159> .
+
+od:user-1161 a foaf:Person, od:User ;
+    od:userId 1161 ;
+    foaf:name """SupremeSpirit""" ;
+    rdfs:label """SupremeSpirit""" ;
+    schema:url <https://kitsaplabs.com/od/user/1161> .
+
+od:user-1165 a foaf:Person, od:User ;
+    od:userId 1165 ;
+    foaf:name """Carl Rylander""" ;
+    rdfs:label """Carl Rylander""" ;
+    schema:url <https://kitsaplabs.com/od/user/1165> .
+
+od:user-1166 a foaf:Person, od:User ;
+    od:userId 1166 ;
+    foaf:name """DeborahRC""" ;
+    rdfs:label """DeborahRC""" ;
+    schema:url <https://kitsaplabs.com/od/user/1166> .
+
+od:user-1167 a foaf:Person, od:User ;
+    od:userId 1167 ;
+    foaf:name """small""" ;
+    rdfs:label """small""" ;
+    schema:url <https://kitsaplabs.com/od/user/1167> .
+
+od:user-1171 a foaf:Person, od:User ;
+    od:userId 1171 ;
+    foaf:name """Cruostagarana""" ;
+    rdfs:label """Cruostagarana""" ;
+    schema:url <https://kitsaplabs.com/od/user/1171> .
+
+od:user-1172 a foaf:Person, od:User ;
+    od:userId 1172 ;
+    foaf:name """Balder""" ;
+    rdfs:label """Balder""" ;
+    schema:url <https://kitsaplabs.com/od/user/1172> .
+
+od:user-1173 a foaf:Person, od:User ;
+    od:userId 1173 ;
+    foaf:name """Julian""" ;
+    rdfs:label """Julian""" ;
+    schema:url <https://kitsaplabs.com/od/user/1173> .
+
+od:user-1174 a foaf:Person, od:User ;
+    od:userId 1174 ;
+    foaf:name """Metric Clock""" ;
+    rdfs:label """Metric Clock""" ;
+    schema:url <https://kitsaplabs.com/od/user/1174> .
+
+od:user-1175 a foaf:Person, od:User ;
+    od:userId 1175 ;
+    foaf:name """rufnek 2k4""" ;
+    rdfs:label """rufnek 2k4""" ;
+    schema:url <https://kitsaplabs.com/od/user/1175> .
+
+od:user-1176 a foaf:Person, od:User ;
+    od:userId 1176 ;
+    foaf:name """Solid""" ;
+    rdfs:label """Solid""" ;
+    schema:url <https://kitsaplabs.com/od/user/1176> .
+
+od:user-1178 a foaf:Person, od:User ;
+    od:userId 1178 ;
+    foaf:name """GrantHS""" ;
+    rdfs:label """GrantHS""" ;
+    schema:url <https://kitsaplabs.com/od/user/1178> .
+
+od:user-1179 a foaf:Person, od:User ;
+    od:userId 1179 ;
+    foaf:name """Johnathan""" ;
+    rdfs:label """Johnathan""" ;
+    schema:url <https://kitsaplabs.com/od/user/1179> .
+
+od:user-1180 a foaf:Person, od:User ;
+    od:userId 1180 ;
+    foaf:name """angloiberian""" ;
+    rdfs:label """angloiberian""" ;
+    schema:url <https://kitsaplabs.com/od/user/1180> .
+
+od:user-1183 a foaf:Person, od:User ;
+    od:userId 1183 ;
+    foaf:name """Scientist""" ;
+    rdfs:label """Scientist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1183> .
+
+od:user-1188 a foaf:Person, od:User ;
+    od:userId 1188 ;
+    foaf:name """seelow heights""" ;
+    rdfs:label """seelow heights""" ;
+    schema:url <https://kitsaplabs.com/od/user/1188> .
+
+od:user-1191 a foaf:Person, od:User ;
+    od:userId 1191 ;
+    foaf:name """Pennsylvania_Dutch""" ;
+    rdfs:label """Pennsylvania_Dutch""" ;
+    schema:url <https://kitsaplabs.com/od/user/1191> .
+
+od:user-1198 a foaf:Person, od:User ;
+    od:userId 1198 ;
+    foaf:name """Pipedreamer""" ;
+    rdfs:label """Pipedreamer""" ;
+    schema:url <https://kitsaplabs.com/od/user/1198> .
+
+od:user-1203 a foaf:Person, od:User ;
+    od:userId 1203 ;
+    foaf:name """Texas Tornado""" ;
+    rdfs:label """Texas Tornado""" ;
+    schema:url <https://kitsaplabs.com/od/user/1203> .
+
+od:user-1206 a foaf:Person, od:User ;
+    od:userId 1206 ;
+    foaf:name """ftx98""" ;
+    rdfs:label """ftx98""" ;
+    schema:url <https://kitsaplabs.com/od/user/1206> .
+
+od:user-1208 a foaf:Person, od:User ;
+    od:userId 1208 ;
+    foaf:name """PolRy""" ;
+    rdfs:label """PolRy""" ;
+    schema:url <https://kitsaplabs.com/od/user/1208> .
+
+od:user-1209 a foaf:Person, od:User ;
+    od:userId 1209 ;
+    foaf:name """Hyperion""" ;
+    rdfs:label """Hyperion""" ;
+    schema:url <https://kitsaplabs.com/od/user/1209> .
+
+od:user-1216 a foaf:Person, od:User ;
+    od:userId 1216 ;
+    foaf:name """Nathaniel""" ;
+    rdfs:label """Nathaniel""" ;
+    schema:url <https://kitsaplabs.com/od/user/1216> .
+
+od:user-1217 a foaf:Person, od:User ;
+    od:userId 1217 ;
+    foaf:name """annalex""" ;
+    rdfs:label """annalex""" ;
+    schema:url <https://kitsaplabs.com/od/user/1217> .
+
+od:user-1220 a foaf:Person, od:User ;
+    od:userId 1220 ;
+    foaf:name """dubhdara""" ;
+    rdfs:label """dubhdara""" ;
+    schema:url <https://kitsaplabs.com/od/user/1220> .
+
+od:user-1222 a foaf:Person, od:User ;
+    od:userId 1222 ;
+    foaf:name """Amaara""" ;
+    rdfs:label """Amaara""" ;
+    schema:url <https://kitsaplabs.com/od/user/1222> .
+
+od:user-1226 a foaf:Person, od:User ;
+    od:userId 1226 ;
+    foaf:name """random""" ;
+    rdfs:label """random""" ;
+    schema:url <https://kitsaplabs.com/od/user/1226> .
+
+od:user-1228 a foaf:Person, od:User ;
+    od:userId 1228 ;
+    foaf:name """Megalopsychia""" ;
+    rdfs:label """Megalopsychia""" ;
+    schema:url <https://kitsaplabs.com/od/user/1228> .
+
+od:user-1234 a foaf:Person, od:User ;
+    od:userId 1234 ;
+    foaf:name """Deus Vult""" ;
+    rdfs:label """Deus Vult""" ;
+    schema:url <https://kitsaplabs.com/od/user/1234> .
+
+od:user-1237 a foaf:Person, od:User ;
+    od:userId 1237 ;
+    foaf:name """LHFerree""" ;
+    rdfs:label """LHFerree""" ;
+    schema:url <https://kitsaplabs.com/od/user/1237> .
+
+od:user-1241 a foaf:Person, od:User ;
+    od:userId 1241 ;
+    foaf:name """folkandfaith""" ;
+    rdfs:label """folkandfaith""" ;
+    schema:url <https://kitsaplabs.com/od/user/1241> .
+
+od:user-1242 a foaf:Person, od:User ;
+    od:userId 1242 ;
+    foaf:name """Yukon""" ;
+    rdfs:label """Yukon""" ;
+    schema:url <https://kitsaplabs.com/od/user/1242> .
+
+od:user-1243 a foaf:Person, od:User ;
+    od:userId 1243 ;
+    foaf:name """Princess Consuela""" ;
+    rdfs:label """Princess Consuela""" ;
+    schema:url <https://kitsaplabs.com/od/user/1243> .
+
+od:user-1244 a foaf:Person, od:User ;
+    od:userId 1244 ;
+    foaf:name """SoCal Jeffersonian""" ;
+    rdfs:label """SoCal Jeffersonian""" ;
+    schema:url <https://kitsaplabs.com/od/user/1244> .
+
+od:user-1245 a foaf:Person, od:User ;
+    od:userId 1245 ;
+    foaf:name """Thor""" ;
+    rdfs:label """Thor""" ;
+    schema:url <https://kitsaplabs.com/od/user/1245> .
+
+od:user-1247 a foaf:Person, od:User ;
+    od:userId 1247 ;
+    foaf:name """Casper""" ;
+    rdfs:label """Casper""" ;
+    schema:url <https://kitsaplabs.com/od/user/1247> .
+
+od:user-1252 a foaf:Person, od:User ;
+    od:userId 1252 ;
+    foaf:name """Luh_Windan""" ;
+    rdfs:label """Luh_Windan""" ;
+    schema:url <https://kitsaplabs.com/od/user/1252> .
+
+od:user-1255 a foaf:Person, od:User ;
+    od:userId 1255 ;
+    foaf:name """Wyvern""" ;
+    rdfs:label """Wyvern""" ;
+    schema:url <https://kitsaplabs.com/od/user/1255> .
+
+od:user-1256 a foaf:Person, od:User ;
+    od:userId 1256 ;
+    foaf:name """MistWraith""" ;
+    rdfs:label """MistWraith""" ;
+    schema:url <https://kitsaplabs.com/od/user/1256> .
+
+od:user-1260 a foaf:Person, od:User ;
+    od:userId 1260 ;
+    foaf:name """Lars""" ;
+    rdfs:label """Lars""" ;
+    schema:url <https://kitsaplabs.com/od/user/1260> .
+
+od:user-1262 a foaf:Person, od:User ;
+    od:userId 1262 ;
+    foaf:name """averageJoe""" ;
+    rdfs:label """averageJoe""" ;
+    schema:url <https://kitsaplabs.com/od/user/1262> .
+
+od:user-1264 a foaf:Person, od:User ;
+    od:userId 1264 ;
+    foaf:name """Kafka""" ;
+    rdfs:label """Kafka""" ;
+    schema:url <https://kitsaplabs.com/od/user/1264> .
+
+od:user-1266 a foaf:Person, od:User ;
+    od:userId 1266 ;
+    foaf:name """Hadassah""" ;
+    rdfs:label """Hadassah""" ;
+    schema:url <https://kitsaplabs.com/od/user/1266> .
+
+od:user-1268 a foaf:Person, od:User ;
+    od:userId 1268 ;
+    foaf:name """AlfaMega""" ;
+    rdfs:label """AlfaMega""" ;
+    schema:url <https://kitsaplabs.com/od/user/1268> .
+
+od:user-1269 a foaf:Person, od:User ;
+    od:userId 1269 ;
+    foaf:name """DonJorge""" ;
+    rdfs:label """DonJorge""" ;
+    schema:url <https://kitsaplabs.com/od/user/1269> .
+
+od:user-1272 a foaf:Person, od:User ;
+    od:userId 1272 ;
+    foaf:name """neoclassical""" ;
+    rdfs:label """neoclassical""" ;
+    schema:url <https://kitsaplabs.com/od/user/1272> .
+
+od:user-1277 a foaf:Person, od:User ;
+    od:userId 1277 ;
+    foaf:name """waltz1982""" ;
+    rdfs:label """waltz1982""" ;
+    schema:url <https://kitsaplabs.com/od/user/1277> .
+
+od:user-1278 a foaf:Person, od:User ;
+    od:userId 1278 ;
+    foaf:name """CaptainSwiftBoat""" ;
+    rdfs:label """CaptainSwiftBoat""" ;
+    schema:url <https://kitsaplabs.com/od/user/1278> .
+
+od:user-1279 a foaf:Person, od:User ;
+    od:userId 1279 ;
+    foaf:name """Glen""" ;
+    rdfs:label """Glen""" ;
+    schema:url <https://kitsaplabs.com/od/user/1279> .
+
+od:user-1285 a foaf:Person, od:User ;
+    od:userId 1285 ;
+    foaf:name """Tod zu Religion""" ;
+    rdfs:label """Tod zu Religion""" ;
+    schema:url <https://kitsaplabs.com/od/user/1285> .
+
+od:user-1286 a foaf:Person, od:User ;
+    od:userId 1286 ;
+    foaf:name """Intrepid""" ;
+    rdfs:label """Intrepid""" ;
+    schema:url <https://kitsaplabs.com/od/user/1286> .
+
+od:user-1287 a foaf:Person, od:User ;
+    od:userId 1287 ;
+    foaf:name """butterfly542""" ;
+    rdfs:label """butterfly542""" ;
+    schema:url <https://kitsaplabs.com/od/user/1287> .
+
+od:user-1288 a foaf:Person, od:User ;
+    od:userId 1288 ;
+    foaf:name """Knekkeben""" ;
+    rdfs:label """Knekkeben""" ;
+    schema:url <https://kitsaplabs.com/od/user/1288> .
+
+od:user-1290 a foaf:Person, od:User ;
+    od:userId 1290 ;
+    foaf:name """victorianvalues2000""" ;
+    rdfs:label """victorianvalues2000""" ;
+    schema:url <https://kitsaplabs.com/od/user/1290> .
+
+od:user-1291 a foaf:Person, od:User ;
+    od:userId 1291 ;
+    foaf:name """kiyoung80""" ;
+    rdfs:label """kiyoung80""" ;
+    schema:url <https://kitsaplabs.com/od/user/1291> .
+
+od:user-1293 a foaf:Person, od:User ;
+    od:userId 1293 ;
+    foaf:name """AntiZOGNewEnglander""" ;
+    rdfs:label """AntiZOGNewEnglander""" ;
+    schema:url <https://kitsaplabs.com/od/user/1293> .
+
+od:user-1296 a foaf:Person, od:User ;
+    od:userId 1296 ;
+    foaf:name """campofsaints""" ;
+    rdfs:label """campofsaints""" ;
+    schema:url <https://kitsaplabs.com/od/user/1296> .
+
+od:user-1299 a foaf:Person, od:User ;
+    od:userId 1299 ;
+    foaf:name """jackd201""" ;
+    rdfs:label """jackd201""" ;
+    schema:url <https://kitsaplabs.com/od/user/1299> .
+
+od:user-1300 a foaf:Person, od:User ;
+    od:userId 1300 ;
+    foaf:name """Kentucky Knight""" ;
+    rdfs:label """Kentucky Knight""" ;
+    schema:url <https://kitsaplabs.com/od/user/1300> .
+
+od:user-1301 a foaf:Person, od:User ;
+    od:userId 1301 ;
+    foaf:name """marybonita""" ;
+    rdfs:label """marybonita""" ;
+    schema:url <https://kitsaplabs.com/od/user/1301> .
+
+od:user-1302 a foaf:Person, od:User ;
+    od:userId 1302 ;
+    foaf:name """Controlley""" ;
+    rdfs:label """Controlley""" ;
+    schema:url <https://kitsaplabs.com/od/user/1302> .
+
+od:user-1303 a foaf:Person, od:User ;
+    od:userId 1303 ;
+    foaf:name """Scout""" ;
+    rdfs:label """Scout""" ;
+    schema:url <https://kitsaplabs.com/od/user/1303> .
+
+od:user-1307 a foaf:Person, od:User ;
+    od:userId 1307 ;
+    foaf:name """christine""" ;
+    rdfs:label """christine""" ;
+    schema:url <https://kitsaplabs.com/od/user/1307> .
+
+od:user-1308 a foaf:Person, od:User ;
+    od:userId 1308 ;
+    foaf:name """the_jackyl""" ;
+    rdfs:label """the_jackyl""" ;
+    schema:url <https://kitsaplabs.com/od/user/1308> .
+
+od:user-1309 a foaf:Person, od:User ;
+    od:userId 1309 ;
+    foaf:name """child_of_tears""" ;
+    rdfs:label """child_of_tears""" ;
+    schema:url <https://kitsaplabs.com/od/user/1309> .
+
+od:user-1310 a foaf:Person, od:User ;
+    od:userId 1310 ;
+    foaf:name """Tough_love""" ;
+    rdfs:label """Tough_love""" ;
+    schema:url <https://kitsaplabs.com/od/user/1310> .
+
+od:user-1311 a foaf:Person, od:User ;
+    od:userId 1311 ;
+    foaf:name """Chai_Vang""" ;
+    rdfs:label """Chai_Vang""" ;
+    schema:url <https://kitsaplabs.com/od/user/1311> .
+
+od:user-1315 a foaf:Person, od:User ;
+    od:userId 1315 ;
+    foaf:name """Princest""" ;
+    rdfs:label """Princest""" ;
+    schema:url <https://kitsaplabs.com/od/user/1315> .
+
+od:user-1316 a foaf:Person, od:User ;
+    od:userId 1316 ;
+    foaf:name """HrodbertAntoninus""" ;
+    rdfs:label """HrodbertAntoninus""" ;
+    schema:url <https://kitsaplabs.com/od/user/1316> .
+
+od:user-1317 a foaf:Person, od:User ;
+    od:userId 1317 ;
+    foaf:name """Sather_Gate""" ;
+    rdfs:label """Sather_Gate""" ;
+    schema:url <https://kitsaplabs.com/od/user/1317> .
+
+od:user-1318 a foaf:Person, od:User ;
+    od:userId 1318 ;
+    foaf:name """samizdat""" ;
+    rdfs:label """samizdat""" ;
+    schema:url <https://kitsaplabs.com/od/user/1318> .
+
+od:user-1323 a foaf:Person, od:User ;
+    od:userId 1323 ;
+    foaf:name """AntiYuppie""" ;
+    rdfs:label """AntiYuppie""" ;
+    schema:url <https://kitsaplabs.com/od/user/1323> .
+
+od:user-1324 a foaf:Person, od:User ;
+    od:userId 1324 ;
+    foaf:name """Siegfried""" ;
+    rdfs:label """Siegfried""" ;
+    schema:url <https://kitsaplabs.com/od/user/1324> .
+
+od:user-1325 a foaf:Person, od:User ;
+    od:userId 1325 ;
+    foaf:name """vytis""" ;
+    rdfs:label """vytis""" ;
+    schema:url <https://kitsaplabs.com/od/user/1325> .
+
+od:user-1327 a foaf:Person, od:User ;
+    od:userId 1327 ;
+    foaf:name """J.Stevens""" ;
+    rdfs:label """J.Stevens""" ;
+    schema:url <https://kitsaplabs.com/od/user/1327> .
+
+od:user-1328 a foaf:Person, od:User ;
+    od:userId 1328 ;
+    foaf:name """Cosmotheist""" ;
+    rdfs:label """Cosmotheist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1328> .
+
+od:user-1331 a foaf:Person, od:User ;
+    od:userId 1331 ;
+    foaf:name """Free The Truth""" ;
+    rdfs:label """Free The Truth""" ;
+    schema:url <https://kitsaplabs.com/od/user/1331> .
+
+od:user-1335 a foaf:Person, od:User ;
+    od:userId 1335 ;
+    foaf:name """RowdyRoddyPiper""" ;
+    rdfs:label """RowdyRoddyPiper""" ;
+    schema:url <https://kitsaplabs.com/od/user/1335> .
+
+od:user-1336 a foaf:Person, od:User ;
+    od:userId 1336 ;
+    foaf:name """Robert""" ;
+    rdfs:label """Robert""" ;
+    schema:url <https://kitsaplabs.com/od/user/1336> .
+
+od:user-1338 a foaf:Person, od:User ;
+    od:userId 1338 ;
+    foaf:name """lydia_the_faithful""" ;
+    rdfs:label """lydia_the_faithful""" ;
+    schema:url <https://kitsaplabs.com/od/user/1338> .
+
+od:user-1339 a foaf:Person, od:User ;
+    od:userId 1339 ;
+    foaf:name """MartinLindstedt""" ;
+    rdfs:label """MartinLindstedt""" ;
+    schema:url <https://kitsaplabs.com/od/user/1339> .
+
+od:user-1341 a foaf:Person, od:User ;
+    od:userId 1341 ;
+    foaf:name """Romach""" ;
+    rdfs:label """Romach""" ;
+    schema:url <https://kitsaplabs.com/od/user/1341> .
+
+od:user-1342 a foaf:Person, od:User ;
+    od:userId 1342 ;
+    foaf:name """messianicdruid""" ;
+    rdfs:label """messianicdruid""" ;
+    schema:url <https://kitsaplabs.com/od/user/1342> .
+
+od:user-1343 a foaf:Person, od:User ;
+    od:userId 1343 ;
+    foaf:name """Leo Trotter""" ;
+    rdfs:label """Leo Trotter""" ;
+    schema:url <https://kitsaplabs.com/od/user/1343> .
+
+od:user-1344 a foaf:Person, od:User ;
+    od:userId 1344 ;
+    foaf:name """americanfront""" ;
+    rdfs:label """americanfront""" ;
+    schema:url <https://kitsaplabs.com/od/user/1344> .
+
+od:user-1345 a foaf:Person, od:User ;
+    od:userId 1345 ;
+    foaf:name """kludd""" ;
+    rdfs:label """kludd""" ;
+    schema:url <https://kitsaplabs.com/od/user/1345> .
+
+od:user-1346 a foaf:Person, od:User ;
+    od:userId 1346 ;
+    foaf:name """deteodoru""" ;
+    rdfs:label """deteodoru""" ;
+    schema:url <https://kitsaplabs.com/od/user/1346> .
+
+od:user-1349 a foaf:Person, od:User ;
+    od:userId 1349 ;
+    foaf:name """tflon""" ;
+    rdfs:label """tflon""" ;
+    schema:url <https://kitsaplabs.com/od/user/1349> .
+
+od:user-1350 a foaf:Person, od:User ;
+    od:userId 1350 ;
+    foaf:name """albion""" ;
+    rdfs:label """albion""" ;
+    schema:url <https://kitsaplabs.com/od/user/1350> .
+
+od:user-1352 a foaf:Person, od:User ;
+    od:userId 1352 ;
+    foaf:name """starr""" ;
+    rdfs:label """starr""" ;
+    schema:url <https://kitsaplabs.com/od/user/1352> .
+
+od:user-1353 a foaf:Person, od:User ;
+    od:userId 1353 ;
+    foaf:name """SCRIPTURESEZ""" ;
+    rdfs:label """SCRIPTURESEZ""" ;
+    schema:url <https://kitsaplabs.com/od/user/1353> .
+
+od:user-1354 a foaf:Person, od:User ;
+    od:userId 1354 ;
+    foaf:name """IronWorker""" ;
+    rdfs:label """IronWorker""" ;
+    schema:url <https://kitsaplabs.com/od/user/1354> .
+
+od:user-1356 a foaf:Person, od:User ;
+    od:userId 1356 ;
+    foaf:name """Thomas777""" ;
+    rdfs:label """Thomas777""" ;
+    schema:url <https://kitsaplabs.com/od/user/1356> .
+
+od:user-1357 a foaf:Person, od:User ;
+    od:userId 1357 ;
+    foaf:name """Prince""" ;
+    rdfs:label """Prince""" ;
+    schema:url <https://kitsaplabs.com/od/user/1357> .
+
+od:user-1358 a foaf:Person, od:User ;
+    od:userId 1358 ;
+    foaf:name """Freiwirtschaft""" ;
+    rdfs:label """Freiwirtschaft""" ;
+    schema:url <https://kitsaplabs.com/od/user/1358> .
+
+od:user-1359 a foaf:Person, od:User ;
+    od:userId 1359 ;
+    foaf:name """Esoterist""" ;
+    rdfs:label """Esoterist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1359> .
+
+od:user-1360 a foaf:Person, od:User ;
+    od:userId 1360 ;
+    foaf:name """G.Larson""" ;
+    rdfs:label """G.Larson""" ;
+    schema:url <https://kitsaplabs.com/od/user/1360> .
+
+od:user-1361 a foaf:Person, od:User ;
+    od:userId 1361 ;
+    foaf:name """Landser""" ;
+    rdfs:label """Landser""" ;
+    schema:url <https://kitsaplabs.com/od/user/1361> .
+
+od:user-1362 a foaf:Person, od:User ;
+    od:userId 1362 ;
+    foaf:name """Aznuife-ke""" ;
+    rdfs:label """Aznuife-ke""" ;
+    schema:url <https://kitsaplabs.com/od/user/1362> .
+
+od:user-1363 a foaf:Person, od:User ;
+    od:userId 1363 ;
+    foaf:name """88mmFlaK""" ;
+    rdfs:label """88mmFlaK""" ;
+    schema:url <https://kitsaplabs.com/od/user/1363> .
+
+od:user-1364 a foaf:Person, od:User ;
+    od:userId 1364 ;
+    foaf:name """john b. whiteman""" ;
+    rdfs:label """john b. whiteman""" ;
+    schema:url <https://kitsaplabs.com/od/user/1364> .
+
+od:user-1365 a foaf:Person, od:User ;
+    od:userId 1365 ;
+    foaf:name """6KILLER""" ;
+    rdfs:label """6KILLER""" ;
+    schema:url <https://kitsaplabs.com/od/user/1365> .
+
+od:user-1366 a foaf:Person, od:User ;
+    od:userId 1366 ;
+    foaf:name """Jaybird""" ;
+    rdfs:label """Jaybird""" ;
+    schema:url <https://kitsaplabs.com/od/user/1366> .
+
+od:user-1368 a foaf:Person, od:User ;
+    od:userId 1368 ;
+    foaf:name """ZeaL""" ;
+    rdfs:label """ZeaL""" ;
+    schema:url <https://kitsaplabs.com/od/user/1368> .
+
+od:user-1370 a foaf:Person, od:User ;
+    od:userId 1370 ;
+    foaf:name """Phantasm""" ;
+    rdfs:label """Phantasm""" ;
+    schema:url <https://kitsaplabs.com/od/user/1370> .
+
+od:user-1371 a foaf:Person, od:User ;
+    od:userId 1371 ;
+    foaf:name """Rapid Roy""" ;
+    rdfs:label """Rapid Roy""" ;
+    schema:url <https://kitsaplabs.com/od/user/1371> .
+
+od:user-1372 a foaf:Person, od:User ;
+    od:userId 1372 ;
+    foaf:name """jeffale73""" ;
+    rdfs:label """jeffale73""" ;
+    schema:url <https://kitsaplabs.com/od/user/1372> .
+
+od:user-1373 a foaf:Person, od:User ;
+    od:userId 1373 ;
+    foaf:name """Excavator""" ;
+    rdfs:label """Excavator""" ;
+    schema:url <https://kitsaplabs.com/od/user/1373> .
+
+od:user-1374 a foaf:Person, od:User ;
+    od:userId 1374 ;
+    foaf:name """Tizzard""" ;
+    rdfs:label """Tizzard""" ;
+    schema:url <https://kitsaplabs.com/od/user/1374> .
+
+od:user-1375 a foaf:Person, od:User ;
+    od:userId 1375 ;
+    foaf:name """KnightTrain""" ;
+    rdfs:label """KnightTrain""" ;
+    schema:url <https://kitsaplabs.com/od/user/1375> .
+
+od:user-1376 a foaf:Person, od:User ;
+    od:userId 1376 ;
+    foaf:name """arties""" ;
+    rdfs:label """arties""" ;
+    schema:url <https://kitsaplabs.com/od/user/1376> .
+
+od:user-1377 a foaf:Person, od:User ;
+    od:userId 1377 ;
+    foaf:name """robinder""" ;
+    rdfs:label """robinder""" ;
+    schema:url <https://kitsaplabs.com/od/user/1377> .
+
+od:user-1378 a foaf:Person, od:User ;
+    od:userId 1378 ;
+    foaf:name """Righteous Fist""" ;
+    rdfs:label """Righteous Fist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1378> .
+
+od:user-1379 a foaf:Person, od:User ;
+    od:userId 1379 ;
+    foaf:name """JacksonInTheValley""" ;
+    rdfs:label """JacksonInTheValley""" ;
+    schema:url <https://kitsaplabs.com/od/user/1379> .
+
+od:user-1380 a foaf:Person, od:User ;
+    od:userId 1380 ;
+    foaf:name """CWRWinger""" ;
+    rdfs:label """CWRWinger""" ;
+    schema:url <https://kitsaplabs.com/od/user/1380> .
+
+od:user-1382 a foaf:Person, od:User ;
+    od:userId 1382 ;
+    foaf:name """Single White Mogul""" ;
+    rdfs:label """Single White Mogul""" ;
+    schema:url <https://kitsaplabs.com/od/user/1382> .
+
+od:user-1384 a foaf:Person, od:User ;
+    od:userId 1384 ;
+    foaf:name """Keystone""" ;
+    rdfs:label """Keystone""" ;
+    schema:url <https://kitsaplabs.com/od/user/1384> .
+
+od:user-1385 a foaf:Person, od:User ;
+    od:userId 1385 ;
+    foaf:name """anti""" ;
+    rdfs:label """anti""" ;
+    schema:url <https://kitsaplabs.com/od/user/1385> .
+
+od:user-1386 a foaf:Person, od:User ;
+    od:userId 1386 ;
+    foaf:name """Folkvang""" ;
+    rdfs:label """Folkvang""" ;
+    schema:url <https://kitsaplabs.com/od/user/1386> .
+
+od:user-1388 a foaf:Person, od:User ;
+    od:userId 1388 ;
+    foaf:name """theshagriathejews""" ;
+    rdfs:label """theshagriathejews""" ;
+    schema:url <https://kitsaplabs.com/od/user/1388> .
+
+od:user-1389 a foaf:Person, od:User ;
+    od:userId 1389 ;
+    foaf:name """John Graziano""" ;
+    rdfs:label """John Graziano""" ;
+    schema:url <https://kitsaplabs.com/od/user/1389> .
+
+od:user-1390 a foaf:Person, od:User ;
+    od:userId 1390 ;
+    foaf:name """Splash_1""" ;
+    rdfs:label """Splash_1""" ;
+    schema:url <https://kitsaplabs.com/od/user/1390> .
+
+od:user-1392 a foaf:Person, od:User ;
+    od:userId 1392 ;
+    foaf:name """agvistula""" ;
+    rdfs:label """agvistula""" ;
+    schema:url <https://kitsaplabs.com/od/user/1392> .
+
+od:user-1394 a foaf:Person, od:User ;
+    od:userId 1394 ;
+    foaf:name """Stuka""" ;
+    rdfs:label """Stuka""" ;
+    schema:url <https://kitsaplabs.com/od/user/1394> .
+
+od:user-1397 a foaf:Person, od:User ;
+    od:userId 1397 ;
+    foaf:name """CornCod""" ;
+    rdfs:label """CornCod""" ;
+    schema:url <https://kitsaplabs.com/od/user/1397> .
+
+od:user-1398 a foaf:Person, od:User ;
+    od:userId 1398 ;
+    foaf:name """Strasser""" ;
+    rdfs:label """Strasser""" ;
+    schema:url <https://kitsaplabs.com/od/user/1398> .
+
+od:user-1402 a foaf:Person, od:User ;
+    od:userId 1402 ;
+    foaf:name """Glenn Miller""" ;
+    rdfs:label """Glenn Miller""" ;
+    schema:url <https://kitsaplabs.com/od/user/1402> .
+
+od:user-1404 a foaf:Person, od:User ;
+    od:userId 1404 ;
+    foaf:name """eiba""" ;
+    rdfs:label """eiba""" ;
+    schema:url <https://kitsaplabs.com/od/user/1404> .
+
+od:user-1405 a foaf:Person, od:User ;
+    od:userId 1405 ;
+    foaf:name """Osceola""" ;
+    rdfs:label """Osceola""" ;
+    schema:url <https://kitsaplabs.com/od/user/1405> .
+
+od:user-1408 a foaf:Person, od:User ;
+    od:userId 1408 ;
+    foaf:name """feudalsocialist""" ;
+    rdfs:label """feudalsocialist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1408> .
+
+od:user-1409 a foaf:Person, od:User ;
+    od:userId 1409 ;
+    foaf:name """csamples""" ;
+    rdfs:label """csamples""" ;
+    schema:url <https://kitsaplabs.com/od/user/1409> .
+
+od:user-1411 a foaf:Person, od:User ;
+    od:userId 1411 ;
+    foaf:name """Petrocco""" ;
+    rdfs:label """Petrocco""" ;
+    schema:url <https://kitsaplabs.com/od/user/1411> .
+
+od:user-1412 a foaf:Person, od:User ;
+    od:userId 1412 ;
+    foaf:name """DAB""" ;
+    rdfs:label """DAB""" ;
+    schema:url <https://kitsaplabs.com/od/user/1412> .
+
+od:user-1414 a foaf:Person, od:User ;
+    od:userId 1414 ;
+    foaf:name """cf713""" ;
+    rdfs:label """cf713""" ;
+    schema:url <https://kitsaplabs.com/od/user/1414> .
+
+od:user-1415 a foaf:Person, od:User ;
+    od:userId 1415 ;
+    foaf:name """Francis Playfair""" ;
+    rdfs:label """Francis Playfair""" ;
+    schema:url <https://kitsaplabs.com/od/user/1415> .
+
+od:user-1416 a foaf:Person, od:User ;
+    od:userId 1416 ;
+    foaf:name """what?""" ;
+    rdfs:label """what?""" ;
+    schema:url <https://kitsaplabs.com/od/user/1416> .
+
+od:user-1417 a foaf:Person, od:User ;
+    od:userId 1417 ;
+    foaf:name """JOHNDUHH""" ;
+    rdfs:label """JOHNDUHH""" ;
+    schema:url <https://kitsaplabs.com/od/user/1417> .
+
+od:user-1418 a foaf:Person, od:User ;
+    od:userId 1418 ;
+    foaf:name """Kasvict2""" ;
+    rdfs:label """Kasvict2""" ;
+    schema:url <https://kitsaplabs.com/od/user/1418> .
+
+od:user-1420 a foaf:Person, od:User ;
+    od:userId 1420 ;
+    foaf:name """Geist""" ;
+    rdfs:label """Geist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1420> .
+
+od:user-1422 a foaf:Person, od:User ;
+    od:userId 1422 ;
+    foaf:name """Prince Harry""" ;
+    rdfs:label """Prince Harry""" ;
+    schema:url <https://kitsaplabs.com/od/user/1422> .
+
+od:user-1423 a foaf:Person, od:User ;
+    od:userId 1423 ;
+    foaf:name """denymn""" ;
+    rdfs:label """denymn""" ;
+    schema:url <https://kitsaplabs.com/od/user/1423> .
+
+od:user-1425 a foaf:Person, od:User ;
+    od:userId 1425 ;
+    foaf:name """SteamshipTime""" ;
+    rdfs:label """SteamshipTime""" ;
+    schema:url <https://kitsaplabs.com/od/user/1425> .
+
+od:user-1432 a foaf:Person, od:User ;
+    od:userId 1432 ;
+    foaf:name """RomanCenturian""" ;
+    rdfs:label """RomanCenturian""" ;
+    schema:url <https://kitsaplabs.com/od/user/1432> .
+
+od:user-1433 a foaf:Person, od:User ;
+    od:userId 1433 ;
+    foaf:name """Nihilist""" ;
+    rdfs:label """Nihilist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1433> .
+
+od:user-1434 a foaf:Person, od:User ;
+    od:userId 1434 ;
+    foaf:name """Marty""" ;
+    rdfs:label """Marty""" ;
+    schema:url <https://kitsaplabs.com/od/user/1434> .
+
+od:user-1437 a foaf:Person, od:User ;
+    od:userId 1437 ;
+    foaf:name """thecoach""" ;
+    rdfs:label """thecoach""" ;
+    schema:url <https://kitsaplabs.com/od/user/1437> .
+
+od:user-1438 a foaf:Person, od:User ;
+    od:userId 1438 ;
+    foaf:name """Alexander""" ;
+    rdfs:label """Alexander""" ;
+    schema:url <https://kitsaplabs.com/od/user/1438> .
+
+od:user-1440 a foaf:Person, od:User ;
+    od:userId 1440 ;
+    foaf:name """NJguy83""" ;
+    rdfs:label """NJguy83""" ;
+    schema:url <https://kitsaplabs.com/od/user/1440> .
+
+od:user-1441 a foaf:Person, od:User ;
+    od:userId 1441 ;
+    foaf:name """Stigmata""" ;
+    rdfs:label """Stigmata""" ;
+    schema:url <https://kitsaplabs.com/od/user/1441> .
+
+od:user-1442 a foaf:Person, od:User ;
+    od:userId 1442 ;
+    foaf:name """bakagaijin80""" ;
+    rdfs:label """bakagaijin80""" ;
+    schema:url <https://kitsaplabs.com/od/user/1442> .
+
+od:user-1443 a foaf:Person, od:User ;
+    od:userId 1443 ;
+    foaf:name """violinwizz""" ;
+    rdfs:label """violinwizz""" ;
+    schema:url <https://kitsaplabs.com/od/user/1443> .
+
+od:user-1447 a foaf:Person, od:User ;
+    od:userId 1447 ;
+    foaf:name """eric6789""" ;
+    rdfs:label """eric6789""" ;
+    schema:url <https://kitsaplabs.com/od/user/1447> .
+
+od:user-1449 a foaf:Person, od:User ;
+    od:userId 1449 ;
+    foaf:name """Dennis Merrell""" ;
+    rdfs:label """Dennis Merrell""" ;
+    schema:url <https://kitsaplabs.com/od/user/1449> .
+
+od:user-1451 a foaf:Person, od:User ;
+    od:userId 1451 ;
+    foaf:name """Winslowkimmel""" ;
+    rdfs:label """Winslowkimmel""" ;
+    schema:url <https://kitsaplabs.com/od/user/1451> .
+
+od:user-1454 a foaf:Person, od:User ;
+    od:userId 1454 ;
+    foaf:name """Axiom""" ;
+    rdfs:label """Axiom""" ;
+    schema:url <https://kitsaplabs.com/od/user/1454> .
+
+od:user-1458 a foaf:Person, od:User ;
+    od:userId 1458 ;
+    foaf:name """Sambo""" ;
+    rdfs:label """Sambo""" ;
+    schema:url <https://kitsaplabs.com/od/user/1458> .
+
+od:user-1460 a foaf:Person, od:User ;
+    od:userId 1460 ;
+    foaf:name """Jewel""" ;
+    rdfs:label """Jewel""" ;
+    schema:url <https://kitsaplabs.com/od/user/1460> .
+
+od:user-1462 a foaf:Person, od:User ;
+    od:userId 1462 ;
+    foaf:name """Hippopizzapie""" ;
+    rdfs:label """Hippopizzapie""" ;
+    schema:url <https://kitsaplabs.com/od/user/1462> .
+
+od:user-1463 a foaf:Person, od:User ;
+    od:userId 1463 ;
+    foaf:name """Knute""" ;
+    rdfs:label """Knute""" ;
+    schema:url <https://kitsaplabs.com/od/user/1463> .
+
+od:user-1464 a foaf:Person, od:User ;
+    od:userId 1464 ;
+    foaf:name """Serendipity2006K""" ;
+    rdfs:label """Serendipity2006K""" ;
+    schema:url <https://kitsaplabs.com/od/user/1464> .
+
+od:user-1466 a foaf:Person, od:User ;
+    od:userId 1466 ;
+    foaf:name """belicose""" ;
+    rdfs:label """belicose""" ;
+    schema:url <https://kitsaplabs.com/od/user/1466> .
+
+od:user-1467 a foaf:Person, od:User ;
+    od:userId 1467 ;
+    foaf:name """Iansmom""" ;
+    rdfs:label """Iansmom""" ;
+    schema:url <https://kitsaplabs.com/od/user/1467> .
+
+od:user-1468 a foaf:Person, od:User ;
+    od:userId 1468 ;
+    foaf:name """ellyB""" ;
+    rdfs:label """ellyB""" ;
+    schema:url <https://kitsaplabs.com/od/user/1468> .
+
+od:user-1469 a foaf:Person, od:User ;
+    od:userId 1469 ;
+    foaf:name """XLiznMikeX""" ;
+    rdfs:label """XLiznMikeX""" ;
+    schema:url <https://kitsaplabs.com/od/user/1469> .
+
+od:user-1471 a foaf:Person, od:User ;
+    od:userId 1471 ;
+    foaf:name """koolhass""" ;
+    rdfs:label """koolhass""" ;
+    schema:url <https://kitsaplabs.com/od/user/1471> .
+
+od:user-1473 a foaf:Person, od:User ;
+    od:userId 1473 ;
+    foaf:name """AnotherMaleGod""" ;
+    rdfs:label """AnotherMaleGod""" ;
+    schema:url <https://kitsaplabs.com/od/user/1473> .
+
+od:user-1474 a foaf:Person, od:User ;
+    od:userId 1474 ;
+    foaf:name """Station815""" ;
+    rdfs:label """Station815""" ;
+    schema:url <https://kitsaplabs.com/od/user/1474> .
+
+od:user-1478 a foaf:Person, od:User ;
+    od:userId 1478 ;
+    foaf:name """Yehuda""" ;
+    rdfs:label """Yehuda""" ;
+    schema:url <https://kitsaplabs.com/od/user/1478> .
+
+od:user-1482 a foaf:Person, od:User ;
+    od:userId 1482 ;
+    foaf:name """Dennis""" ;
+    rdfs:label """Dennis""" ;
+    schema:url <https://kitsaplabs.com/od/user/1482> .
+
+od:user-1485 a foaf:Person, od:User ;
+    od:userId 1485 ;
+    foaf:name """NordicNazi88""" ;
+    rdfs:label """NordicNazi88""" ;
+    schema:url <https://kitsaplabs.com/od/user/1485> .
+
+od:user-1486 a foaf:Person, od:User ;
+    od:userId 1486 ;
+    foaf:name """pjoseph""" ;
+    rdfs:label """pjoseph""" ;
+    schema:url <https://kitsaplabs.com/od/user/1486> .
+
+od:user-1488 a foaf:Person, od:User ;
+    od:userId 1488 ;
+    foaf:name """Howling Privateer""" ;
+    rdfs:label """Howling Privateer""" ;
+    schema:url <https://kitsaplabs.com/od/user/1488> .
+
+od:user-1492 a foaf:Person, od:User ;
+    od:userId 1492 ;
+    foaf:name """Sir Ruthless""" ;
+    rdfs:label """Sir Ruthless""" ;
+    schema:url <https://kitsaplabs.com/od/user/1492> .
+
+od:user-1494 a foaf:Person, od:User ;
+    od:userId 1494 ;
+    foaf:name """wonderwoman""" ;
+    rdfs:label """wonderwoman""" ;
+    schema:url <https://kitsaplabs.com/od/user/1494> .
+
+od:user-1496 a foaf:Person, od:User ;
+    od:userId 1496 ;
+    foaf:name """racetracker""" ;
+    rdfs:label """racetracker""" ;
+    schema:url <https://kitsaplabs.com/od/user/1496> .
+
+od:user-1497 a foaf:Person, od:User ;
+    od:userId 1497 ;
+    foaf:name """rcm""" ;
+    rdfs:label """rcm""" ;
+    schema:url <https://kitsaplabs.com/od/user/1497> .
+
+od:user-1498 a foaf:Person, od:User ;
+    od:userId 1498 ;
+    foaf:name """Otto Skorzeny""" ;
+    rdfs:label """Otto Skorzeny""" ;
+    schema:url <https://kitsaplabs.com/od/user/1498> .
+
+od:user-1500 a foaf:Person, od:User ;
+    od:userId 1500 ;
+    foaf:name """SGRedux""" ;
+    rdfs:label """SGRedux""" ;
+    schema:url <https://kitsaplabs.com/od/user/1500> .
+
+od:user-1501 a foaf:Person, od:User ;
+    od:userId 1501 ;
+    foaf:name """BNP'er""" ;
+    rdfs:label """BNP'er""" ;
+    schema:url <https://kitsaplabs.com/od/user/1501> .
+
+od:user-1503 a foaf:Person, od:User ;
+    od:userId 1503 ;
+    foaf:name """Jeepfred""" ;
+    rdfs:label """Jeepfred""" ;
+    schema:url <https://kitsaplabs.com/od/user/1503> .
+
+od:user-1506 a foaf:Person, od:User ;
+    od:userId 1506 ;
+    foaf:name """raider""" ;
+    rdfs:label """raider""" ;
+    schema:url <https://kitsaplabs.com/od/user/1506> .
+
+od:user-1507 a foaf:Person, od:User ;
+    od:userId 1507 ;
+    foaf:name """Tim Nelson""" ;
+    rdfs:label """Tim Nelson""" ;
+    schema:url <https://kitsaplabs.com/od/user/1507> .
+
+od:user-1509 a foaf:Person, od:User ;
+    od:userId 1509 ;
+    foaf:name """Mr. Orthodox""" ;
+    rdfs:label """Mr. Orthodox""" ;
+    schema:url <https://kitsaplabs.com/od/user/1509> .
+
+od:user-1510 a foaf:Person, od:User ;
+    od:userId 1510 ;
+    foaf:name """Revolution""" ;
+    rdfs:label """Revolution""" ;
+    schema:url <https://kitsaplabs.com/od/user/1510> .
+
+od:user-1512 a foaf:Person, od:User ;
+    od:userId 1512 ;
+    foaf:name """jedione12""" ;
+    rdfs:label """jedione12""" ;
+    schema:url <https://kitsaplabs.com/od/user/1512> .
+
+od:user-1513 a foaf:Person, od:User ;
+    od:userId 1513 ;
+    foaf:name """Angeleyes""" ;
+    rdfs:label """Angeleyes""" ;
+    schema:url <https://kitsaplabs.com/od/user/1513> .
+
+od:user-1517 a foaf:Person, od:User ;
+    od:userId 1517 ;
+    foaf:name """Hell's Kitchen""" ;
+    rdfs:label """Hell's Kitchen""" ;
+    schema:url <https://kitsaplabs.com/od/user/1517> .
+
+od:user-1518 a foaf:Person, od:User ;
+    od:userId 1518 ;
+    foaf:name """targa22girl""" ;
+    rdfs:label """targa22girl""" ;
+    schema:url <https://kitsaplabs.com/od/user/1518> .
+
+od:user-1519 a foaf:Person, od:User ;
+    od:userId 1519 ;
+    foaf:name """Malika""" ;
+    rdfs:label """Malika""" ;
+    schema:url <https://kitsaplabs.com/od/user/1519> .
+
+od:user-1520 a foaf:Person, od:User ;
+    od:userId 1520 ;
+    foaf:name """Desertrat""" ;
+    rdfs:label """Desertrat""" ;
+    schema:url <https://kitsaplabs.com/od/user/1520> .
+
+od:user-1522 a foaf:Person, od:User ;
+    od:userId 1522 ;
+    foaf:name """FREE ZUNDEL NOW""" ;
+    rdfs:label """FREE ZUNDEL NOW""" ;
+    schema:url <https://kitsaplabs.com/od/user/1522> .
+
+od:user-1523 a foaf:Person, od:User ;
+    od:userId 1523 ;
+    foaf:name """Velvet Hammer""" ;
+    rdfs:label """Velvet Hammer""" ;
+    schema:url <https://kitsaplabs.com/od/user/1523> .
+
+od:user-1524 a foaf:Person, od:User ;
+    od:userId 1524 ;
+    foaf:name """Brian Hassett""" ;
+    rdfs:label """Brian Hassett""" ;
+    schema:url <https://kitsaplabs.com/od/user/1524> .
+
+od:user-1525 a foaf:Person, od:User ;
+    od:userId 1525 ;
+    foaf:name """Mountain Mama""" ;
+    rdfs:label """Mountain Mama""" ;
+    schema:url <https://kitsaplabs.com/od/user/1525> .
+
+od:user-1528 a foaf:Person, od:User ;
+    od:userId 1528 ;
+    foaf:name """Alabaster""" ;
+    rdfs:label """Alabaster""" ;
+    schema:url <https://kitsaplabs.com/od/user/1528> .
+
+od:user-1532 a foaf:Person, od:User ;
+    od:userId 1532 ;
+    foaf:name """WhiteHot""" ;
+    rdfs:label """WhiteHot""" ;
+    schema:url <https://kitsaplabs.com/od/user/1532> .
+
+od:user-1534 a foaf:Person, od:User ;
+    od:userId 1534 ;
+    foaf:name """adam 1860""" ;
+    rdfs:label """adam 1860""" ;
+    schema:url <https://kitsaplabs.com/od/user/1534> .
+
+od:user-1534 a foaf:Person, od:User ;
+    od:userId 1534 ;
+    foaf:name """xcrusaderx""" ;
+    rdfs:label """xcrusaderx""" ;
+    schema:url <https://kitsaplabs.com/od/user/1534> .
+
+od:user-1535 a foaf:Person, od:User ;
+    od:userId 1535 ;
+    foaf:name """who'sbobbarr?""" ;
+    rdfs:label """who'sbobbarr?""" ;
+    schema:url <https://kitsaplabs.com/od/user/1535> .
+
+od:user-1539 a foaf:Person, od:User ;
+    od:userId 1539 ;
+    foaf:name """NordicWise""" ;
+    rdfs:label """NordicWise""" ;
+    schema:url <https://kitsaplabs.com/od/user/1539> .
+
+od:user-1542 a foaf:Person, od:User ;
+    od:userId 1542 ;
+    foaf:name """Giro""" ;
+    rdfs:label """Giro""" ;
+    schema:url <https://kitsaplabs.com/od/user/1542> .
+
+od:user-1543 a foaf:Person, od:User ;
+    od:userId 1543 ;
+    foaf:name """Ked McFarlane""" ;
+    rdfs:label """Ked McFarlane""" ;
+    schema:url <https://kitsaplabs.com/od/user/1543> .
+
+od:user-1544 a foaf:Person, od:User ;
+    od:userId 1544 ;
+    foaf:name """Nate the Great""" ;
+    rdfs:label """Nate the Great""" ;
+    schema:url <https://kitsaplabs.com/od/user/1544> .
+
+od:user-1547 a foaf:Person, od:User ;
+    od:userId 1547 ;
+    foaf:name """horatio""" ;
+    rdfs:label """horatio""" ;
+    schema:url <https://kitsaplabs.com/od/user/1547> .
+
+od:user-1549 a foaf:Person, od:User ;
+    od:userId 1549 ;
+    foaf:name """big T""" ;
+    rdfs:label """big T""" ;
+    schema:url <https://kitsaplabs.com/od/user/1549> .
+
+od:user-1550 a foaf:Person, od:User ;
+    od:userId 1550 ;
+    foaf:name """Malachias111""" ;
+    rdfs:label """Malachias111""" ;
+    schema:url <https://kitsaplabs.com/od/user/1550> .
+
+od:user-1553 a foaf:Person, od:User ;
+    od:userId 1553 ;
+    foaf:name """Pope Molesto CCLXV""" ;
+    rdfs:label """Pope Molesto CCLXV""" ;
+    schema:url <https://kitsaplabs.com/od/user/1553> .
+
+od:user-1554 a foaf:Person, od:User ;
+    od:userId 1554 ;
+    foaf:name """JakeBlues""" ;
+    rdfs:label """JakeBlues""" ;
+    schema:url <https://kitsaplabs.com/od/user/1554> .
+
+od:user-1555 a foaf:Person, od:User ;
+    od:userId 1555 ;
+    foaf:name """CowboyUp""" ;
+    rdfs:label """CowboyUp""" ;
+    schema:url <https://kitsaplabs.com/od/user/1555> .
+
+od:user-1557 a foaf:Person, od:User ;
+    od:userId 1557 ;
+    foaf:name """BlueBonnet""" ;
+    rdfs:label """BlueBonnet""" ;
+    schema:url <https://kitsaplabs.com/od/user/1557> .
+
+od:user-1562 a foaf:Person, od:User ;
+    od:userId 1562 ;
+    foaf:name """RUNEMASTER""" ;
+    rdfs:label """RUNEMASTER""" ;
+    schema:url <https://kitsaplabs.com/od/user/1562> .
+
+od:user-1564 a foaf:Person, od:User ;
+    od:userId 1564 ;
+    foaf:name """kane123123""" ;
+    rdfs:label """kane123123""" ;
+    schema:url <https://kitsaplabs.com/od/user/1564> .
+
+od:user-1566 a foaf:Person, od:User ;
+    od:userId 1566 ;
+    foaf:name """Lowell""" ;
+    rdfs:label """Lowell""" ;
+    schema:url <https://kitsaplabs.com/od/user/1566> .
+
+od:user-1567 a foaf:Person, od:User ;
+    od:userId 1567 ;
+    foaf:name """formerfreeper""" ;
+    rdfs:label """formerfreeper""" ;
+    schema:url <https://kitsaplabs.com/od/user/1567> .
+
+od:user-1571 a foaf:Person, od:User ;
+    od:userId 1571 ;
+    foaf:name """obadiah""" ;
+    rdfs:label """obadiah""" ;
+    schema:url <https://kitsaplabs.com/od/user/1571> .
+
+od:user-1572 a foaf:Person, od:User ;
+    od:userId 1572 ;
+    foaf:name """Marxist""" ;
+    rdfs:label """Marxist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1572> .
+
+od:user-1574 a foaf:Person, od:User ;
+    od:userId 1574 ;
+    foaf:name """Angelus Silesius""" ;
+    rdfs:label """Angelus Silesius""" ;
+    schema:url <https://kitsaplabs.com/od/user/1574> .
+
+od:user-1575 a foaf:Person, od:User ;
+    od:userId 1575 ;
+    foaf:name """Sam Reeves""" ;
+    rdfs:label """Sam Reeves""" ;
+    schema:url <https://kitsaplabs.com/od/user/1575> .
+
+od:user-1576 a foaf:Person, od:User ;
+    od:userId 1576 ;
+    foaf:name """Fenris""" ;
+    rdfs:label """Fenris""" ;
+    schema:url <https://kitsaplabs.com/od/user/1576> .
+
+od:user-1578 a foaf:Person, od:User ;
+    od:userId 1578 ;
+    foaf:name """AulÃÂ«""" ;
+    rdfs:label """AulÃÂ«""" ;
+    schema:url <https://kitsaplabs.com/od/user/1578> .
+
+od:user-1579 a foaf:Person, od:User ;
+    od:userId 1579 ;
+    foaf:name """BrianTheDog""" ;
+    rdfs:label """BrianTheDog""" ;
+    schema:url <https://kitsaplabs.com/od/user/1579> .
+
+od:user-1580 a foaf:Person, od:User ;
+    od:userId 1580 ;
+    foaf:name """LethalNjection""" ;
+    rdfs:label """LethalNjection""" ;
+    schema:url <https://kitsaplabs.com/od/user/1580> .
+
+od:user-1581 a foaf:Person, od:User ;
+    od:userId 1581 ;
+    foaf:name """Aryan 40""" ;
+    rdfs:label """Aryan 40""" ;
+    schema:url <https://kitsaplabs.com/od/user/1581> .
+
+od:user-1583 a foaf:Person, od:User ;
+    od:userId 1583 ;
+    foaf:name """Michael76""" ;
+    rdfs:label """Michael76""" ;
+    schema:url <https://kitsaplabs.com/od/user/1583> .
+
+od:user-1584 a foaf:Person, od:User ;
+    od:userId 1584 ;
+    foaf:name """Peter""" ;
+    rdfs:label """Peter""" ;
+    schema:url <https://kitsaplabs.com/od/user/1584> .
+
+od:user-1586 a foaf:Person, od:User ;
+    od:userId 1586 ;
+    foaf:name """SERENDIPITOUS2006WP""" ;
+    rdfs:label """SERENDIPITOUS2006WP""" ;
+    schema:url <https://kitsaplabs.com/od/user/1586> .
+
+od:user-1587 a foaf:Person, od:User ;
+    od:userId 1587 ;
+    foaf:name """1truefaith""" ;
+    rdfs:label """1truefaith""" ;
+    schema:url <https://kitsaplabs.com/od/user/1587> .
+
+od:user-1588 a foaf:Person, od:User ;
+    od:userId 1588 ;
+    foaf:name """Rhynome""" ;
+    rdfs:label """Rhynome""" ;
+    schema:url <https://kitsaplabs.com/od/user/1588> .
+
+od:user-1589 a foaf:Person, od:User ;
+    od:userId 1589 ;
+    foaf:name """purple_apple_juice""" ;
+    rdfs:label """purple_apple_juice""" ;
+    schema:url <https://kitsaplabs.com/od/user/1589> .
+
+od:user-1590 a foaf:Person, od:User ;
+    od:userId 1590 ;
+    foaf:name """Old School Whitey""" ;
+    rdfs:label """Old School Whitey""" ;
+    schema:url <https://kitsaplabs.com/od/user/1590> .
+
+od:user-1591 a foaf:Person, od:User ;
+    od:userId 1591 ;
+    foaf:name """DamienBlitz""" ;
+    rdfs:label """DamienBlitz""" ;
+    schema:url <https://kitsaplabs.com/od/user/1591> .
+
+od:user-1592 a foaf:Person, od:User ;
+    od:userId 1592 ;
+    foaf:name """Fenrir""" ;
+    rdfs:label """Fenrir""" ;
+    schema:url <https://kitsaplabs.com/od/user/1592> .
+
+od:user-1596 a foaf:Person, od:User ;
+    od:userId 1596 ;
+    foaf:name """tricknologist""" ;
+    rdfs:label """tricknologist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1596> .
+
+od:user-1599 a foaf:Person, od:User ;
+    od:userId 1599 ;
+    foaf:name """Jess David Peterson""" ;
+    rdfs:label """Jess David Peterson""" ;
+    schema:url <https://kitsaplabs.com/od/user/1599> .
+
+od:user-1601 a foaf:Person, od:User ;
+    od:userId 1601 ;
+    foaf:name """King Bisquick Power Hour""" ;
+    rdfs:label """King Bisquick Power Hour""" ;
+    schema:url <https://kitsaplabs.com/od/user/1601> .
+
+od:user-1603 a foaf:Person, od:User ;
+    od:userId 1603 ;
+    foaf:name """theonomist""" ;
+    rdfs:label """theonomist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1603> .
+
+od:user-1606 a foaf:Person, od:User ;
+    od:userId 1606 ;
+    foaf:name """JohnWRedelfs""" ;
+    rdfs:label """JohnWRedelfs""" ;
+    schema:url <https://kitsaplabs.com/od/user/1606> .
+
+od:user-1612 a foaf:Person, od:User ;
+    od:userId 1612 ;
+    foaf:name """White Nobility""" ;
+    rdfs:label """White Nobility""" ;
+    schema:url <https://kitsaplabs.com/od/user/1612> .
+
+od:user-1614 a foaf:Person, od:User ;
+    od:userId 1614 ;
+    foaf:name """infoterror""" ;
+    rdfs:label """infoterror""" ;
+    schema:url <https://kitsaplabs.com/od/user/1614> .
+
+od:user-1616 a foaf:Person, od:User ;
+    od:userId 1616 ;
+    foaf:name """FourteenWords""" ;
+    rdfs:label """FourteenWords""" ;
+    schema:url <https://kitsaplabs.com/od/user/1616> .
+
+od:user-1620 a foaf:Person, od:User ;
+    od:userId 1620 ;
+    foaf:name """Save America""" ;
+    rdfs:label """Save America""" ;
+    schema:url <https://kitsaplabs.com/od/user/1620> .
+
+od:user-1621 a foaf:Person, od:User ;
+    od:userId 1621 ;
+    foaf:name """Holden Caulfield""" ;
+    rdfs:label """Holden Caulfield""" ;
+    schema:url <https://kitsaplabs.com/od/user/1621> .
+
+od:user-1626 a foaf:Person, od:User ;
+    od:userId 1626 ;
+    foaf:name """anti-social""" ;
+    rdfs:label """anti-social""" ;
+    schema:url <https://kitsaplabs.com/od/user/1626> .
+
+od:user-1634 a foaf:Person, od:User ;
+    od:userId 1634 ;
+    foaf:name """White Elite""" ;
+    rdfs:label """White Elite""" ;
+    schema:url <https://kitsaplabs.com/od/user/1634> .
+
+od:user-1635 a foaf:Person, od:User ;
+    od:userId 1635 ;
+    foaf:name """Justin Lee""" ;
+    rdfs:label """Justin Lee""" ;
+    schema:url <https://kitsaplabs.com/od/user/1635> .
+
+od:user-1637 a foaf:Person, od:User ;
+    od:userId 1637 ;
+    foaf:name """vaughnm""" ;
+    rdfs:label """vaughnm""" ;
+    schema:url <https://kitsaplabs.com/od/user/1637> .
+
+od:user-1638 a foaf:Person, od:User ;
+    od:userId 1638 ;
+    foaf:name """Anti-Nietzsche RetroVirus""" ;
+    rdfs:label """Anti-Nietzsche RetroVirus""" ;
+    schema:url <https://kitsaplabs.com/od/user/1638> .
+
+od:user-1639 a foaf:Person, od:User ;
+    od:userId 1639 ;
+    foaf:name """Jashub""" ;
+    rdfs:label """Jashub""" ;
+    schema:url <https://kitsaplabs.com/od/user/1639> .
+
+od:user-1641 a foaf:Person, od:User ;
+    od:userId 1641 ;
+    foaf:name """Origen""" ;
+    rdfs:label """Origen""" ;
+    schema:url <https://kitsaplabs.com/od/user/1641> .
+
+od:user-1642 a foaf:Person, od:User ;
+    od:userId 1642 ;
+    foaf:name """Solve_et_Coagula""" ;
+    rdfs:label """Solve_et_Coagula""" ;
+    schema:url <https://kitsaplabs.com/od/user/1642> .
+
+od:user-1645 a foaf:Person, od:User ;
+    od:userId 1645 ;
+    foaf:name """datavirtue""" ;
+    rdfs:label """datavirtue""" ;
+    schema:url <https://kitsaplabs.com/od/user/1645> .
+
+od:user-1646 a foaf:Person, od:User ;
+    od:userId 1646 ;
+    foaf:name """Margate""" ;
+    rdfs:label """Margate""" ;
+    schema:url <https://kitsaplabs.com/od/user/1646> .
+
+od:user-1647 a foaf:Person, od:User ;
+    od:userId 1647 ;
+    foaf:name """almahdi""" ;
+    rdfs:label """almahdi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1647> .
+
+od:user-1648 a foaf:Person, od:User ;
+    od:userId 1648 ;
+    foaf:name """cobb""" ;
+    rdfs:label """cobb""" ;
+    schema:url <https://kitsaplabs.com/od/user/1648> .
+
+od:user-1651 a foaf:Person, od:User ;
+    od:userId 1651 ;
+    foaf:name """311inAZ""" ;
+    rdfs:label """311inAZ""" ;
+    schema:url <https://kitsaplabs.com/od/user/1651> .
+
+od:user-1654 a foaf:Person, od:User ;
+    od:userId 1654 ;
+    foaf:name """Brian Foley""" ;
+    rdfs:label """Brian Foley""" ;
+    schema:url <https://kitsaplabs.com/od/user/1654> .
+
+od:user-1657 a foaf:Person, od:User ;
+    od:userId 1657 ;
+    foaf:name """cygnus""" ;
+    rdfs:label """cygnus""" ;
+    schema:url <https://kitsaplabs.com/od/user/1657> .
+
+od:user-1661 a foaf:Person, od:User ;
+    od:userId 1661 ;
+    foaf:name """thotpolice""" ;
+    rdfs:label """thotpolice""" ;
+    schema:url <https://kitsaplabs.com/od/user/1661> .
+
+od:user-1673 a foaf:Person, od:User ;
+    od:userId 1673 ;
+    foaf:name """OttoR""" ;
+    rdfs:label """OttoR""" ;
+    schema:url <https://kitsaplabs.com/od/user/1673> .
+
+od:user-1675 a foaf:Person, od:User ;
+    od:userId 1675 ;
+    foaf:name """siren""" ;
+    rdfs:label """siren""" ;
+    schema:url <https://kitsaplabs.com/od/user/1675> .
+
+od:user-1679 a foaf:Person, od:User ;
+    od:userId 1679 ;
+    foaf:name """johnrebtenn""" ;
+    rdfs:label """johnrebtenn""" ;
+    schema:url <https://kitsaplabs.com/od/user/1679> .
+
+od:user-1680 a foaf:Person, od:User ;
+    od:userId 1680 ;
+    foaf:name """Macrobius""" ;
+    rdfs:label """Macrobius""" ;
+    schema:url <https://kitsaplabs.com/od/user/1680> .
+
+od:user-1683 a foaf:Person, od:User ;
+    od:userId 1683 ;
+    foaf:name """KyrstenGittings""" ;
+    rdfs:label """KyrstenGittings""" ;
+    schema:url <https://kitsaplabs.com/od/user/1683> .
+
+od:user-1691 a foaf:Person, od:User ;
+    od:userId 1691 ;
+    foaf:name """Amy""" ;
+    rdfs:label """Amy""" ;
+    schema:url <https://kitsaplabs.com/od/user/1691> .
+
+od:user-1692 a foaf:Person, od:User ;
+    od:userId 1692 ;
+    foaf:name """ewald steiner""" ;
+    rdfs:label """ewald steiner""" ;
+    schema:url <https://kitsaplabs.com/od/user/1692> .
+
+od:user-1693 a foaf:Person, od:User ;
+    od:userId 1693 ;
+    foaf:name """Josef Dirte""" ;
+    rdfs:label """Josef Dirte""" ;
+    schema:url <https://kitsaplabs.com/od/user/1693> .
+
+od:user-1695 a foaf:Person, od:User ;
+    od:userId 1695 ;
+    foaf:name """WFHermans""" ;
+    rdfs:label """WFHermans""" ;
+    schema:url <https://kitsaplabs.com/od/user/1695> .
+
+od:user-1700 a foaf:Person, od:User ;
+    od:userId 1700 ;
+    foaf:name """Popsiq""" ;
+    rdfs:label """Popsiq""" ;
+    schema:url <https://kitsaplabs.com/od/user/1700> .
+
+od:user-1701 a foaf:Person, od:User ;
+    od:userId 1701 ;
+    foaf:name """Destro""" ;
+    rdfs:label """Destro""" ;
+    schema:url <https://kitsaplabs.com/od/user/1701> .
+
+od:user-1702 a foaf:Person, od:User ;
+    od:userId 1702 ;
+    foaf:name """ARAB-AMERICAN""" ;
+    rdfs:label """ARAB-AMERICAN""" ;
+    schema:url <https://kitsaplabs.com/od/user/1702> .
+
+od:user-1705 a foaf:Person, od:User ;
+    od:userId 1705 ;
+    foaf:name """Quendi""" ;
+    rdfs:label """Quendi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1705> .
+
+od:user-1707 a foaf:Person, od:User ;
+    od:userId 1707 ;
+    foaf:name """Chad Degenhart""" ;
+    rdfs:label """Chad Degenhart""" ;
+    schema:url <https://kitsaplabs.com/od/user/1707> .
+
+od:user-1709 a foaf:Person, od:User ;
+    od:userId 1709 ;
+    foaf:name """Xforce80""" ;
+    rdfs:label """Xforce80""" ;
+    schema:url <https://kitsaplabs.com/od/user/1709> .
+
+od:user-1712 a foaf:Person, od:User ;
+    od:userId 1712 ;
+    foaf:name """wicked88""" ;
+    rdfs:label """wicked88""" ;
+    schema:url <https://kitsaplabs.com/od/user/1712> .
+
+od:user-1713 a foaf:Person, od:User ;
+    od:userId 1713 ;
+    foaf:name """jsaid2009""" ;
+    rdfs:label """jsaid2009""" ;
+    schema:url <https://kitsaplabs.com/od/user/1713> .
+
+od:user-1715 a foaf:Person, od:User ;
+    od:userId 1715 ;
+    foaf:name """adina""" ;
+    rdfs:label """adina""" ;
+    schema:url <https://kitsaplabs.com/od/user/1715> .
+
+od:user-1716 a foaf:Person, od:User ;
+    od:userId 1716 ;
+    foaf:name """King_Tiger""" ;
+    rdfs:label """King_Tiger""" ;
+    schema:url <https://kitsaplabs.com/od/user/1716> .
+
+od:user-1721 a foaf:Person, od:User ;
+    od:userId 1721 ;
+    foaf:name """TexasRebel1980""" ;
+    rdfs:label """TexasRebel1980""" ;
+    schema:url <https://kitsaplabs.com/od/user/1721> .
+
+od:user-1722 a foaf:Person, od:User ;
+    od:userId 1722 ;
+    foaf:name """Hivemindgammahydra7""" ;
+    rdfs:label """Hivemindgammahydra7""" ;
+    schema:url <https://kitsaplabs.com/od/user/1722> .
+
+od:user-1723 a foaf:Person, od:User ;
+    od:userId 1723 ;
+    foaf:name """MarkFarrell""" ;
+    rdfs:label """MarkFarrell""" ;
+    schema:url <https://kitsaplabs.com/od/user/1723> .
+
+od:user-1724 a foaf:Person, od:User ;
+    od:userId 1724 ;
+    foaf:name """Jaguar""" ;
+    rdfs:label """Jaguar""" ;
+    schema:url <https://kitsaplabs.com/od/user/1724> .
+
+od:user-1725 a foaf:Person, od:User ;
+    od:userId 1725 ;
+    foaf:name """John Dryden""" ;
+    rdfs:label """John Dryden""" ;
+    schema:url <https://kitsaplabs.com/od/user/1725> .
+
+od:user-1726 a foaf:Person, od:User ;
+    od:userId 1726 ;
+    foaf:name """Genevan""" ;
+    rdfs:label """Genevan""" ;
+    schema:url <https://kitsaplabs.com/od/user/1726> .
+
+od:user-1728 a foaf:Person, od:User ;
+    od:userId 1728 ;
+    foaf:name """Corky""" ;
+    rdfs:label """Corky""" ;
+    schema:url <https://kitsaplabs.com/od/user/1728> .
+
+od:user-1731 a foaf:Person, od:User ;
+    od:userId 1731 ;
+    foaf:name """CeeInn""" ;
+    rdfs:label """CeeInn""" ;
+    schema:url <https://kitsaplabs.com/od/user/1731> .
+
+od:user-1734 a foaf:Person, od:User ;
+    od:userId 1734 ;
+    foaf:name """mouanazarite""" ;
+    rdfs:label """mouanazarite""" ;
+    schema:url <https://kitsaplabs.com/od/user/1734> .
+
+od:user-1736 a foaf:Person, od:User ;
+    od:userId 1736 ;
+    foaf:name """Julie81987""" ;
+    rdfs:label """Julie81987""" ;
+    schema:url <https://kitsaplabs.com/od/user/1736> .
+
+od:user-1737 a foaf:Person, od:User ;
+    od:userId 1737 ;
+    foaf:name """aimshi""" ;
+    rdfs:label """aimshi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1737> .
+
+od:user-1747 a foaf:Person, od:User ;
+    od:userId 1747 ;
+    foaf:name """tmgulley""" ;
+    rdfs:label """tmgulley""" ;
+    schema:url <https://kitsaplabs.com/od/user/1747> .
+
+od:user-1748 a foaf:Person, od:User ;
+    od:userId 1748 ;
+    foaf:name """rosenzweig""" ;
+    rdfs:label """rosenzweig""" ;
+    schema:url <https://kitsaplabs.com/od/user/1748> .
+
+od:user-1749 a foaf:Person, od:User ;
+    od:userId 1749 ;
+    foaf:name """Last_Chance_Armada""" ;
+    rdfs:label """Last_Chance_Armada""" ;
+    schema:url <https://kitsaplabs.com/od/user/1749> .
+
+od:user-1751 a foaf:Person, od:User ;
+    od:userId 1751 ;
+    foaf:name """October Sun Films""" ;
+    rdfs:label """October Sun Films""" ;
+    schema:url <https://kitsaplabs.com/od/user/1751> .
+
+od:user-1752 a foaf:Person, od:User ;
+    od:userId 1752 ;
+    foaf:name """Blaphbee""" ;
+    rdfs:label """Blaphbee""" ;
+    schema:url <https://kitsaplabs.com/od/user/1752> .
+
+od:user-1757 a foaf:Person, od:User ;
+    od:userId 1757 ;
+    foaf:name """galf""" ;
+    rdfs:label """galf""" ;
+    schema:url <https://kitsaplabs.com/od/user/1757> .
+
+od:user-1758 a foaf:Person, od:User ;
+    od:userId 1758 ;
+    foaf:name """savrola""" ;
+    rdfs:label """savrola""" ;
+    schema:url <https://kitsaplabs.com/od/user/1758> .
+
+od:user-1759 a foaf:Person, od:User ;
+    od:userId 1759 ;
+    foaf:name """seeker""" ;
+    rdfs:label """seeker""" ;
+    schema:url <https://kitsaplabs.com/od/user/1759> .
+
+od:user-1760 a foaf:Person, od:User ;
+    od:userId 1760 ;
+    foaf:name """PaleoBear""" ;
+    rdfs:label """PaleoBear""" ;
+    schema:url <https://kitsaplabs.com/od/user/1760> .
+
+od:user-1763 a foaf:Person, od:User ;
+    od:userId 1763 ;
+    foaf:name """H.A.L.2006""" ;
+    rdfs:label """H.A.L.2006""" ;
+    schema:url <https://kitsaplabs.com/od/user/1763> .
+
+od:user-1764 a foaf:Person, od:User ;
+    od:userId 1764 ;
+    foaf:name """Hamilton""" ;
+    rdfs:label """Hamilton""" ;
+    schema:url <https://kitsaplabs.com/od/user/1764> .
+
+od:user-1768 a foaf:Person, od:User ;
+    od:userId 1768 ;
+    foaf:name """Counter Semite""" ;
+    rdfs:label """Counter Semite""" ;
+    schema:url <https://kitsaplabs.com/od/user/1768> .
+
+od:user-1775 a foaf:Person, od:User ;
+    od:userId 1775 ;
+    foaf:name """betterfuture""" ;
+    rdfs:label """betterfuture""" ;
+    schema:url <https://kitsaplabs.com/od/user/1775> .
+
+od:user-1778 a foaf:Person, od:User ;
+    od:userId 1778 ;
+    foaf:name """Refinersfire""" ;
+    rdfs:label """Refinersfire""" ;
+    schema:url <https://kitsaplabs.com/od/user/1778> .
+
+od:user-1779 a foaf:Person, od:User ;
+    od:userId 1779 ;
+    foaf:name """Ralph Kane""" ;
+    rdfs:label """Ralph Kane""" ;
+    schema:url <https://kitsaplabs.com/od/user/1779> .
+
+od:user-1781 a foaf:Person, od:User ;
+    od:userId 1781 ;
+    foaf:name """alan B'stard M P""" ;
+    rdfs:label """alan B'stard M P""" ;
+    schema:url <https://kitsaplabs.com/od/user/1781> .
+
+od:user-1782 a foaf:Person, od:User ;
+    od:userId 1782 ;
+    foaf:name """YertleTurtle""" ;
+    rdfs:label """YertleTurtle""" ;
+    schema:url <https://kitsaplabs.com/od/user/1782> .
+
+od:user-1785 a foaf:Person, od:User ;
+    od:userId 1785 ;
+    foaf:name """Galahad""" ;
+    rdfs:label """Galahad""" ;
+    schema:url <https://kitsaplabs.com/od/user/1785> .
+
+od:user-1788 a foaf:Person, od:User ;
+    od:userId 1788 ;
+    foaf:name """Arnhart""" ;
+    rdfs:label """Arnhart""" ;
+    schema:url <https://kitsaplabs.com/od/user/1788> .
+
+od:user-1789 a foaf:Person, od:User ;
+    od:userId 1789 ;
+    foaf:name """phoenix_rising""" ;
+    rdfs:label """phoenix_rising""" ;
+    schema:url <https://kitsaplabs.com/od/user/1789> .
+
+od:user-1795 a foaf:Person, od:User ;
+    od:userId 1795 ;
+    foaf:name """Right-wing Calvinist""" ;
+    rdfs:label """Right-wing Calvinist""" ;
+    schema:url <https://kitsaplabs.com/od/user/1795> .
+
+od:user-1797 a foaf:Person, od:User ;
+    od:userId 1797 ;
+    foaf:name """art""" ;
+    rdfs:label """art""" ;
+    schema:url <https://kitsaplabs.com/od/user/1797> .
+
+od:user-1798 a foaf:Person, od:User ;
+    od:userId 1798 ;
+    foaf:name """Katsumi""" ;
+    rdfs:label """Katsumi""" ;
+    schema:url <https://kitsaplabs.com/od/user/1798> .
+
+od:user-1800 a foaf:Person, od:User ;
+    od:userId 1800 ;
+    foaf:name """MaineMan""" ;
+    rdfs:label """MaineMan""" ;
+    schema:url <https://kitsaplabs.com/od/user/1800> .
+
+od:user-1801 a foaf:Person, od:User ;
+    od:userId 1801 ;
+    foaf:name """ms u riss""" ;
+    rdfs:label """ms u riss""" ;
+    schema:url <https://kitsaplabs.com/od/user/1801> .
+
+od:user-1806 a foaf:Person, od:User ;
+    od:userId 1806 ;
+    foaf:name """Keith Rex""" ;
+    rdfs:label """Keith Rex""" ;
+    schema:url <https://kitsaplabs.com/od/user/1806> .
+
+od:user-1809 a foaf:Person, od:User ;
+    od:userId 1809 ;
+    foaf:name """paul wolfowitz""" ;
+    rdfs:label """paul wolfowitz""" ;
+    schema:url <https://kitsaplabs.com/od/user/1809> .
+
+od:user-1811 a foaf:Person, od:User ;
+    od:userId 1811 ;
+    foaf:name """TheMissouriDandy""" ;
+    rdfs:label """TheMissouriDandy""" ;
+    schema:url <https://kitsaplabs.com/od/user/1811> .
+
+od:user-1813 a foaf:Person, od:User ;
+    od:userId 1813 ;
+    foaf:name """Tomer""" ;
+    rdfs:label """Tomer""" ;
+    schema:url <https://kitsaplabs.com/od/user/1813> .
+
+od:user-1817 a foaf:Person, od:User ;
+    od:userId 1817 ;
+    foaf:name """JaisenPriest""" ;
+    rdfs:label """JaisenPriest""" ;
+    schema:url <https://kitsaplabs.com/od/user/1817> .
+
+od:user-1822 a foaf:Person, od:User ;
+    od:userId 1822 ;
+    foaf:name """Dixie/75""" ;
+    rdfs:label """Dixie/75""" ;
+    schema:url <https://kitsaplabs.com/od/user/1822> .
+
+od:user-1823 a foaf:Person, od:User ;
+    od:userId 1823 ;
+    foaf:name """Gregor""" ;
+    rdfs:label """Gregor""" ;
+    schema:url <https://kitsaplabs.com/od/user/1823> .
+
+od:user-1825 a foaf:Person, od:User ;
+    od:userId 1825 ;
+    foaf:name """Fred Reed""" ;
+    rdfs:label """Fred Reed""" ;
+    schema:url <https://kitsaplabs.com/od/user/1825> .
+
+od:user-1831 a foaf:Person, od:User ;
+    od:userId 1831 ;
+    foaf:name """dneunabe""" ;
+    rdfs:label """dneunabe""" ;
+    schema:url <https://kitsaplabs.com/od/user/1831> .
+
+od:user-1835 a foaf:Person, od:User ;
+    od:userId 1835 ;
+    foaf:name """Bacchus""" ;
+    rdfs:label """Bacchus""" ;
+    schema:url <https://kitsaplabs.com/od/user/1835> .
+
+od:user-1836 a foaf:Person, od:User ;
+    od:userId 1836 ;
+    foaf:name """msp50""" ;
+    rdfs:label """msp50""" ;
+    schema:url <https://kitsaplabs.com/od/user/1836> .
+
+od:user-1837 a foaf:Person, od:User ;
+    od:userId 1837 ;
+    foaf:name """Odd Man Out""" ;
+    rdfs:label """Odd Man Out""" ;
+    schema:url <https://kitsaplabs.com/od/user/1837> .
+
+od:user-1838 a foaf:Person, od:User ;
+    od:userId 1838 ;
+    foaf:name """Hay""" ;
+    rdfs:label """Hay""" ;
+    schema:url <https://kitsaplabs.com/od/user/1838> .
+
+od:user-1841 a foaf:Person, od:User ;
+    od:userId 1841 ;
+    foaf:name """BaconEggCheese""" ;
+    rdfs:label """BaconEggCheese""" ;
+    schema:url <https://kitsaplabs.com/od/user/1841> .
+
+od:user-1842 a foaf:Person, od:User ;
+    od:userId 1842 ;
+    foaf:name """axel01""" ;
+    rdfs:label """axel01""" ;
+    schema:url <https://kitsaplabs.com/od/user/1842> .
+
+od:user-1850 a foaf:Person, od:User ;
+    od:userId 1850 ;
+    foaf:name """Graffin""" ;
+    rdfs:label """Graffin""" ;
+    schema:url <https://kitsaplabs.com/od/user/1850> .
+
+od:user-1851 a foaf:Person, od:User ;
+    od:userId 1851 ;
+    foaf:name """MildmanneredNewbie""" ;
+    rdfs:label """MildmanneredNewbie""" ;
+    schema:url <https://kitsaplabs.com/od/user/1851> .
+

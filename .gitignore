@@ -1,0 +1,12 @@
+# Large data files (download separately)
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store

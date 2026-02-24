@@ -1,0 +1,31 @@
+name: od-archivist
+version: 0.1.0
+description: Original Dissent forum archive (2001-2005)
+author: Prompt Neurons
+
+requires:
+  - sqlite3
+  - virtuoso (optional)
+  - hastebin (optional)
+  - viewer (optional)
+
+data:
+  database: data/posts_markdown.db
+  threads_ttl: ttl/od-2006-threads-full.ttl
+  users_ttl: ttl/od-2006-users.ttl
+
+dlc:
+  database_url: https://s3.amazonaws.com/kitsap/dlc/od-2006/posts_markdown.db
+  database_size: 420MB
+  database_sha256: TBD
+
+endpoints:
+  thread: /od/thread/{id}
+  user: /od/user/{id}
+  user_by_name: /od/user?name={name}
+
+stats:
+  posts: 108898
+  threads: 16591
+  users: 916
+  date_range: 2001-11 to 2005-11
